@@ -161,7 +161,7 @@
       "groupId": "video-tech",
       "name": "IMAX Enhanced",
       "pattern": "(?i)\\b(imax[\\s._-]*enhanced)\\b",
-      "imageURL": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/imax-enchanced.png",
+      "imageURL": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/imax-enhanced.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
