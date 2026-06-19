@@ -226,7 +226,7 @@
       "groupId": "audio-tech",
       "name": "Dolby Digital",
       "pattern": "(?i)\\b(dd[\\s._-]*[0-9][\\s._-]*[0-9]|dd|dolby[\\s._-]*digital|ac-?3)(?![\\s._-]*plus|\\+|p|[a-z])",
-      "imageURL": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Dolby-dv+av.png",
+      "imageURL": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/dolby-digital.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
