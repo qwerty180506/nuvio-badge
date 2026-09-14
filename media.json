@@ -1,7 +1,10 @@
 [
   {
     "name": "Baby and Baby",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/0B338F36-3E5A-4C43-A4DA-06728DB11B05/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0B338F36-3E5A-4C43-A4DA-06728DB11B05/0-16x9.jpg?width=640",
@@ -15,7 +18,10 @@
   },
   {
     "name": "Vijay LLB",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/D1B61FD0-0A7D-40AB-84E0-17774CDE91F7/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/D1B61FD0-0A7D-40AB-84E0-17774CDE91F7/0-16x9.jpg?width=640",
@@ -29,7 +35,10 @@
   },
   {
     "name": "Mr Housekeeping",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/74Gp4yq7o6gvmXROj6I6q6AQhe5.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/61ad4V9N1JAFzT3qaYGh8hhoJNC.jpg",
@@ -64,7 +73,10 @@
   },
   {
     "name": "Ring Ring",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/o8yLMguo0LGo8VM5L0PsjFRxvdB.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/jeJ3wXFqbDHDDh1kP1hfAnNMs3x.jpg",
@@ -102,7 +114,10 @@
   },
   {
     "name": "2K Love Story",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/oM1Dkx5oQFjf1VZLDylg1jqSeGM.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/9Bh5XxokO0q6dXzNiiVhuYKFP2N.jpg",
@@ -140,7 +155,10 @@
   },
   {
     "name": "See - Saw Twisted Balance of Life",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/52CE7A3D-9A98-4C98-B852-923EE41DD684/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/52CE7A3D-9A98-4C98-B852-923EE41DD684/0-16x9.jpg?width=640",
@@ -154,7 +172,10 @@
   },
   {
     "name": "Neela Nira Sooriyan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/A16bQWo3qdA5v75DqisyzXqYHnB.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/sJCiomlSs5YBtanpDpHj4Z4m3lD.jpg",
@@ -191,7 +212,10 @@
   },
   {
     "name": "Kuzhanthaigal Munnetra Kazhagam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/2e0EAtfWaMrBHHDUS6zdbjkfeYj.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/3x4uI6vXuLT35uEiuFEuT8ZMVIZ.jpg",
@@ -229,7 +253,10 @@
   },
   {
     "name": "Finder - Project 1",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/527EF808-8BD3-448F-B75B-96EAF0842A04/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/527EF808-8BD3-448F-B75B-96EAF0842A04/0-16x9.jpg?width=640",
@@ -243,7 +270,10 @@
   },
   {
     "name": "Parari",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/83083817-31CD-4DFD-A72F-A826906C69CC/0-16x9.jpg?width=64027T14:01:27Z",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/83083817-31CD-4DFD-A72F-A826906C69CC/0-16x9.jpg?width=64027T14:01:27Z",
@@ -257,7 +287,10 @@
   },
   {
     "name": "Operation Raavan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/4CwSAsz66GjF4nRcCMoKFkazj3p.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/ooOQjo9Ckq4QBtge9LA5rdjrm7o.jpg",
@@ -299,7 +332,10 @@
   },
   {
     "name": "Bottle Radha",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/25xAm0e2Ez5RpTFqd5i2LISD1C3.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/gO8Ik9RXgxyUYGj5MR9eebp5vkT.jpg",
@@ -341,7 +377,10 @@
   },
   {
     "name": "Madraskaaran",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/zw4imaAGB8cWa4mrwABxHiVS0KR.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/ijchao39geCZIPmxZJS8MWVd0sh.jpg",
@@ -384,7 +423,10 @@
   },
   {
     "name": "Emakku Thozhil Romance",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/muCgRYhmB2B52RHafNG0YX0qOQv.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/kY0P5G65Jh59gsr89HFQVGleuxy.jpg",
@@ -424,7 +466,10 @@
   },
   {
     "name": "The Smile Man",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/A4E4DAAA-923C-4839-836F-FDEBDF5C3396/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/A4E4DAAA-923C-4839-836F-FDEBDF5C3396/0-16x9.jpg?width=640",
@@ -438,7 +483,10 @@
   },
   {
     "name": "Bioscope The Story of The Story",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/BAAB1D0B-6832-4990-8779-E6AB818DB013/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/BAAB1D0B-6832-4990-8779-E6AB818DB013/0-16x9.jpg?width=640",
@@ -452,7 +500,10 @@
   },
   {
     "name": "Once upon a time in Madras",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/waJePev0h6x1zORqCm4A54rfS8p.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/vWkfGnXTaRCrwL60GTarwImLOuQ.jpg",
@@ -494,7 +545,10 @@
   },
   {
     "name": "Family Padam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/uN9APj5ad7UIgdmnRZwuxJy9eVA.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/6lyGdoAqVvkSAAURGv0iRilYxJI.jpg",
@@ -537,7 +591,10 @@
   },
   {
     "name": "Soodhukavvum 2 : Naadum Naattumakkalum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/ED373A74-67AB-46F2-8F5F-AB1DC006B553/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/ED373A74-67AB-46F2-8F5F-AB1DC006B553/0-16x9.jpg?width=640",
@@ -551,7 +608,10 @@
   },
   {
     "name": "Athomugam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/Ad3ktJsF9saPUR3WiQ1zL40kfkN.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/fhQXDsxSbqkC9s87F7ZXPP0eQtJ.jpg",
@@ -589,7 +649,10 @@
   },
   {
     "name": "Aaragan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/e35XoiTtuLSpL6We5kx9GmvX4o4.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/gOdVQAT7qniIUObi75oHUpSJ4Lk.jpg",
@@ -627,7 +690,10 @@
   },
   {
     "name": "Jolly O Gymkhana",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yy6D6pVIdTW3C9Vb6rL0d2jig5G.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/qMnmTSEWsnUUnAinw1xy1WtDCsq.jpg",
@@ -669,7 +735,10 @@
   },
   {
     "name": "Andhagan - The Pianist",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/76FB1CC2-73C7-4223-8EC7-77FE31C3FEE1/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/76FB1CC2-73C7-4223-8EC7-77FE31C3FEE1/0-16x9.jpg?width=640",
@@ -683,7 +752,10 @@
   },
   {
     "name": "White Rose",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/34D06D1C-AF41-43DE-AF7D-ADCE67B3A713/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/34D06D1C-AF41-43DE-AF7D-ADCE67B3A713/0-16x9.jpg?width=640",
@@ -697,7 +769,10 @@
   },
   {
     "name": "Nirangal Moondru",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/sGzSgkWpNIXooUaiXRObhKqdtaN.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/5wr1g2g4cj5lkEDmAbEbT92sU8t.jpg",
@@ -738,7 +813,10 @@
   },
   {
     "name": "Kalinga",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/839D27DE-D539-4D9B-AC47-3C87A13C09FD/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/839D27DE-D539-4D9B-AC47-3C87A13C09FD/0-16x9.jpg?width=640",
@@ -752,7 +830,10 @@
   },
   {
     "name": "SIR",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/692F63C7-B214-4D46-9202-7509AD46153F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/692F63C7-B214-4D46-9202-7509AD46153F/0-16x9.jpg?width=640",
@@ -766,7 +847,10 @@
   },
   {
     "name": "Deepavali Bonus",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/w6pHnbwOJhRzAcv8WXEgtllyCG2.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/si4Bb04vLLkYP6PNkgb8dZrZInz.jpg",
@@ -799,7 +883,10 @@
   },
   {
     "name": "Rocket Driver",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/zDDPm4YdUpmKzVXdxMYdGRVylSp.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/kbLpay8YkYOpOUMt6ud7DXGsCzH.jpg",
@@ -837,7 +924,10 @@
   },
   {
     "name": "Maya Nizhal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/FC3CE10C-9F17-4BFD-83AF-657896D60568/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/FC3CE10C-9F17-4BFD-83AF-657896D60568/0-16x9.jpg?width=640",
@@ -851,7 +941,10 @@
   },
   {
     "name": "Mundhanai Mudichu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/leCu86eAcR9OwKmSL5o23QIN7zv.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/2QDC7HISI4EFMO2ReFEzYYgLF35.jpg",
@@ -894,7 +987,10 @@
   },
   {
     "name": "Vaanam Kottatum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/zpBxNtWod48IFIvwyD8M3hfVsNk.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/Gneo1pGU3BgigUnLOEo0YXBkod.jpg",
@@ -937,7 +1033,10 @@
   },
   {
     "name": "Chennaiyil Vaanam Megamootathudan Kaanapadum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/1IJxoGZh6LMCY3rfA88uw0zWXC8.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/D4C1ABE3-ED96-438C-8FC0-AB3289BABBB5/0-16x9.jpg?width=640",
@@ -977,7 +1076,10 @@
   },
   {
     "name": "Madhurey",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/oCykBqQkGwFK90SldyT6ILdwLXN.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/mIlBJSY2AKCzW7nzbqsXfaX8Xlc.jpg",
@@ -1020,7 +1122,10 @@
   },
   {
     "name": "Uyire",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/hFnvsKwpXTXkTKdmPTJjRGNjd5y.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/o0K15KPzGgmzCpBJpRJVTBCxopl.jpg",
@@ -1057,7 +1162,10 @@
   },
   {
     "name": "Mella Thirandhathu Kadhavu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/92366C9F-2402-4947-A0A3-F079FB14B58A/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/92366C9F-2402-4947-A0A3-F079FB14B58A/0-16x9.jpg?width=640",
@@ -1071,7 +1179,10 @@
   },
   {
     "name": "Nanban Oruvan Vandha Piragu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yszVzY7sK08XFvTfrx4AIgdB910.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/54OIv0X7tP3DCCy4eMPS5jiWFlv.jpg",
@@ -1113,7 +1224,10 @@
   },
   {
     "name": "Mugavaree",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yy8wGIhuVaDDBrJHc9m1VkjsT7H.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/6eDkEBj8c1F75EUT4REMk9CWcRW.jpg",
@@ -1157,7 +1271,10 @@
   },
   {
     "name": "Ratchagan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/852gvRFHLxlzM51kEYc5hnziffV.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/9ElUAN4UutCSR7jnk5JthT0Z1Da.jpg",
@@ -1200,7 +1317,10 @@
   },
   {
     "name": "Sivaji",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9299F76E-8B5A-40DA-8AEE-2B9F33DA0106/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9299F76E-8B5A-40DA-8AEE-2B9F33DA0106/0-16x9.jpg?width=640",
@@ -1214,7 +1334,10 @@
   },
   {
     "name": "Trigger",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/E320EBF0-077B-449C-B4B8-807BFF9584D2/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/E320EBF0-077B-449C-B4B8-807BFF9584D2/0-16x9.jpg?width=640",
@@ -1228,7 +1351,10 @@
   },
   {
     "name": "Server Sundaram",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/E75E6D88-9068-466E-9C6E-465BFC52B836/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/E75E6D88-9068-466E-9C6E-465BFC52B836/0-16x9.jpg?width=640",
@@ -1242,7 +1368,10 @@
   },
   {
     "name": "O Kadhal Kanmani",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/q2uYB5GtoBsgHTedmf2dGOR6vWk.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/uvzzMrSADS3FTBOt4xxfdyLXhXX.jpg",
@@ -1285,7 +1414,10 @@
   },
   {
     "name": "Uriyadi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/E501C80D-7BED-422D-B973-E5F9A5CB6E3F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/E501C80D-7BED-422D-B973-E5F9A5CB6E3F/0-16x9.jpg?width=640",
@@ -1299,7 +1431,10 @@
   },
   {
     "name": "7G Rainbow Colony",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/87qT4iZ3ksBBsiKdqHUJEtZcnum.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/1NyYTmUQ1ZKBlbLAvOjVy9Mb2sE.jpg",
@@ -1343,7 +1478,10 @@
   },
   {
     "name": "Sethum Aayiram Pon",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/p7YlKNQfkySBu9H7gmAv1iIlco7.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/igHyJiYltgdt3fXIPZapWxvR6Vr.jpg",
@@ -1382,7 +1520,10 @@
   },
   {
     "name": "Prasanna Vadanam Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/E9811B47-9359-4C88-8441-E311BBA757DB/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/E9811B47-9359-4C88-8441-E311BBA757DB/0-16x9.jpg?width=640",
@@ -1396,7 +1537,10 @@
   },
   {
     "name": "Maha",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/taDSvcGv72KTzh7uaoj9ruCa5tQ.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/49ZrDtZYIdaALHne3NHwJXI2fu5.jpg",
@@ -1440,7 +1584,10 @@
   },
   {
     "name": "Coffee",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/EF6B0A57-2212-4DFF-8D7E-FB97BB35E20D/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/EF6B0A57-2212-4DFF-8D7E-FB97BB35E20D/0-16x9.jpg?width=640",
@@ -1454,7 +1601,10 @@
   },
   {
     "name": "Dhool",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/oz3a9QkNMLozHegJE4bDY0oxO4Z.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/qIVKlPIvqpqjZQivDalKIbY2jdI.jpg",
@@ -1499,7 +1649,10 @@
   },
   {
     "name": "Sigappu Rojakkal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/lIV9vlniRUJvN9F0CwhKCreREuW.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/zwvhzXMnORZMtefgLaoyESRJ3bb.jpg",
@@ -1539,7 +1692,10 @@
   },
   {
     "name": "Anjaamai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/mGGGGa74sCoOugvfvDXBQ16JlLc.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/zHHrb6KtZ6jBx8miFgZyZKCvbJv.jpg",
@@ -1577,7 +1733,10 @@
   },
   {
     "name": "Laandhar",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/3JtVZ8gr85czU7ipwffiXpFa34i.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/aPwtJczblVQhTyTMcdQSvtn6mw7.jpg",
@@ -1614,7 +1773,10 @@
   },
   {
     "name": "Pogumidam Vegu Thooramillai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/t9PskkYrJpFsS2eobDHwNl39T1J.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/isk42t2VOvQF5qQYpDEEqEehRP6.jpg",
@@ -1658,7 +1820,10 @@
   },
   {
     "name": "Anbe Sivam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/nT556HbikCCLABe8xQ4zQ2QIb0O.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/9QaebfA43SkffIy6sDFje5q0jdk.jpg",
@@ -1701,7 +1866,10 @@
   },
   {
     "name": "Ulagam Sutrum Valiban",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/7ozH4a7wvghc3zzz6Gswdyx6jVq.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/riq0DZg3DQ7XE8jBMFq71SpeLME.jpg",
@@ -1744,7 +1912,10 @@
   },
   {
     "name": "Guna",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ifSabca6z8WY2MnGJ7S4vec6cWt.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/xsH1NrcG0lDLaHuPFGib6LAoFzU.jpg",
@@ -1788,7 +1959,10 @@
   },
   {
     "name": "Nandha",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/fl7I3LPqyMU1HjeHxxTt0bCDUHk.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/xc0ql3Sz2Z6AWRENahcCqMXb01T.jpg",
@@ -1832,7 +2006,10 @@
   },
   {
     "name": "Nibunan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/AlMZ6SUGAOY8xp8UEiHTzgIlnnC.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/81ggYoML1DK08B7vF2G9VBKZb68.jpg",
@@ -1876,7 +2053,10 @@
   },
   {
     "name": "Sangamam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/03B5667E-6F09-47AE-89D3-71EB97E539A0/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/03B5667E-6F09-47AE-89D3-71EB97E539A0/0-16x9.jpg?width=640",
@@ -1890,7 +2070,10 @@
   },
   {
     "name": "Sethupathi Ips",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ywrSp12t6QdWiBPaX4cWGF5A7CP.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/5KnnZZYiC4kzC8pnViL9FbRk1Zb.jpg",
@@ -1933,7 +2116,10 @@
   },
   {
     "name": "Sabhaapathy",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/hGimsV6wpwBygmmP1mN23gqfoiV.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/vuQDBNFnl8RHckp5zhTvxFqJ3ok.jpg",
@@ -1975,7 +2161,10 @@
   },
   {
     "name": "Rhythm",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/02FEEF63-6D3A-4046-90EA-2E85757519C8/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/02FEEF63-6D3A-4046-90EA-2E85757519C8/0-16x9.jpg?width=640",
@@ -1989,7 +2178,10 @@
   },
   {
     "name": "Bhama Kalabam Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/05911F54-21A3-40E6-9C17-DB977FFBB1CA/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/05911F54-21A3-40E6-9C17-DB977FFBB1CA/0-16x9.jpg?width=640",
@@ -2003,7 +2195,10 @@
   },
   {
     "name": "Pothanur Thabal Nilayam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/urw2ifoIBGjGOJpJv7Ak8Q6jwHk.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/gNRU0OaxUYwG2IjLkFMXr3MXWLb.jpg",
@@ -2042,7 +2237,10 @@
   },
   {
     "name": "Kathir",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/09525383-4320-48DE-AA64-5D6208CC676F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/09525383-4320-48DE-AA64-5D6208CC676F/0-16x9.jpg?width=640",
@@ -2056,7 +2254,10 @@
   },
   {
     "name": "Kangalal Kaidhu Sei",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yEtLoHmoRCxuPXB5qSR92Es8bpC.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/098753EC-0AE2-4AE8-B07B-1A6E6D847CEA/0-16x9.jpg?width=640",
@@ -2100,7 +2301,10 @@
   },
   {
     "name": "Minsara Kanavu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/h7a3GSQdt0r1dfQKw9CAkXfEiTk.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/em2X6JSHaioKsRS3StUO3hpbuVg.jpg",
@@ -2144,7 +2348,10 @@
   },
   {
     "name": "Saala",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/snPMaSassBJqbfWoeQyjauykDV7.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/jGsPWjMVj5V53OEfbOV5o0B8WIk.jpg",
@@ -2183,7 +2390,10 @@
   },
   {
     "name": "Bombay",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/11D9C519-9275-4761-834A-9D5446B45F1F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/11D9C519-9275-4761-834A-9D5446B45F1F/0-16x9.jpg?width=640",
@@ -2197,7 +2407,10 @@
   },
   {
     "name": "Irul",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cePtRJSY9UCOrgBI2K6SeThOxz5.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/3FHaE8ngmEJVsd0jWiT8P0LrEhR.jpg",
@@ -2235,7 +2448,10 @@
   },
   {
     "name": "Koogle Kuttappa",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/tdntMAqd72ESpMyfXU3grPmsOgy.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/xpMPZEIsKZUHypwiw5HLMC2A5KW.jpg",
@@ -2279,7 +2495,10 @@
   },
   {
     "name": "Kuruthi Aattam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/6ZXOTifDxQTGmvq2YoFbhNb6SIZ.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/oGhMpfGWPJg0B9UrXayogbsIU2n.jpg",
@@ -2322,7 +2541,10 @@
   },
   {
     "name": "Mr Bharath",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/i8IOcMfgKsehaJ1XnfYabAZBaci.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/oN71dxC43Bn9iuiXJJwa0eZt5oC.jpg",
@@ -2364,7 +2586,10 @@
   },
   {
     "name": "Murattu Kaalai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/1D9C7522-E08C-4A18-A324-C6832827EE7A/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/1D9C7522-E08C-4A18-A324-C6832827EE7A/0-16x9.jpg?width=640",
@@ -2378,7 +2603,10 @@
   },
   {
     "name": "Guardian",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/23D70884-1D6A-40EE-93F1-BD6F45D5FEE2/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/23D70884-1D6A-40EE-93F1-BD6F45D5FEE2/0-16x9.jpg?width=640",
@@ -2392,7 +2620,10 @@
   },
   {
     "name": "Paayum Puli",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/22D20A41-DF04-4D3A-B143-3A4267EA781A/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/22D20A41-DF04-4D3A-B143-3A4267EA781A/0-16x9.jpg?width=640",
@@ -2406,7 +2637,10 @@
   },
   {
     "name": "Kushi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/24C60CF0-B254-44C3-967F-F80DF264AE82/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/24C60CF0-B254-44C3-967F-F80DF264AE82/0-16x9.jpg?width=640",
@@ -2420,7 +2654,10 @@
   },
   {
     "name": "Friendship",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/2573D822-5BC9-4658-BC9A-944CAB13FA09/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2573D822-5BC9-4658-BC9A-944CAB13FA09/0-16x9.jpg?width=640",
@@ -2434,7 +2671,10 @@
   },
   {
     "name": "Gemini Ganeshanum Suruli Raajanum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/13a35ajW4HmVprxAi2rv7bP788v.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/pFf3S2CKa8aydwXfzWPPz56pAVO.jpg",
@@ -2477,7 +2717,10 @@
   },
   {
     "name": "Kuselan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/6Cp1L4hhPa83IF7bA3Ac2VDRN1F.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2BD45FDB-CEE6-4D9B-BF6D-109ACC9621F8/0-16x9.jpg?width=640",
@@ -2519,7 +2762,10 @@
   },
   {
     "name": "Gummalam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/2FB7DA48-62D7-45F2-8668-269FAB46D384/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2FB7DA48-62D7-45F2-8668-269FAB46D384/0-16x9.jpg?width=640",
@@ -2533,7 +2779,10 @@
   },
   {
     "name": "Nedunalvaadai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yaD3E4cU68E8vBMVKaxlnt2jmIg.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/fXgrNo1rWhn8N4XCbjac7HUBAdQ.jpg",
@@ -2573,7 +2822,10 @@
   },
   {
     "name": "Kavalai Vendam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/muuUSDp4F3SKoOyYYIiRddmTJmW.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rU8h67H9nCyPEidu1PU1MO4XRWX.jpg",
@@ -2617,7 +2869,10 @@
   },
   {
     "name": "Pokkiri Raja",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/2CA0B2F9-A62C-4C2E-8A40-E80C2A450DED/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2CA0B2F9-A62C-4C2E-8A40-E80C2A450DED/0-16x9.jpg?width=640",
@@ -2631,7 +2886,10 @@
   },
   {
     "name": "Sivakasi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cdyiZ7y9WBUwpGBk3B4cQmfgyAp.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/bucy9OUvrApA7tkLXIfetNvpv0f.jpg",
@@ -2674,7 +2932,10 @@
   },
   {
     "name": "Kalyanaraman",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/3003DFB8-8A13-4428-9B1A-2B55E54A52E4/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/3003DFB8-8A13-4428-9B1A-2B55E54A52E4/0-16x9.jpg?width=640",
@@ -2688,7 +2949,10 @@
   },
   {
     "name": "Sakalakala Vallavan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/37959F3C-F910-4AFC-AB52-0208E0C8C174/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/37959F3C-F910-4AFC-AB52-0208E0C8C174/0-16x9.jpg?width=640",
@@ -2702,7 +2966,10 @@
   },
   {
     "name": "Manithan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/379BCE7A-C854-4433-B321-8E5A7B90F57D/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/379BCE7A-C854-4433-B321-8E5A7B90F57D/0-16x9.jpg?width=640",
@@ -2716,7 +2983,10 @@
   },
   {
     "name": "Kuththu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/368C12FE-8A86-4DAE-820C-176707785CC4/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/368C12FE-8A86-4DAE-820C-176707785CC4/0-16x9.jpg?width=640",
@@ -2730,7 +3000,10 @@
   },
   {
     "name": "Gokulathil Seethai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/z1e8xXc4IJ0h10UjEFAsYIU76uw.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/380773BB-B3ED-418C-806D-C66186F7B927/0-16x9.jpg?width=640",
@@ -2773,7 +3046,10 @@
   },
   {
     "name": "Trisha Illana Nayanthara",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/dxfph7ywFeqWEx5MMhj505567Iy.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rw7voQT3EFoW7hx5abfz8Rsu6Km.jpg",
@@ -2817,7 +3093,10 @@
   },
   {
     "name": "Harichandra",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/3AFCFCD0-13ED-44B1-941C-1EBA1A4385F3/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/3AFCFCD0-13ED-44B1-941C-1EBA1A4385F3/0-16x9.jpg?width=640",
@@ -2831,7 +3110,10 @@
   },
   {
     "name": "Captain Prabhakaran",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/eXTWfqdPFPBoKhgxY2p1W5hF2fC.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/3F434B26-6A97-4299-9420-8B72655B0C49/0-16x9.jpg?width=640",
@@ -2874,7 +3156,10 @@
   },
   {
     "name": "Thiruda Thirudi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/pIFIZl24G4xrE50sz9JBpH9JDmi.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/xdLt4Pp20p8YvNGDcbhtzWNAKbe.jpg",
@@ -2918,7 +3203,10 @@
   },
   {
     "name": "Draupathi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/55ySI8fh0J1KtcpEsj8iYhPiWIj.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/vQU0UMJceDplsMg4t2SwQfAwq9I.jpg",
@@ -2959,7 +3247,10 @@
   },
   {
     "name": "Payanigal Gavanikavum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/t7AzQbtJf0SboAN5ztCB2yYkogC.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/A2XOHFFT9ptnTqJyfOwGmzFipD9.jpg",
@@ -3002,7 +3293,10 @@
   },
   {
     "name": "Selfie",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/40C284A4-A6CA-4F14-A625-F2DC052DCD9A/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/40C284A4-A6CA-4F14-A625-F2DC052DCD9A/0-16x9.jpg?width=640",
@@ -3016,7 +3310,10 @@
   },
   {
     "name": "Middle Class Madhavan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/vnqyQBnxBLyAMmPQirWGICQv9oh.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/tPSHslQytidwkJZRx0WuQGBt9xb.jpg",
@@ -3058,7 +3355,10 @@
   },
   {
     "name": "Manmadhaleelai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/u1RUeWAT32bkkZODm4xRlrNNFYC.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/uKV2nH7HH55bYe1b8yeFcu2fYWQ.jpg",
@@ -3101,7 +3401,10 @@
   },
   {
     "name": "Bheemaa",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/4BD4476E-E299-4BA4-A0F5-47DE75EAE3FF/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/4BD4476E-E299-4BA4-A0F5-47DE75EAE3FF/0-16x9.jpg?width=640",
@@ -3115,7 +3418,10 @@
   },
   {
     "name": "Avvai Shanmughi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/4A24AC0D-4B85-46C6-AE28-9441416DC99B/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/4A24AC0D-4B85-46C6-AE28-9441416DC99B/0-16x9.jpg?width=640",
@@ -3129,7 +3435,10 @@
   },
   {
     "name": "Andha Naal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/udRWICwrJZVyQqXDSbrC47fbZ88.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/slLptB8CRM9lj5NJce33D8LM8pZ.jpg",
@@ -3170,7 +3479,10 @@
   },
   {
     "name": "Perazhagan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/kjVa2WukH3MGLiDVFMuPuiYOzjN.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/oMuOoatSWwGDtCzFmuKeIOLUdOa.jpg",
@@ -3210,7 +3522,10 @@
   },
   {
     "name": "Gemini",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/4F3E3DF7-3A0A-4230-8FA5-DB708AA9D15C/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/4F3E3DF7-3A0A-4230-8FA5-DB708AA9D15C/0-16x9.jpg?width=640",
@@ -3224,7 +3539,10 @@
   },
   {
     "name": "Per Sollum Pillai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/506BAA98-DA84-4382-B61B-33A39984B948/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/506BAA98-DA84-4382-B61B-33A39984B948/0-16x9.jpg?width=640",
@@ -3238,7 +3556,10 @@
   },
   {
     "name": "Kannathil Muthamittal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/eypuf9fEWnTH6cSx6Pm82QGqp4r.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/wwjEDqlzZ7V6pVORhvuHiiSqh7Z.jpg",
@@ -3281,7 +3602,10 @@
   },
   {
     "name": "Once More",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/55D14EEE-849F-42AD-8942-8D51BA53C59A/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/55D14EEE-849F-42AD-8942-8D51BA53C59A/0-16x9.jpg?width=640",
@@ -3295,7 +3619,10 @@
   },
   {
     "name": "Indian",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/58933833-1D42-4F27-B0EE-55718F3D0B75/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/58933833-1D42-4F27-B0EE-55718F3D0B75/0-16x9.jpg?width=640",
@@ -3309,7 +3636,10 @@
   },
   {
     "name": "Cinderella",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/599AA2DD-4059-4642-B4A3-178E9B69BC39/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/599AA2DD-4059-4642-B4A3-178E9B69BC39/0-16x9.jpg?width=640",
@@ -3323,7 +3653,10 @@
   },
   {
     "name": "Aruvam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/i6wx0LlqYbFO8qb2CuZcfj7dfW9.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/7rMHgiOZHJkB4DPfAgqiALGK2ul.jpg",
@@ -3366,7 +3699,10 @@
   },
   {
     "name": "Diary",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/6349CB61-80AA-4B9F-9954-0A5C7A87B6D1/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/6349CB61-80AA-4B9F-9954-0A5C7A87B6D1/0-16x9.jpg?width=640",
@@ -3380,7 +3716,10 @@
   },
   {
     "name": "Alaipayuthey",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/rnN492zNPK5zvXvDQILm0KRLwD4.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/waEYmE1VqRqcy1OhbjGLBrNCGrh.jpg",
@@ -3423,7 +3762,10 @@
   },
   {
     "name": "Samurai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/647A0C4B-F341-47C2-9511-C6A4DA76D64F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/647A0C4B-F341-47C2-9511-C6A4DA76D64F/0-16x9.jpg?width=640",
@@ -3437,7 +3779,10 @@
   },
   {
     "name": "Love Birds",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/DE6485E9-3DF3-4F41-A4A7-5CD1F340BA2C/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/DE6485E9-3DF3-4F41-A4A7-5CD1F340BA2C/0-16x9.jpg?width=640",
@@ -3451,7 +3796,10 @@
   },
   {
     "name": "Michael Madana Kama Rajan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/3TzfpFmdTuwRczVmJzB3P9xsHGD.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/9BWHLtZmHP5IyaR3JkLCLdxI8mV.jpg",
@@ -3493,7 +3841,10 @@
   },
   {
     "name": "Miga Miga Avasaram",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/wkWgzJY8lQBcdbI1GtkuCEc4ahp.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/d22A1pKCw9VXWXcAVQrmAKYM9oe.jpg",
@@ -3534,7 +3885,10 @@
   },
   {
     "name": "Maamanithan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/msEQk4DTWcPVbHrGKOo4xrCTnBo.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/ccG7S5ycYtlakb9f0ClOgbuuDWV.jpg",
@@ -3576,7 +3930,10 @@
   },
   {
     "name": "The Birthday Boy Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/6C42361B-9FE7-4AB3-8231-C0934D71782D/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/6C42361B-9FE7-4AB3-8231-C0934D71782D/0-16x9.jpg?width=640",
@@ -3590,7 +3947,10 @@
   },
   {
     "name": "Level Cross",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/qBtytEZyFKZhLk2UCzIJuOda7Fu.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/w3SefSCyySZkFBISwabtmfAkDWG.jpg",
@@ -3627,7 +3987,10 @@
   },
   {
     "name": "Samsaram Adhu Minsaram",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/niFCOvyQmK3vA9ULvLdVcB4Tjhl.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/pOgfSX2ycvqaZE5KQGkVng6skPQ.jpg",
@@ -3666,7 +4029,10 @@
   },
   {
     "name": "Five Star",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/7351005A-FB36-4DE8-904F-D7060122D7CF/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/7351005A-FB36-4DE8-904F-D7060122D7CF/0-16x9.jpg?width=640",
@@ -3680,7 +4046,10 @@
   },
   {
     "name": "Thiruda Thiruda",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/9qnecMIRerHdKkuFTeCZXNNVU9z.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/mckbk3xnCXr12b0KQ4BHcrtibWM.jpg",
@@ -3725,7 +4094,10 @@
   },
   {
     "name": "Veera",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/70F091BD-97B0-4D69-88D9-D653B8D1D779/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/70F091BD-97B0-4D69-88D9-D653B8D1D779/0-16x9.jpg?width=640",
@@ -3739,7 +4111,10 @@
   },
   {
     "name": "Manmadhan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/714F9D2F-1006-4DB2-AF79-8E438937DF37/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/714F9D2F-1006-4DB2-AF79-8E438937DF37/0-16x9.jpg?width=640",
@@ -3753,7 +4128,10 @@
   },
   {
     "name": "Sila Nerangalil Sila Manidhargal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/71C1AC07-EFFC-4319-BB94-2B4C98A41632/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/71C1AC07-EFFC-4319-BB94-2B4C98A41632/0-16x9.jpg?width=640",
@@ -3767,7 +4145,10 @@
   },
   {
     "name": "Pudhupettai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/blrGDOlcTbIit4BBS9gW4PsCuYv.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/M0ktNTFtel6IgcOiz5A2v8zYIb.jpg",
@@ -3811,7 +4192,10 @@
   },
   {
     "name": "Nerrukku Ner",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ziOIIjYY6826RebWErF5bDDtlrC.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/742A272E-B081-4EE6-9130-50420F4C8513/0-16x9.jpg?width=640",
@@ -3854,7 +4238,10 @@
   },
   {
     "name": "Nallavanukku Nallavan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/zlSkeVLEsEuCppt3EzKTcrG3Iot.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/9p1hf20oAJL7uH7dqHZ3rPVifyx.jpg",
@@ -3896,7 +4283,10 @@
   },
   {
     "name": "Satyabhama",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/76B2F40E-A93C-453A-AFCA-184A7EEFA900/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/76B2F40E-A93C-453A-AFCA-184A7EEFA900/0-16x9.jpg?width=640",
@@ -3910,7 +4300,10 @@
   },
   {
     "name": "Kalathur Kannamma",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/hqecHSDJU8bMFzikg3hJxmhc8OO.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/qrtBb1lWgZRkYKlPzVTtMUahyMp.jpg",
@@ -3953,7 +4346,10 @@
   },
   {
     "name": "Aboorva Ragangal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/784B2F30-190E-4301-8C17-A7F57FD74857/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/784B2F30-190E-4301-8C17-A7F57FD74857/0-16x9.jpg?width=640",
@@ -3967,7 +4363,10 @@
   },
   {
     "name": "Kottukkaali",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/7C4F61E7-8E31-40C8-B80F-59F5489C810D/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/7C4F61E7-8E31-40C8-B80F-59F5489C810D/0-16x9.jpg?width=640",
@@ -3981,7 +4380,10 @@
   },
   {
     "name": "Kadhal Sadugudu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/hXU5VytWxzjW13njSVItbzJURrm.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/maGyJoGt65dqi5eB7HpvwshaSss.jpg",
@@ -4024,7 +4426,10 @@
   },
   {
     "name": "Boat",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/6lq6Ra0nurxDEIUBSAV6yIDwZCs.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/npRqGWD14Z4XrrUPRJxnL5djbJ4.jpg",
@@ -4058,7 +4463,10 @@
   },
   {
     "name": "Jeans",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/7E449D22-7554-4CFB-B58D-C8C60849D434/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/7E449D22-7554-4CFB-B58D-C8C60849D434/0-16x9.jpg?width=640",
@@ -4072,7 +4480,10 @@
   },
   {
     "name": "Super Kudumbam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/7E90628E-C5CA-4D2F-AFBF-044DBBFD51AB/0-16x9.jpg?width=640",
       "bg": "https://image.tmdb.org/t/p/w1280/9DBoAknomzVMFyAfgnZgRxZDZn7.jpg",
@@ -4114,7 +4525,10 @@
   },
   {
     "name": "Uyarndha Ullam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/llRrt5Zkk8xQTZcPiZL91iFwX25.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/ktmTHMuazIRoZcBFTZge3gmvGhd.jpg",
@@ -4154,7 +4568,10 @@
   },
   {
     "name": "En Purushan Kuzhandhai Maadhiri",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/88234F1C-435D-4692-9382-859DF7B885F2/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/88234F1C-435D-4692-9382-859DF7B885F2/0-16x9.jpg?width=640",
@@ -4168,7 +4585,10 @@
   },
   {
     "name": "Varumayin Niram Sivappu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/vuKtNy3xApXNbT7wIFru5PTEsFU.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/lGU30X5XYSbtG7kTYC2cU6tQq9f.jpg",
@@ -4210,7 +4630,10 @@
   },
   {
     "name": "Vellaiya Irukiravan Poi Solla Maatan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/j9Iy6bD6s21zfqq8YB5BovC31aC.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/bX9VRKRMbE5TisTPPGSbSSOyHkL.jpg",
@@ -4250,7 +4673,10 @@
   },
   {
     "name": "Yajaman",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/8C63CFCD-58D7-44E3-9A31-6115DD89A855/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/8C63CFCD-58D7-44E3-9A31-6115DD89A855/0-16x9.jpg?width=640",
@@ -4264,7 +4690,10 @@
   },
   {
     "name": "Mr Madras",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/8C81C9F8-9CAD-4D05-B3DB-AD525408B3B4/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/8C81C9F8-9CAD-4D05-B3DB-AD525408B3B4/0-16x9.jpg?width=640",
@@ -4307,7 +4736,10 @@
   },
   {
     "name": "Thoongathey Thambi Thoongathey",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/8E7A45BF-ECDF-4DB6-9B07-45CA7F4BD7DE/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/8E7A45BF-ECDF-4DB6-9B07-45CA7F4BD7DE/0-16x9.jpg?width=640",
@@ -4321,7 +4753,10 @@
   },
   {
     "name": "Bheemla Nayak Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/93C10EC8-8CAD-461C-B411-27F1D1267D73/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/93C10EC8-8CAD-461C-B411-27F1D1267D73/0-16x9.jpg?width=640",
@@ -4335,7 +4770,10 @@
   },
   {
     "name": "Raja Chinna Roja",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/aqldDxluanw1JhC0qPesAdWUCCe.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/g3rJq0w9Fg9ZgatL1WhDB8E32XP.jpg",
@@ -4379,7 +4817,10 @@
   },
   {
     "name": "Aasai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/903C29D4-477B-4B88-8442-0131C84D0F99/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/903C29D4-477B-4B88-8442-0131C84D0F99/0-16x9.jpg?width=640",
@@ -4393,7 +4834,10 @@
   },
   {
     "name": "Dumm Dumm Dumm",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/vBV5gOp2sqJDglFfTY19Zs26MbC.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/mMH6yNeWVUFvTvPXjuazi0NVkyo.jpg",
@@ -4436,7 +4880,10 @@
   },
   {
     "name": "Ghilli",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/aUvUohnBgX5sbuMKNyKDAPAoVNc.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/wSFbFtoEmb9vziQVatktYi585gf.jpg",
@@ -4481,7 +4928,10 @@
   },
   {
     "name": "Ayngaran",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/nDEMetMugPfTxslrCb5pP0EpvKn.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/1hAjL8ZAA55g0b7ZHC3AgSyqzPv.jpg",
@@ -4524,7 +4974,10 @@
   },
   {
     "name": "Jail",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9694E610-95A8-4C1F-B662-3C954529E996/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9694E610-95A8-4C1F-B662-3C954529E996/0-16x9.jpg?width=640",
@@ -4538,7 +4991,10 @@
   },
   {
     "name": "Vidiyum Munn",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cBimCtb1QcbRWsNojz6l7ktM4jo.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/pVlcv2IekPNHBlAieBBUroDfGZ6.jpg",
@@ -4580,7 +5036,10 @@
   },
   {
     "name": "Kavundampalayam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/xRXHPlTfPkV7HkP1J1pwiTD7fbT.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/bUDBvJ7k1p5ZHxpXWz39CMsl6a2.jpg",
@@ -4616,7 +5075,10 @@
   },
   {
     "name": "Jiivi Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/994DEE91-E77D-4839-B4A2-E0FAB872D851/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/994DEE91-E77D-4839-B4A2-E0FAB872D851/0-16x9.jpg?width=640",
@@ -4630,7 +5092,10 @@
   },
   {
     "name": "Friends",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9C97C04A-9180-4E0B-B913-9F2972CBA2E5/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9C97C04A-9180-4E0B-B913-9F2972CBA2E5/0-16x9.jpg?width=640",
@@ -4644,7 +5109,10 @@
   },
   {
     "name": "Maanagara Kaaval",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/wzvaMyemnkaCpRVAiRKcGlVdzYg.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9E097616-1019-482C-B21A-1B3DFD8400A7/0-16x9.jpg?width=640",
@@ -4687,7 +5155,10 @@
   },
   {
     "name": "Suttu Pidikka Utharavu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/mIjglzVOeQRvI85eox9GqZdCDFx.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/70TTOG242VRFeATzGZymnZTdX0e.jpg",
@@ -4726,7 +5197,10 @@
   },
   {
     "name": "Run Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/A123AD13-3C0D-4CBF-8965-A9190E074E35/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/A123AD13-3C0D-4CBF-8965-A9190E074E35/0-16x9.jpg?width=640",
@@ -4740,7 +5214,10 @@
   },
   {
     "name": "Kadhalar Dhinam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/A24A2CB3-1C3A-48B2-A584-78A7B474B134/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/A24A2CB3-1C3A-48B2-A584-78A7B474B134/0-16x9.jpg?width=640",
@@ -4754,7 +5231,10 @@
   },
   {
     "name": "Kovil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/3b8gaiVsRrvqntYlBDdUXdytWbm.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/A580DEC9-A946-4610-A6A1-103AAF1E4F4B/0-16x9.jpg?width=640",
@@ -4795,7 +5275,10 @@
   },
   {
     "name": "Mullum Malarum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ArldlE3LPlACZpzM6WFmfT16S82.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/kYq8IbSg5QUyRUgJXHIU4BYsv4i.jpg",
@@ -4833,7 +5316,10 @@
   },
   {
     "name": "Iruvar",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/tyg4Fi9d6SzsemN8uhTuznKZUmD.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/zGl6uKZ1MSw8rSdvFHmnFCXnBTH.jpg",
@@ -4876,7 +5362,10 @@
   },
   {
     "name": "Thamizh",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/7iR3Z3OtyJVgbaGn2FK0WLF5NN2.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/B3B35837-BD0E-4E2D-97CB-2C9AFAB2814D/0-16x9.jpg?width=640",
@@ -4919,7 +5408,10 @@
   },
   {
     "name": "Mounam Pesiyadhe",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/nvgnteJqmaxIyyaJrZuoRhYi5kb.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/zd6tAFtBNiURNYXxlVWIWh9MNTC.jpg",
@@ -4959,7 +5451,10 @@
   },
   {
     "name": "Parasakthi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/B2EE9A7E-2481-44CA-ACAE-EC9E177FDE9A/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/B2EE9A7E-2481-44CA-ACAE-EC9E177FDE9A/0-16x9.jpg?width=640",
@@ -4973,7 +5468,10 @@
   },
   {
     "name": "Sixer",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/Cw4fcELKfH62GwHHTNLylpSuv8.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/pPO1WbJG7yRFCLX0BYi6chPvVdy.jpg",
@@ -5016,7 +5514,10 @@
   },
   {
     "name": "Paatti Sollai Thattathe",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/3aMbBQ4eZc7PfpVncYkL3EFB391.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/oDvIFiRv54ZJ4PbUyDk3f01Qdak.jpg",
@@ -5044,7 +5545,10 @@
   },
   {
     "name": "Gurkha",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/BDE11654-57E0-4A8C-AEF8-801F476CCF53/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/BDE11654-57E0-4A8C-AEF8-801F476CCF53/0-16x9.jpg?width=640",
@@ -5058,7 +5562,10 @@
   },
   {
     "name": "Pechi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/BF120654-71F7-4FB3-A024-7C66C702321C/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/BF120654-71F7-4FB3-A024-7C66C702321C/0-16x9.jpg?width=640",
@@ -5072,7 +5579,10 @@
   },
   {
     "name": "Priyamaana Thozhi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/xAbeLoKEkOg5nK3uuB2imWvJlr9.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/eDyJ4EWiPplxyNkgt3kTNBa0O1A.jpg",
@@ -5112,7 +5622,10 @@
   },
   {
     "name": "Thillu Mullu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/C1F38AB8-6F94-4202-81E0-93D21DD29BEF/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/C1F38AB8-6F94-4202-81E0-93D21DD29BEF/0-16x9.jpg?width=640",
@@ -5126,7 +5639,10 @@
   },
   {
     "name": "Nayaki",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/6SSNegvgK5MRMd44xYTtXedRHci.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/hlgQ9BZu3KTBFyFdOydIHb9Z7Gw.jpg",
@@ -5169,7 +5685,10 @@
   },
   {
     "name": "Writer",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/C73CA665-29A5-48B2-9366-3D27F39C29AD/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/C73CA665-29A5-48B2-9366-3D27F39C29AD/0-16x9.jpg?width=640",
@@ -5183,7 +5702,10 @@
   },
   {
     "name": "Anbe Vaa",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/nj7FSHLitNPDOn0dOTd0OsMkwN7.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/AgW8e9q6OA691Zi39ai1htD87d9.jpg",
@@ -5227,7 +5749,10 @@
   },
   {
     "name": "Kaalangalil Aval Vasantham",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/tsfH8ZvAxpF59nCCzI6glX5xU4o.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/bSv5JgFY5tlJOVSf30lA5H3wyd2.jpg",
@@ -5270,7 +5795,10 @@
   },
   {
     "name": "Sattur Railway Station",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/3gjt6oKDHccysnj30dj5nik8wem.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/5k9OlRLmGG9pgmmjEYlm1tVrCjN.jpg",
@@ -5314,7 +5842,10 @@
   },
   {
     "name": "Pudhumai Penn",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/a8OFYKTH4PHGoxUKJN06I1AWlKQ.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/D3F7F4AB-6FF8-46C8-8013-97D1A969D2B5/0-16x9.jpg?width=640",
@@ -5354,7 +5885,10 @@
   },
   {
     "name": "Bhama Kalabam2 Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/E1CB5E5E-B1DA-40C6-9579-66686EEACA63/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/E1CB5E5E-B1DA-40C6-9579-66686EEACA63/0-16x9.jpg?width=640",
@@ -5368,7 +5902,10 @@
   },
   {
     "name": "Aval Appadithan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/4SqbUTxUT6v59SYtlcFHkq6eTwo.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rWkSToncoWb9BZ0m2sVWl5mTQcQ.jpg",
@@ -5408,7 +5945,10 @@
   },
   {
     "name": "Mail Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/ECF6572E-71BA-4B24-B0EF-0FEBDE006836/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/ECF6572E-71BA-4B24-B0EF-0FEBDE006836/0-16x9.jpg?width=640",
@@ -5422,7 +5962,10 @@
   },
   {
     "name": "Richie",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/0560E36D-275A-43A0-BFDA-04B5EBBFB379/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0560E36D-275A-43A0-BFDA-04B5EBBFB379/0-16x9.jpg?width=640",
@@ -5436,7 +5979,10 @@
   },
   {
     "name": "Tamil Kudimagan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/6iMKcI2Q6vSG50VhjkiOoLjJqgz.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/5fLZlYYQlqXXyL8fArBcLqQfk8x.jpg",
@@ -5478,7 +6024,10 @@
   },
   {
     "name": "Unnaruge Naan Irundhal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/LPt5jUUTN09ZigZ4ZUswJg6oJI.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/hyCTKxxHlqSjk7Dn0VZHmlz0VF2.jpg",
@@ -5514,7 +6063,10 @@
   },
   {
     "name": "Kaalamellam Kadhal Vazhga",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/0ACF86A1-6809-49AF-B4A9-BF1BF41886AC/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0ACF86A1-6809-49AF-B4A9-BF1BF41886AC/0-16x9.jpg?width=640",
@@ -5528,7 +6080,10 @@
   },
   {
     "name": "Kaadhal Rewind",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/1B78CE92-EAD6-42CA-866A-0156E76CC5E9/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/1B78CE92-EAD6-42CA-866A-0156E76CC5E9/0-16x9.jpg?width=640",
@@ -5542,7 +6097,10 @@
   },
   {
     "name": "Rathasaatchi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/f5QIIcRXN6YJ6dImBTTkR65ouN0.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/vIt1pp1zNe0BgMcFyyyuVxuXU00.jpg",
@@ -5585,7 +6143,10 @@
   },
   {
     "name": "Jiivi 2",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/b6fAIyYBA0gUluwg8whx7DJfFIQ.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/55wwR4s2T1hf6d9VdTAt20xkenY.jpg",
@@ -5628,7 +6189,10 @@
   },
   {
     "name": "Dharmapuri",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/bZRVDrhUy9Ydqx7yFTzqjBXBilB.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/289E1625-4851-4003-9533-DF734E98D9AE/0-16x9.jpg?width=640",
@@ -5668,7 +6232,10 @@
   },
   {
     "name": "Repeat",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/2D42E9B8-EBA2-40D7-8E1D-C2BA24AA4A9F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2D42E9B8-EBA2-40D7-8E1D-C2BA24AA4A9F/0-16x9.jpg?width=640",
@@ -5682,7 +6249,10 @@
   },
   {
     "name": "Sonthakkaran",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/2E64B97D-F1D3-43F5-86C8-B45E65825C50/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2E64B97D-F1D3-43F5-86C8-B45E65825C50/0-16x9.jpg?width=640",
@@ -5726,7 +6296,10 @@
   },
   {
     "name": "Guru Sishyan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/330A95C0-3B93-42C2-A3F1-A5F5A8BF5A30/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/330A95C0-3B93-42C2-A3F1-A5F5A8BF5A30/0-16x9.jpg?width=640",
@@ -5740,7 +6313,10 @@
   },
   {
     "name": "Vasantha Mullai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/85qkXShLwTYZHYFOzaA6MbWqnjG.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/p6mTSihi3IfROqqkaKEwslNqg3P.jpg",
@@ -5783,7 +6359,10 @@
   },
   {
     "name": "Payanigal Gavanikavum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/t7AzQbtJf0SboAN5ztCB2yYkogC.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/A2XOHFFT9ptnTqJyfOwGmzFipD9.jpg",
@@ -5826,7 +6405,10 @@
   },
   {
     "name": "Vadakkupatti Ramasamy",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/9gX8pe70Yb4j6QMHvz7KdjTv5zP.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/xXrcPNEKf9FXb74NoNddiCkvIj9.jpg",
@@ -5871,7 +6453,10 @@
   },
   {
     "name": "Driver Jamuna",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cev24xOOl5BFPgKOZCCREkTVW8w.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/sakfYi9HqLeLkDYggOtMuayqmlQ.jpg",
@@ -5914,7 +6499,10 @@
   },
   {
     "name": "Aranmanai Kaavalan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cGPPrWjhLsenmMm0KnaeFcCFl8r.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/4BCAD1CC-369C-4393-B6E8-2485272C6F71/0-16x9.jpg?width=640",
@@ -5953,7 +6541,10 @@
   },
   {
     "name": "Love",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yz6lmOmsmYuj6AOLG4LIwK5eJZF.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/hoszursvZR1C054sTXVQBcBDory.jpg",
@@ -5998,7 +6589,10 @@
   },
   {
     "name": "Deiva Machan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/kjnuXurwCmwuiKeN6kKVr3sSzPl.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/hYd9LfjlPPqhRqSfQmlNmEwDWcF.jpg",
@@ -6042,7 +6636,10 @@
   },
   {
     "name": "Kuttram Kuttrame",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/eDaFfX6sqf7FKYXlWbi1NcYEG2m.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/whtSQsZZbraiF1Y6DXQVWxUegdd.jpg",
@@ -6085,7 +6682,10 @@
   },
   {
     "name": "Andhra Mess",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yBuWGqhGKEggKXafKW5A2vkDlhi.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/1tpcaGy5k7d3XF9wi3rKsqxLu9R.jpg",
@@ -6128,7 +6728,10 @@
   },
   {
     "name": "Konjam Pesinal Enna",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/716A9FA2-0899-4390-A12C-61A34F6689B6/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/716A9FA2-0899-4390-A12C-61A34F6689B6/0-16x9.jpg?width=640",
@@ -6142,7 +6745,10 @@
   },
   {
     "name": "Senjitaley En Kadhala",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/c7rAyigUPbILPABNb6sE5qH0K2U.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/6SlWRws538bc4trif2g1j0MF2M5.jpg",
@@ -6184,7 +6790,10 @@
   },
   {
     "name": "Are You Ok Baby",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/3eLw2weWLeVyWw6s1CVWIlEVlj5.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/la6NrDLTKNxjYEz5J56hsXCD1FQ.jpg",
@@ -6227,7 +6836,10 @@
   },
   {
     "name": "Bambara Kannaley",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ig1zlGQ0PXWj4m01G37WXQ6OxFI.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rO6qXw2LVDnzuLOkbAVSJe2YCTL.jpg",
@@ -6267,7 +6879,10 @@
   },
   {
     "name": "Ippadiku Kadhal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cr8WmSsmwx3lcOSkG5VLnIVcKW0.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/aGoUpuZX69mpGhcYlqj5MulLuUh.jpg",
@@ -6309,7 +6924,10 @@
   },
   {
     "name": "Idi Minnal Kadhal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/1q1y0rutBM12M6KZXJczmPymNFv.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/evpyrh2KdFVX0TBx6BtME8vsUUu.jpg",
@@ -6352,7 +6970,10 @@
   },
   {
     "name": "Enna Satham Indha Neram",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/N8duAklUTgh7xImdDWxd2S8Zw6.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9A5E9B0A-B5D6-458B-A4AF-19E19953FFEB/0-16x9.jpg?width=640",
@@ -6388,7 +7009,10 @@
   },
   {
     "name": "Tirupathi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9D707643-6C44-4A8F-ADAE-45B2DD0EEFCC/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9D707643-6C44-4A8F-ADAE-45B2DD0EEFCC/0-16x9.jpg?width=640",
@@ -6402,7 +7026,10 @@
   },
   {
     "name": "Maalai Nera Malipoo",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/5JQPJNIjNVxlHcx9VX5pvKUj3LQ.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/mlaq0055pIRfBeMqp6KmuDM2KvB.jpg",
@@ -6440,7 +7067,10 @@
   },
   {
     "name": "Ennodu Vilayadu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/u6z8aYKKxPJlEii4oRg8XJrvPYv.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/oPUsaOAlIUCEdizSLsy6djL6Xae.jpg",
@@ -6482,7 +7112,10 @@
   },
   {
     "name": "Dinosaurs",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/B28F1C68-1C3C-4E56-963E-1D11AD6BE52F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/B28F1C68-1C3C-4E56-963E-1D11AD6BE52F/0-16x9.jpg?width=640",
@@ -6496,7 +7129,10 @@
   },
   {
     "name": "Red Sandal Wood",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/e3mAfFdiKrdhQ3lHtzGRYBWDggj.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/nbNNg1B3cCRcRYVYNrBUA5QOa0d.jpg",
@@ -6539,7 +7175,10 @@
   },
   {
     "name": "Night Drive",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/FB55D180-6592-43D1-A920-22180AF30BF4/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/FB55D180-6592-43D1-A920-22180AF30BF4/0-16x9.jpg?width=640",
@@ -6553,7 +7192,10 @@
   },
   {
     "name": "Jothi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/F969BF49-6273-41BA-B2EB-9ED60907F0D5/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/F969BF49-6273-41BA-B2EB-9ED60907F0D5/0-16x9.jpg?width=640",
@@ -6567,7 +7209,10 @@
   },
   {
     "name": "Kanni Maadam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/hltYb6rPM7DxcEjD5JcLTo29jus.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/FFF1C87A-29F8-4E9E-BD1C-0E6F1D63EA03/0-16x9.jpg?width=640",
@@ -6605,7 +7250,10 @@
   },
   {
     "name": "Indhu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/hSlGK6BHk0VlPwIFx7Dqi9kCJ4X.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/D3B7DF58-9E98-4017-A1F0-F56807518D44/0-16x9.jpg?width=640",
@@ -6630,7 +7278,10 @@
   },
   {
     "name": "Odavum Mudiyathu Oliyavum Mudiyathu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/D3D96AC2-D6DF-4B44-8186-3FD83F9279F3/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/D3D96AC2-D6DF-4B44-8186-3FD83F9279F3/0-16x9.jpg?width=640",
@@ -6644,7 +7295,10 @@
   },
   {
     "name": "Hitlist",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/vkuvf6tx5cyJbW2t4WnfY80cPXp.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/yTnr52EvRGhFG8S6Ys2nWoyMqcu.jpg",
@@ -6689,7 +7343,10 @@
   },
   {
     "name": "Thalaivaa",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/5h2SfwKTbbp0T21kjrOPU3QMaHn.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/hQ0XzOn6dYLtGKiddS9kRbkAIdf.jpg",
@@ -6733,7 +7390,10 @@
   },
   {
     "name": "Mission Chapter1",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cpDtEjfzys5p8f5cv1T9l8Iqjel.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/o04ukcp7MHlt9AYxJh61EEfSTNR.jpg",
@@ -6771,7 +7431,10 @@
   },
   {
     "name": "Pulan Visaranai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/4OsX0XpLETZRbnz3wCRRuUUcnxs.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rQ5oJ2tIbuynzTGcX5nVxLQS2GJ.jpg",
@@ -6815,7 +7478,10 @@
   },
   {
     "name": "Endrendrum Kadhal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/q2YbSjRa2WMasN9Ire6VnnoKQO0.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rxsXXbiHLsZlN5poEnYObaiyRtq.jpg",
@@ -6855,7 +7521,10 @@
   },
   {
     "name": "Weapon",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/fdt3P8CO2OpawTlzvTtvsECJjK6.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/4DUCENddzWPq5Shcbf3hDpHX58z.jpg",
@@ -6898,7 +7567,10 @@
   },
   {
     "name": "Anjaneya",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/jn3eXGEkAMDo3ufmlTWl0TFcGCg.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/EAF82A5F-388A-41B2-AE79-533B121DF62E/0-16x9.jpg?width=640",
@@ -6941,7 +7613,10 @@
   },
   {
     "name": "Birthmark Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/EF4F9AC4-A4B9-428D-B738-5958772CC1AC/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/EF4F9AC4-A4B9-428D-B738-5958772CC1AC/0-16x9.jpg?width=640",
@@ -6955,7 +7630,10 @@
   },
   {
     "name": "Aneethi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/mBb8HNk1Iz7jeZxqhaFPEWXbLxs.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/xzmz81tAyhXS2bgiWDT7AlDl6pV.jpg",
@@ -6998,7 +7676,10 @@
   },
   {
     "name": "Vetri Kodi Kattu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/fMla2GlgaJa0aQsuclxmboTfOiz.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/03840DDD-1377-4F57-8850-50CEEB772ADD/0-16x9.jpg?width=640",
@@ -7041,7 +7722,10 @@
   },
   {
     "name": "Maharasan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/373d8Ch3PMH7ZZeS6cLZcECbG6a.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0B25AF84-CA91-4B11-A0A3-5A2F5A3F2DED/0-16x9.jpg?width=640",
@@ -7083,7 +7767,10 @@
   },
   {
     "name": "Ghost",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/0F780C11-2A45-440D-8FDB-9F740F0392F3/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0F780C11-2A45-440D-8FDB-9F740F0392F3/0-16x9.jpg?width=640",
@@ -7097,7 +7784,10 @@
   },
   {
     "name": "Dirty Hari Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/0EF9C319-81E2-42FE-A856-E8B3FECC92D7/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0EF9C319-81E2-42FE-A856-E8B3FECC92D7/0-16x9.jpg?width=640",
@@ -7111,7 +7801,10 @@
   },
   {
     "name": "Regina",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/10C5972C-8573-4BF7-94BD-12713094C72E/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/10C5972C-8573-4BF7-94BD-12713094C72E/0-16x9.jpg?width=640",
@@ -7125,7 +7818,10 @@
   },
   {
     "name": "Kadhal Mannan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/pBRu82BSltCBLtN1JeIrnhVM0oI.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/9BEav1t3F0E7yLCPfBeV7BZko1s.jpg",
@@ -7168,7 +7864,10 @@
   },
   {
     "name": "Indhu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/hSlGK6BHk0VlPwIFx7Dqi9kCJ4X.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/D3B7DF58-9E98-4017-A1F0-F56807518D44/0-16x9.jpg?width=640",
@@ -7193,7 +7892,10 @@
   },
   {
     "name": "Odavum Mudiyathu Oliyavum Mudiyathu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/D3D96AC2-D6DF-4B44-8186-3FD83F9279F3/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/D3D96AC2-D6DF-4B44-8186-3FD83F9279F3/0-16x9.jpg?width=640",
@@ -7207,7 +7909,10 @@
   },
   {
     "name": "Hitlist",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/vkuvf6tx5cyJbW2t4WnfY80cPXp.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/yTnr52EvRGhFG8S6Ys2nWoyMqcu.jpg",
@@ -7252,7 +7957,10 @@
   },
   {
     "name": "Thalaivaa",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/5h2SfwKTbbp0T21kjrOPU3QMaHn.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/hQ0XzOn6dYLtGKiddS9kRbkAIdf.jpg",
@@ -7296,7 +8004,10 @@
   },
   {
     "name": "Mission Chapter1",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cpDtEjfzys5p8f5cv1T9l8Iqjel.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/o04ukcp7MHlt9AYxJh61EEfSTNR.jpg",
@@ -7334,7 +8045,10 @@
   },
   {
     "name": "Pulan Visaranai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/4OsX0XpLETZRbnz3wCRRuUUcnxs.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rQ5oJ2tIbuynzTGcX5nVxLQS2GJ.jpg",
@@ -7378,7 +8092,10 @@
   },
   {
     "name": "Endrendrum Kadhal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/q2YbSjRa2WMasN9Ire6VnnoKQO0.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/rxsXXbiHLsZlN5poEnYObaiyRtq.jpg",
@@ -7418,7 +8135,10 @@
   },
   {
     "name": "Weapon",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/fdt3P8CO2OpawTlzvTtvsECJjK6.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/4DUCENddzWPq5Shcbf3hDpHX58z.jpg",
@@ -7461,7 +8181,10 @@
   },
   {
     "name": "Anjaneya",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/jn3eXGEkAMDo3ufmlTWl0TFcGCg.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/EAF82A5F-388A-41B2-AE79-533B121DF62E/0-16x9.jpg?width=640",
@@ -7504,7 +8227,10 @@
   },
   {
     "name": "Birthmark Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/EF4F9AC4-A4B9-428D-B738-5958772CC1AC/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/EF4F9AC4-A4B9-428D-B738-5958772CC1AC/0-16x9.jpg?width=640",
@@ -7518,7 +8244,10 @@
   },
   {
     "name": "Aneethi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/mBb8HNk1Iz7jeZxqhaFPEWXbLxs.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/xzmz81tAyhXS2bgiWDT7AlDl6pV.jpg",
@@ -7561,7 +8290,10 @@
   },
   {
     "name": "Vetri Kodi Kattu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/fMla2GlgaJa0aQsuclxmboTfOiz.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/03840DDD-1377-4F57-8850-50CEEB772ADD/0-16x9.jpg?width=640",
@@ -7604,7 +8336,10 @@
   },
   {
     "name": "Maharasan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/373d8Ch3PMH7ZZeS6cLZcECbG6a.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0B25AF84-CA91-4B11-A0A3-5A2F5A3F2DED/0-16x9.jpg?width=640",
@@ -7646,7 +8381,10 @@
   },
   {
     "name": "Ghost",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/0F780C11-2A45-440D-8FDB-9F740F0392F3/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0F780C11-2A45-440D-8FDB-9F740F0392F3/0-16x9.jpg?width=640",
@@ -7660,7 +8398,10 @@
   },
   {
     "name": "Dirty Hari Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/0EF9C319-81E2-42FE-A856-E8B3FECC92D7/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/0EF9C319-81E2-42FE-A856-E8B3FECC92D7/0-16x9.jpg?width=640",
@@ -7674,7 +8415,10 @@
   },
   {
     "name": "Regina",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/10C5972C-8573-4BF7-94BD-12713094C72E/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/10C5972C-8573-4BF7-94BD-12713094C72E/0-16x9.jpg?width=640",
@@ -7688,7 +8432,10 @@
   },
   {
     "name": "Kadhal Mannan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/pBRu82BSltCBLtN1JeIrnhVM0oI.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/9BEav1t3F0E7yLCPfBeV7BZko1s.jpg",
@@ -7731,7 +8478,10 @@
   },
   {
     "name": "Pagalariyaan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/6nKzJVNRwEJ6T8aQiuRnXc276OC.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/5h9Vcwxg8nmcaACpSyqWQMMC3hk.jpg",
@@ -7769,7 +8519,10 @@
   },
   {
     "name": "Maal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/12B87A4C-4A39-4B0E-BC13-D76773424E7D/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/12B87A4C-4A39-4B0E-BC13-D76773424E7D/0-16x9.jpg?width=640",
@@ -7783,7 +8536,10 @@
   },
   {
     "name": "Michael",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/158236A8-60F8-473A-BF47-C1A05256710C/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/158236A8-60F8-473A-BF47-C1A05256710C/0-16x9.jpg?width=640",
@@ -7797,7 +8553,10 @@
   },
   {
     "name": "Ulagam Pirandhadhu Enakaga",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/1FE175F5-6C76-4672-85E8-19246FA4A5D0/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/1FE175F5-6C76-4672-85E8-19246FA4A5D0/0-16x9.jpg?width=640",
@@ -7811,7 +8570,10 @@
   },
   {
     "name": "Bharathan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ddHIZpIq6iQdIWbOJIYsfo3gozP.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/1FBA03FB-1F09-45BF-9629-B2D5F252BB65/0-16x9.jpg?width=640",
@@ -7851,7 +8613,10 @@
   },
   {
     "name": "Paramporul",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/9MeB5UtD7UPT22Vn10d8Ialvk19.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/fgWZZzGk5SBcQSapa9Q1B4qlxWt.jpg",
@@ -7892,7 +8657,10 @@
   },
   {
     "name": "Udanpaal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/z18QJpZ4ySiAKGXgIPDZG4aNV3Q.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/j7NcEEjJUIuNkz9mkVE8jP0OamF.jpg",
@@ -7935,7 +8703,10 @@
   },
   {
     "name": "Burqa",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/21D42F8E-15D8-4C7C-8EDC-16BBCB5BE563/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/21D42F8E-15D8-4C7C-8EDC-16BBCB5BE563/0-16x9.jpg?width=640",
@@ -7949,7 +8720,10 @@
   },
   {
     "name": "Sema Ragalai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/amowMJpD6KXUElOI62xZsJp9c7s.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/qoNQOas2c3xA09vtl2tXMjVhDlv.jpg",
@@ -7984,7 +8758,10 @@
   },
   {
     "name": "Kaazh",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/yCTUQwFu3zzIpwvxcne73LZCwbU.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/24BBC368-0D0C-4B15-9857-7637721EB6A5/0-16x9.jpg?width=640",
@@ -8026,7 +8803,10 @@
   },
   {
     "name": "Mix Up Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/2B28F609-8C74-4C20-8308-B3F7F496BFD4/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2B28F609-8C74-4C20-8308-B3F7F496BFD4/0-16x9.jpg?width=640",
@@ -8040,7 +8820,10 @@
   },
   {
     "name": "Blink",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/2F40F48B-7C0D-4CFE-B9E0-1F4B9DCC99DD/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/2F40F48B-7C0D-4CFE-B9E0-1F4B9DCC99DD/0-16x9.jpg?width=640",
@@ -8054,7 +8837,10 @@
   },
   {
     "name": "Lucky Man",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/32420ABA-8BF6-48DD-A7EF-E6E23C562A1C/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/32420ABA-8BF6-48DD-A7EF-E6E23C562A1C/0-16x9.jpg?width=640",
@@ -8068,7 +8854,10 @@
   },
   {
     "name": "Bagavathi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/2YQPo7auhlviwYHxkgresGCVgSm.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/tNxV1NDJXi7CnvGFEDCUZALTdZ8.jpg",
@@ -8112,7 +8901,10 @@
   },
   {
     "name": "Manadhai Thirudivittai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/AsVlLUF2cTNRXxLphL5ggtZBwrR.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/3FBEB2C7-5947-467A-B2FD-5B0039DD730F/0-16x9.jpg?width=640",
@@ -8156,7 +8948,10 @@
   },
   {
     "name": "Ennamma Kannu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/4X2FOi1qmDbij5Q7XjVkPoTAzdk.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/3C57410C-F806-47F5-A965-C5D96A2A9B8B/0-16x9.jpg?width=640",
@@ -8193,7 +8988,10 @@
   },
   {
     "name": "Kurangu Pedal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/sArsk3qz9rP1nRyFEr75Bukeo5g.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/zJ1IpRBUjNvhZhRbj60DFesqUOJ.jpg",
@@ -8231,7 +9029,10 @@
   },
   {
     "name": "Ranam Aram Thavarel",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/gwm57m06huc9pdawnbdeOVlWKN3.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/7JHa1hn9hokRebTioEmziwzEq8O.jpg",
@@ -8274,7 +9075,10 @@
   },
   {
     "name": "Coimbatore Mappillai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/rgsvkNovRY7Vmf94f6kLKfgTmiN.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/45C05286-B4EA-4FD2-81B8-BF79B18908DB/0-16x9.jpg?width=640",
@@ -8314,7 +9118,10 @@
   },
   {
     "name": "Hostel",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/46F38AE8-E735-467B-B56C-A422E7DEBE1C/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/46F38AE8-E735-467B-B56C-A422E7DEBE1C/0-16x9.jpg?width=640",
@@ -8328,7 +9135,10 @@
   },
   {
     "name": "Pugazh",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/a7WuZYapNm862Wvh1KEB4XjhF3I.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/4DCC4457-F01B-4DC9-9E6F-6D833D8ECC79/0-16x9.jpg?width=640",
@@ -8369,7 +9179,10 @@
   },
   {
     "name": "Raavana Kottam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/2DxRwdz297FNJ9UTraRuT99mWTw.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/2Yzfe19ewjewlsczV2IC6VsxMTb.jpg",
@@ -8412,7 +9225,10 @@
   },
   {
     "name": "Natpukkaga",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/jOnbcNtE5KvbPlzSLTaKLzBDL98.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/60D4A74D-96B2-4FA2-95C4-DCA7E2C3B9C3/0-16x9.jpg?width=640",
@@ -8454,7 +9270,10 @@
   },
   {
     "name": "Andha Oru Nimidam",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/nM9sGAS6H4Fyhn9Hnd4fwY0ycSr.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/T051ReZhhRQvzI5pT0UD0iQ9jw.jpg",
@@ -8498,7 +9317,10 @@
   },
   {
     "name": "Das Ka Dhamki Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/66420CD7-60AF-4744-9270-5E99CB8CC497/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/66420CD7-60AF-4744-9270-5E99CB8CC497/0-16x9.jpg?width=640",
@@ -8512,7 +9334,10 @@
   },
   {
     "name": "Uyir Thamizhukku",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ysNjZfIt6hqPumX1eupplHCSY78.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/131YWNqhu7txQ2TNCp5erZKTr8y.jpg",
@@ -8554,7 +9379,10 @@
   },
   {
     "name": "333",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/74D9F7C7-83CF-4940-BE8A-03DA4467E031/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/74D9F7C7-83CF-4940-BE8A-03DA4467E031/0-16x9.jpg?width=640",
@@ -8568,7 +9396,10 @@
   },
   {
     "name": "The Road Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/7BC3D594-AA1C-4C2E-886B-68F93B354D4F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/7BC3D594-AA1C-4C2E-886B-68F93B354D4F/0-16x9.jpg?width=640",
@@ -8582,7 +9413,10 @@
   },
   {
     "name": "Harkara",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/fIwLD6e0BsoVFMS8aKoPYTlwEEp.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/qClxOEKb8MjtXKp5huKYvOjaC14.jpg",
@@ -8621,7 +9455,10 @@
   },
   {
     "name": "Raid",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/7CC48345-FF5D-44BB-96EF-D6E925AD8DF1/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/7CC48345-FF5D-44BB-96EF-D6E925AD8DF1/0-16x9.jpg?width=640",
@@ -8635,7 +9472,10 @@
   },
   {
     "name": "Shot Boot Three",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/1Lg1mq2qUPjWYdN6FQ48AOYWG0l.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/2ZJwIuB9ZPUegXAlIDciauMjQZD.jpg",
@@ -8676,7 +9516,10 @@
   },
   {
     "name": "Whistle",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/7E28D8F2-83E3-415F-B63C-3D78F40B0BC7/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/7E28D8F2-83E3-415F-B63C-3D78F40B0BC7/0-16x9.jpg?width=640",
@@ -8690,7 +9533,10 @@
   },
   {
     "name": "Ponniyin Selvan",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/bf272SLdk9TnLlAJq9jJYfSbT0i.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/8WFv89wlBmW50T59GrwAVByluvV.jpg",
@@ -8728,7 +9574,10 @@
   },
   {
     "name": "Haraa",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/AwoWCdx0udqe0PCTuvG9RtVIpqr.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/bkMgiwBFnen43BVYoYBMCZKEsuH.jpg",
@@ -8771,7 +9620,10 @@
   },
   {
     "name": "Bramma",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/vYAP4oN0dkxksRHA0Rx6nI9yCRa.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/8C67707B-1216-4987-998A-0469E962EC0F/0-16x9.jpg?width=640",
@@ -8814,7 +9666,10 @@
   },
   {
     "name": "Mr Madras",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/8C81C9F8-9CAD-4D05-B3DB-AD525408B3B4/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/8C81C9F8-9CAD-4D05-B3DB-AD525408B3B4/0-16x9.jpg?width=640",
@@ -8857,7 +9712,10 @@
   },
   {
     "name": "Chinna Thambi Periya Thambi",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/88tZ0lrbPnbCnI74SOgpX1wZHz.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/dEwMTrc1rDe4mgsrAzvwuKx2wsH.jpg",
@@ -8891,7 +9749,10 @@
   },
   {
     "name": "Ippadiku Kadhal",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/cr8WmSsmwx3lcOSkG5VLnIVcKW0.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/aGoUpuZX69mpGhcYlqj5MulLuUh.jpg",
@@ -8933,7 +9794,10 @@
   },
   {
     "name": "Romeo",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/961E87FA-EBC2-429F-85B9-4F64FC6337BA/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/961E87FA-EBC2-429F-85B9-4F64FC6337BA/0-16x9.jpg?width=640",
@@ -8947,7 +9811,10 @@
   },
   {
     "name": "Maruthi Nagar Police Station",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/kN8MdCL8uAma6SqXhDFRtEEz1Ec.jpg",
@@ -8991,7 +9858,10 @@
   },
   {
     "name": "Hot Spot",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9FF4C578-407C-4FD7-BE4A-D97473D2C899/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9FF4C578-407C-4FD7-BE4A-D97473D2C899/0-16x9.jpg?width=640",
@@ -9005,7 +9875,10 @@
   },
   {
     "name": "Rail",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9C82CBE3-32AD-4BEB-899F-882F65BF9BF9/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9C82CBE3-32AD-4BEB-899F-882F65BF9BF9/0-16x9.jpg?width=640",
@@ -9019,7 +9892,10 @@
   },
   {
     "name": "Enaku Endey Kedaiyaathu Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9CDB2078-0BE2-4247-90AE-72E62634769B/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9CDB2078-0BE2-4247-90AE-72E62634769B/0-16x9.jpg?width=640",
@@ -9033,7 +9909,10 @@
   },
   {
     "name": "Kaalam Maari Pochu",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/9DC64FFD-4570-4D2E-A079-B3D56F58CFE4/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/9DC64FFD-4570-4D2E-A079-B3D56F58CFE4/0-16x9.jpg?width=640",
@@ -9047,7 +9926,10 @@
   },
   {
     "name": "Aei",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/A8873B34-47B5-4D8C-9430-2F08F6A2435F/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/A8873B34-47B5-4D8C-9430-2F08F6A2435F/0-16x9.jpg?width=640",
@@ -9061,7 +9943,10 @@
   },
   {
     "name": "The Akaali",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/tP2PeEBybZC8orlVve96DeS7DcY.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/fc0z9YX7vw8zanFlKglIiUibofa.jpg",
@@ -9100,7 +9985,10 @@
   },
   {
     "name": "Unarvugal Thodarkathai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/s9DAI5wVa8gPZkrJh9IXzPVDQrM.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/ACA176C0-5920-43B6-AA4D-EC1D7D86ECCE/0-16x9.jpg?width=640",
@@ -9137,7 +10025,10 @@
   },
   {
     "name": "Koodi Vazhnthal Kodi Nanmai",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/9ZnI2H2CQbCObstMDKHewXdS8h9.jpg",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/AF02EFE2-5127-41F7-A7F1-39B70B1F59E6/0-16x9.jpg?width=640",
@@ -9181,7 +10072,10 @@
   },
   {
     "name": "Annanagar Mudhal Theru",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/B093CE43-1A4F-47FB-8CCD-707D5FF21FEE/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/B093CE43-1A4F-47FB-8CCD-707D5FF21FEE/0-16x9.jpg?width=640",
@@ -9194,7 +10088,10 @@
   },
   {
     "name": "Yaavarum Vallavare",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/j03OJ7eWcfngKezZsXBqvTFhXWO.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/suV4j5TEx86zCFJaYTR5XyDy39l.jpg",
@@ -9237,7 +10134,10 @@
   },
   {
     "name": "Sardar Tamil",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/BA02717F-B94A-4610-9E6B-65AC63CF490D/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/BA02717F-B94A-4610-9E6B-65AC63CF490D/0-16x9.jpg?width=640",
@@ -9251,7 +10151,10 @@
   },
   {
     "name": "Partner",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/C91EB6E2-2A2F-4FC3-90D4-D3C2CAD6B091/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/C91EB6E2-2A2F-4FC3-90D4-D3C2CAD6B091/0-16x9.jpg?width=640",
@@ -9265,7 +10168,10 @@
   },
   {
     "name": "Airport",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/CD72C375-0D14-4705-A067-FE5917512469/0-16x9.jpg?width=640",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/CD72C375-0D14-4705-A067-FE5917512469/0-16x9.jpg?width=640",
@@ -9279,7 +10185,10 @@
   },
   {
     "name": "Romeo",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image-resizer-cloud-api.akamaized.net/image/961E87FA-EBC2-429F-85B9-4F64FC6337BA/0-16x9.jpg?width=650",
       "bg": "https://image-resizer-cloud-api.akamaized.net/image/961E87FA-EBC2-429F-85B9-4F64FC6337BA/0-16x9.jpg?width=650",
@@ -9293,7 +10202,10 @@
   },
   {
     "name": "Single Shankarum Smartphone Simranum",
-    "category": "Aha",
+    "category": {
+      "name": "Aha",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/aha.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/sy1UH6YEEYYqQFf5W48pqKPpHkO.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/piJEWHK5hSfkx7wmFPP8j43Ct0N.jpg",
@@ -9337,7 +10249,10 @@
   },
   {
     "name": "Madharaasi (2025)",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/dw3Dllz1gV7186m7clqNDnI9R28.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/nmPzYjRPAd3iVOgrLXlvh6HuvRN.jpg",
@@ -9381,7 +10296,10 @@
   },
   {
     "name": "Coolie (2025)",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
@@ -9425,7 +10343,10 @@
   },
   {
     "name": "Oh My Dog",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BM2IyMzhiZTUtMWIxOC00YmJhLTgwNWEtYWQ1YjU4ZmUzNzA1XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BM2IyMzhiZTUtMWIxOC00YmJhLTgwNWEtYWQ1YjU4ZmUzNzA1XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
@@ -9439,7 +10360,10 @@
   },
   {
     "name": "Bun Butter Jam",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/bCnVJU1HrQVpk0R68aOw93iIeKJ.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/sXCoGJmgAZZJae7JDjt1tEI8rOk.jpg",
@@ -9482,7 +10406,10 @@
   },
   {
     "name": "Miss You",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BZjFlOTg1MDUtYTMwOS00MDBlLWE4ZjAtZjAzZWJjYzEyZWNjXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BZjFlOTg1MDUtYTMwOS00MDBlLWE4ZjAtZjAzZWJjYzEyZWNjXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
@@ -9496,7 +10423,10 @@
   },
   {
     "name": "Veera Dheera Sooran: Part 2",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/6iiWsXJ31BVbypWwzvoPKx24NFQ.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/enbr7jaQySYFKojOQrVQFGkwrvo.jpg",
@@ -9541,7 +10471,10 @@
   },
   {
     "name": "Pulikkuthi Pandi",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/zLV3g0jdEMF427tFEk9pKfzr5Mf.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/5W3nU9uZ8lGFGTX0shTkzP9LfUP.jpg",
@@ -9581,7 +10514,10 @@
   },
   {
     "name": "Raatchasan",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BMjgzMzMxMzUtNzUyYi00NTkxLWI1NTAtMjZhNmMxMGQ4YjBmXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BMjgzMzMxMzUtNzUyYi00NTkxLWI1NTAtMjZhNmMxMGQ4YjBmXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
@@ -9595,7 +10531,10 @@
   },
   {
     "name": "Viswasam",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/9XXABbZY62OWkkjUDPVysMTs7fc.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/oq0YL751gFY1lQBZM06Vb18Cav7.jpg",
@@ -9638,7 +10577,10 @@
   },
   {
     "name": "Maaveeran",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BZGMxMGZmZDItMjY5NC00OTVhLWE2MWEtNzJiZTU1NzI1MTllXkEyXkFqcGc@._V1_QL75_UY562_CR13,0,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BZGMxMGZmZDItMjY5NC00OTVhLWE2MWEtNzJiZTU1NzI1MTllXkEyXkFqcGc@._V1_QL75_UY562_CR13,0,380,562_.jpg",
@@ -9652,7 +10594,10 @@
   },
   {
     "name": "Jai Bhim",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/ehybiOtBUtrMkmtB39zQEtq1Jie.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/40lmQ5vzKJhj5k7i0hvZuglneyj.jpg",
@@ -9697,7 +10642,10 @@
   },
   {
     "name": "Ace",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BNjNjZTg4MDItNWZlZS00NDc3LTkzZTktODVhOWFkYzA4OTAxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BNjNjZTg4MDItNWZlZS00NDc3LTkzZTktODVhOWFkYzA4OTAxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
@@ -9711,7 +10659,10 @@
   },
   {
     "name": "Varisu",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/iMUIsV6u0pPqfv1j8tGxbJw40sw.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/fjd6RKx4Zh8UKQfjpSSkM53eJw6.jpg",
@@ -9754,7 +10705,10 @@
   },
   {
     "name": "Pattas",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/A7sFExysd0q4QkiB6kglSJdDd6h.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/oOV0TOdcxKuctnxTkO3VhcJak8t.jpg",
@@ -9795,7 +10749,10 @@
   },
   {
     "name": "Master",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BMjFhM2JhM2MtYmMwNC00M2M1LWExMzUtOGI3MmQxNWRiZGI3XkEyXkFqcGc@._V1_QL75_UY562_CR19,0,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BMjFhM2JhM2MtYmMwNC00M2M1LWExMzUtOGI3MmQxNWRiZGI3XkEyXkFqcGc@._V1_QL75_UY562_CR19,0,380,562_.jpg",
@@ -9809,7 +10766,10 @@
   },
   {
     "name": "NGK",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/1gp5SMTcs8KSF2fnv0RBZBRcydL.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/yAP4Cjg6kUEaGF2JWBMImEy1jSE.jpg",
@@ -9851,7 +10811,10 @@
   },
   {
     "name": "Thiruchitrambalam",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/pBRkO5GHJqDB9D0fbumL5235JfJ.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/vQ9jxQh6UdgqaNmh6FVi4qNPLe7.jpg",
@@ -9892,7 +10855,10 @@
   },
   {
     "name": "Kadaikutty Singam",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/iNeOevqxOrqwWJUJS2EIuufVf0B.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/w5pRvadufxi6v55rNLx3JLbikGH.jpg",
@@ -9937,7 +10903,10 @@
   },
   {
     "name": "Asuran",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BYjgyMGFlNmMtYzkzNy00ZjgyLTljNTItMTg4MmNjYWE5NDM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BYjgyMGFlNmMtYzkzNy00ZjgyLTljNTItMTg4MmNjYWE5NDM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
@@ -9951,7 +10920,10 @@
   },
   {
     "name": "Jailer",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BZTM3NDEwYWYtZjljZC00Y2FkLTgzZDEtNjhhMjQwN2Q3MTMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
       "bg": "https://m.media-amazon.com/images/M/MV5BZTM3NDEwYWYtZjljZC00Y2FkLTgzZDEtNjhhMjQwN2Q3MTMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
@@ -9965,7 +10937,10 @@
   },
   {
     "name": "Maargan",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/sgNetedu19Ar9LkUXGNheh9NL1D.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/sTwYXYIw79TlBKRQ7Cdzev28vSQ.jpg",
@@ -10010,7 +10985,10 @@
   },
   {
     "name": "Raayan",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/dHMbqpG7vZk1iEJaEkCCyixFbos.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/1Us0a54s7aFDwDtIfRjlwvnLJQg.jpg",
@@ -10054,7 +11032,10 @@
   },
   {
     "name": "Darbar",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://m.media-amazon.com/images/M/MV5BMzJhYTk5M2MtZGZjZi00MDBiLWJmZDktYjhmNjJiNzM0N2UyXkEyXkFqcGc@._V1_QL75_UY562_CR32,0,380,562_.jpg\t",
       "bg": "https://m.media-amazon.com/images/M/MV5BMzJhYTk5M2MtZGZjZi00MDBiLWJmZDktYjhmNjJiNzM0N2UyXkEyXkFqcGc@._V1_QL75_UY562_CR32,0,380,562_.jpg\t",
@@ -10068,7 +11049,10 @@
   },
   {
     "name": "3BHK",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/njq3p81KoTVd0lWqGeudId7WwUn.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/kCC8cxu23zctMenwXIS3EC2hJnn.jpg",
@@ -10111,7 +11095,10 @@
   },
   {
     "name": "Nilavuku En Mel Ennadi Kobam",
-    "category": "Prime Video",
+    "category": {
+      "name": "Prime Video",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/Prime%20video%20icon.jpg"
+    },
     "info": {
       "poster": "https://image.tmdb.org/t/p/w500/j5krlz9U40ZWaspQXa5CtQUikXl.jpg",
       "bg": "https://image.tmdb.org/t/p/w1280/o5pSgHibKD0vPtXiGztSTZTWiHs.jpg",
