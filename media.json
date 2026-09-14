@@ -50296,5 +50296,2419 @@
     },
     "video": "https://mzaalombr.pc.cdn.bitgravity.com/mzaalombr/output/IniyavalaeVaa/master.m3u8",
     "source-format": "hls"
+  },
+  
+  {
+    "name": "The Last Wish (2025)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/2BpWWJFbplWpPYItuonrCJxrHIs.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/r7iHXMNjiFFztSlsY77PHhiUso6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r7iHXMNjiFFztSlsY77PHhiUso6.jpg",
+      "plot": "Hoang asked his two closest friends, Thy and Long, to help him fulfill his final wish: to become a man before he dies. Through the efforts of his friends and family, Hoang comes to realize that his greatest happiness doesn’t lie in “becoming a man,” but in living alongside the incredible people who love and support him unconditionally.",
+      "cast": [
+        "Tiến Luật",
+        "Lý Hạo Mạnh Quỳnh",
+        "Hoàng Hà",
+        "Đinh Y Nhung",
+        "Lương Anh Vũ",
+        "Katleen Phan Võ",
+        "Quốc Cường",
+        "Tạ Lâm"
+      ],
+      "director": [
+        "Doan Si Nguyen"
+      ],
+      "country": [
+        "Vietnam",
+        "South Korea"
+      ],
+      "rating": 0,
+      "year": 2025,
+      "genre": [
+        "Comedy"
+      ],
+      "added": 1789370733,
+      "duration": 6840,
+      "adult": false,
+      "tmdb": "1487829"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/85TheLastWishhindi/playlist.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "River Of Blood (2025)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/kgCfN7zuC2k9VaqeDdquUwroC8u.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/ijg6QxxD4bxVrX3XoAxoL9ZcG2q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ijg6QxxD4bxVrX3XoAxoL9ZcG2q.jpg",
+      "plot": "Four kayakers take the wrong river into a jungle inhabited by a tribe of merciless cannibals.",
+      "cast": [
+        "Joseph Millson",
+        "Sarah Alexandra Marks",
+        "David Wayman",
+        "Ella Starbuck",
+        "Louis James",
+        "Tiffany Hannam-Daniels",
+        "Einar Haraldsson",
+        "Suwajchai Anubhat",
+        "Yothin Bumroong",
+        "Panisa Dechosart"
+      ],
+      "director": [
+        "Howard J. Ford"
+      ],
+      "country": [
+        "Denmark",
+        "United Kingdom",
+        "Thailand"
+      ],
+      "rating": 6.321,
+      "year": 2024,
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "added": 1789370734,
+      "duration": 5160,
+      "adult": false,
+      "tmdb": "1222064",
+      "imdb": "tt29708137"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/83RiverOfBloodtamil/playlist.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Sugar Baby (2025)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/96MiE78ur3CQyDVNHTHT4RqBboI.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/uGGpudSxvPitRE6z85Gv5AL3BQf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uGGpudSxvPitRE6z85Gv5AL3BQf.jpg",
+      "plot": "Two high school friends turned sugar babies, who sacrifice everything for each other. Until love gets in the way",
+      "cast": [
+        "Azi Acosta",
+        "Robb Guinto",
+        "Jeffrey Hidalgo",
+        "Josef Elizalde",
+        "Ralmon Mendoza",
+        "Kian Co",
+        "Archie Adamos",
+        "Shiena Yu",
+        "Zsara Tiblani",
+        "Sahil Khan"
+      ],
+      "director": [
+        "Christian Paolo Lat"
+      ],
+      "country": [
+        "Philippines"
+      ],
+      "rating": 5.2,
+      "year": 2023,
+      "genre": [
+        "Romance"
+      ],
+      "added": 1789370735,
+      "duration": 6840,
+      "adult": false,
+      "tmdb": "1196656",
+      "imdb": "tt30012687"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/b8b0efc5-184a-4436-9a80-dc872aabd8cf/AppleHLS1/78SugarBabytamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Chief of Station (2024)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/yndlj5aNPWAZ5ayJ4a2S37o98lq.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/yky6Dsxbv5ItMepk8GGu23K6Mvs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yky6Dsxbv5ItMepk8GGu23K6Mvs.jpg",
+      "plot": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+      "cast": [
+        "Aaron Eckhart",
+        "Olga Kurylenko",
+        "Alex Pettyfer",
+        "Chris Petrovski",
+        "Laëtitia Eïdo",
+        "Nick Moran",
+        "Daniel Bernhardt",
+        "Nina Bergman",
+        "James Faulkner",
+        "Jonathan Ajayi"
+      ],
+      "director": [
+        "Jesse V. Johnson"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 6.308,
+      "year": 2024,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "added": 1789370736,
+      "duration": 5580,
+      "adult": false,
+      "tmdb": "1093995",
+      "imdb": "tt21301418"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/ddbac684-7b1f-48a1-850e-3394170df5cd/AppleHLS1/73-Chief_of_Station-Video_Tamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Restore Point (2024)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/qxFqu8foXkq2AQTaFUIk7SwhCkd.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/i0q9Cb0L0eoHa9WdMbqlDiSH6C9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i0q9Cb0L0eoHa9WdMbqlDiSH6C9.jpg",
+      "plot": "It’s 2041 and the gaps in social and economic inequality have left the world on the brink. A breakthrough in science has given humanity the ability to bring victims of a violent crime back to life by backing up their brain every 2 days. This allows an ambitious, young detective the opportunity to solve a case of a murdered couple when the restoration team is able to bring one of them back.",
+      "cast": [
+        "Andrea Mohylová",
+        "Matěj Hádek",
+        "Milan Ondrík",
+        "Václav Neužil",
+        "Karel Dobrý",
+        "Agáta Červinková",
+        "Katarzyna Zawadzka",
+        "Iveta Dušková",
+        "Jan Vlasák",
+        "Richard Stanke"
+      ],
+      "director": [
+        "Robert Hloz"
+      ],
+      "country": [
+        "Czech Republic",
+        "Poland",
+        "Slovakia",
+        "Serbia"
+      ],
+      "rating": 6.127,
+      "year": 2023,
+      "genre": [
+        "Science Fiction",
+        "Crime",
+        "Thriller"
+      ],
+      "added": 1789370737,
+      "duration": 6840,
+      "adult": false,
+      "tmdb": "1071815",
+      "imdb": "tt9362492"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/b6d6ff49-7f56-4692-92cf-db39a23d810e/AppleHLS1/71-Restore_Point-Tamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Seeding  (2024)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/22iDWgWhw3JxtAF7GGO5uVD00Ci.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/22iDWgWhw3JxtAF7GGO5uVD00Ci.jpg",
+      "plot": "When a hiker gets lost in the desert, a gang of feral children propelled by haunting legacies traps him in a sadistic battle for survival with a frightening endgame.",
+      "cast": [
+        "Scott Haze",
+        "Kate Lyn Sheil",
+        "Charlie Avink",
+        "Alex Montaldo",
+        "Chelsea Jurkiewicz",
+        "Harrison Middleton",
+        "Michael Monsour",
+        "Thatcher Jacobs",
+        "Aarman Touré",
+        "Soko"
+      ],
+      "director": [
+        "Barnaby Clay"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.07,
+      "year": 2024,
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "added": 1789370738,
+      "duration": 6000,
+      "adult": false,
+      "tmdb": "1118033",
+      "imdb": "tt22778346"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/64963619-ca62-4910-a554-06e7e405493e/AppleHLS1/70-The_Seeding_Tamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Key Game (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/3gT6LThQL32bToudOdqZ0U8QgL8.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/uVHlrCG8zSx9QZTxwXbFosScdNQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uVHlrCG8zSx9QZTxwXbFosScdNQ.jpg",
+      "plot": "Laura has been with Antonio all her life and, just when she begins to wonder if that is really the life she wants, Sergio and Siena cross paths in their lives. Sergio is a former high school classmate and Siena, his millennial girlfriend who arrives to revolutionize everyone's lives. Laura, Raquel and Cris, close friends for years, convince their respective husbands to play a game that Siena proposes to them: the game of keys. The game consists of everyone putting their keys in a bowl. At random, each one chooses some keys and he must go to spend the night with the owner of the keys. This game will revolutionize the group of friends and their lives. It will make them discover who they are and what they really want.",
+      "cast": [
+        "Fernando Guallar",
+        "Eva Ugarte",
+        "Miren Ibarguren",
+        "Tamar Novas",
+        "Alina Nastase",
+        "María Castro",
+        "Justina Bustos",
+        "Richard Farré",
+        "Cintia García",
+        "Genís Benavent"
+      ],
+      "director": [
+        "Vicente Villanueva"
+      ],
+      "country": [
+        "Spain"
+      ],
+      "rating": 5.899,
+      "year": 2022,
+      "genre": [
+        "Comedy"
+      ],
+      "added": 1789370739,
+      "duration": 6420,
+      "adult": false,
+      "tmdb": "901908",
+      "imdb": "tt14935038"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/995b39d1-f24a-44b6-adbc-f17f21d32c8a/AppleHLS1/69-The_Key_Game-Tamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Devil Conspiracy (2024)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/gZCWgbIq2IBDRMJmdx5NeYbbigL.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg",
+      "plot": "A powerful biotech company has breakthrough technology allowing them to clone history’s most influential people with just a few fragments of DNA. Behind this company is a cabal of Satanists that steals the shroud of Christ, putting them in possession of Jesus’ DNA. The clone will serve as the ultimate offering to the devil. The Archangel Michael comes to earth and will stop at nothing to end the devil’s conspiracy.",
+      "cast": [
+        "Alice Orr-Ewing",
+        "Joe Doyle",
+        "Eveline Hall",
+        "Peter Mensah",
+        "Joe Anderson",
+        "Brian Caspe",
+        "Spencer Wilding",
+        "James Faulkner",
+        "Victoria Chilap",
+        "Wendy Rosas"
+      ],
+      "director": [
+        "Nathan Frankowski"
+      ],
+      "country": [
+        "Czech Republic",
+        "United States of America"
+      ],
+      "rating": 6.44,
+      "year": 2023,
+      "genre": [
+        "Horror",
+        "Fantasy",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "added": 1789370741,
+      "duration": 6660,
+      "adult": false,
+      "tmdb": "296271",
+      "imdb": "tt9663168"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/508a5cbd-c8dc-43db-af8d-6eb450a3aff2/AppleHLS1/67-The_Devil_Conspiracy-Tamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "57 SECONDS (2024)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/wcEGMvOzCPjPABa4jbTDF2UOx53.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wcEGMvOzCPjPABa4jbTDF2UOx53.jpg",
+      "plot": "When a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.",
+      "cast": [
+        "Josh Hutcherson",
+        "Morgan Freeman",
+        "Lovie Simone",
+        "Greg Germann",
+        "Bevin Bru",
+        "Sammi Rotibi",
+        "Mark Jacobson",
+        "Griff Furst",
+        "D.A. Obahor",
+        "Jeff Chase"
+      ],
+      "director": [
+        "Rusty Cundieff"
+      ],
+      "country": [
+        "Czech Republic",
+        "United States of America"
+      ],
+      "rating": 6.162,
+      "year": 2023,
+      "genre": [
+        "Thriller",
+        "Science Fiction",
+        "Action"
+      ],
+      "added": 1789370742,
+      "duration": 5940,
+      "adult": false,
+      "tmdb": "937249",
+      "imdb": "tt18083578"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/4327211f-0670-479e-a0b1-dc10df227a19/AppleHLS1/e18ff41c-189f-4f8b-a556-37a718f90fc1.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Fabricated City (2017)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/8tE4MhhuWHize6pNyxAtakUyNZc.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/y1VC0S3i48OqHlGOUgi56ZWUBqZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y1VC0S3i48OqHlGOUgi56ZWUBqZ.jpg",
+      "plot": "In real life, Kwon Yoo is unemployed, but in the virtual game world he is the best leader. Kwon Yoo is then framed for a murder. With the help of hacker Yeo-wool, he tries to uncover the truth behind the murder case.",
+      "cast": [
+        "Ji Chang-wook",
+        "Shim Eun-kyung",
+        "Oh Jung-se",
+        "Ahn Jae-hong",
+        "Kim Sang-ho",
+        "Kim Min-kyo",
+        "Lee Hanee",
+        "Kim Ho-jung",
+        "Kim Seul-gi",
+        "Woo Hyeon"
+      ],
+      "director": [
+        "Bae Jong"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "rating": 7.644,
+      "year": 2017,
+      "genre": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "added": 1789370743,
+      "duration": 7560,
+      "adult": false,
+      "tmdb": "435366",
+      "imdb": "tt6399158"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/05d70df1-7bbf-46d8-91bc-1e089c75a3ba/AppleHLS1/42023374-6888-4a4c-84bc-f211415c1cdc.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Spy Undercover Operation (2017)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/4mnv1yaqiuit5RrXZYsVdoJqKZl.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/y9Ob6pz3HS1aRaxwu2c3kTrYWTT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y9Ob6pz3HS1aRaxwu2c3kTrYWTT.jpg",
+      "plot": "Chul-soo is one of Korea’s best intelligence agents: he can accomplish any given mission. One day, a mysterious explosion takes place in Seoul. Chul-soo flies to Thailand on a mission to rescue a person who holds clues to the incident. Meanwhile, Young-hee goes on a business trip to Thailand and gets entangled with Chul-soo’s mission. Will he accomplish his mission and save his wife at the same time?",
+      "cast": [
+        "Sul Kyung-gu",
+        "Moon So-ri",
+        "Daniel Henney",
+        "Han Ye-ri",
+        "Ra Mi-ran",
+        "Song Jae-ho",
+        "Ko Chang-seok",
+        "Kim So-jin",
+        "Jung In-gi",
+        "Kim Ji-young"
+      ],
+      "director": [
+        "Lee Seung-jun"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "rating": 5.968,
+      "year": 2013,
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "added": 1789370745,
+      "duration": 7260,
+      "adult": false,
+      "tmdb": "221518",
+      "imdb": "tt3025712"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/82d4085e-8ff1-4f52-a992-2373be947119/AppleHLS1/1cb30d1f-711d-426f-91ec-dc72e1e1f68b.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Reset (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://api.vrott.tv/uploads/compressedImages/bce86414584ed3b83b010497da821021-300x400.png",
+      "bg": "https://api.vrott.tv/uploads/compressedImages/bce86414584ed3b83b010497da821021-300x400.png",
+      "backdrop": "https://api.vrott.tv/uploads/compressedImages/bce86414584ed3b83b010497da821021-300x400.png",
+      "plot": "The corona-virus has been raging through Europe for several weeks. The cultural sector is in lock-down and its people are sitting at home, without immediate prospects. Seven performing artists, however, draw strength from the standstill and quickly switch to an alternative way of working. Can policymakers do the same for the broader sector in Flanders, a region in the heart of Europe with a highly developed cultural life?",
+      "director": [
+        "Lies Van der Auwera"
+      ],
+      "rating": 0,
+      "genre": [
+        "Documentary"
+      ],
+      "added": 1789370746,
+      "adult": false,
+      "tmdb": "1322736",
+      "imdb": "tt14068922"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/b341e3cd-654f-42b0-a9ba-15f276776d7b/AppleHLS1/633cdbee-108d-4e52-bf71-955c4ab20473.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Power (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/s0aVEjT1DWopUrJehACWZyqpO99.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/lQ7OF8zoLMOh1rxL0iwWXr28jk0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lQ7OF8zoLMOh1rxL0iwWXr28jk0.jpg",
+      "plot": "London, 1974. As Britain prepares for electrical blackouts to sweep across the country, trainee nurse Val arrives for her first day at the crumbling East London Royal Infirmary. With most of the patients and staff evacuated to another hospital, Val is forced to work the night shift, finding herself in a dark, near empty building. Within these walls lies a deadly secret, forcing Val to face both her own traumatic past and deepest fears.",
+      "cast": [
+        "Rose Williams",
+        "Charlie Carrick",
+        "Gbemisola Ikumelo",
+        "Theo Barklem-Biggs",
+        "Nuala McGowan",
+        "Emma Rigby",
+        "Diveen Henry",
+        "Paul Antony-Barber",
+        "Shakira Rahman",
+        "Clara Read"
+      ],
+      "director": [
+        "Corinna Faith"
+      ],
+      "country": [
+        "United Kingdom"
+      ],
+      "rating": 6.006,
+      "year": 2021,
+      "genre": [
+        "Horror"
+      ],
+      "added": 1789370747,
+      "duration": 5580,
+      "adult": false,
+      "tmdb": "760919",
+      "imdb": "tt9314984"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/44b46cdf-8629-4cf7-a3b9-c4c36b756ff6/AppleHLS1/8030c787-78f0-4916-bd98-1d66049c82ff.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Monsters At Large (2018)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/51FDbBDlABFzhMABME1GCRraj8s.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/3cHWTS9ibCAHmrUk7HJJVJiIBU6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3cHWTS9ibCAHmrUk7HJJVJiIBU6.jpg",
+      "plot": "Alex decides to end his kid brother's nightmares by forming a task force to take care of imaginary monsters. When their business becomes a hit, nothing can go wrong...until one of the monsters turns out to be real, and really big.",
+      "cast": [
+        "Mischa Barton",
+        "Stephen Tobolowsky",
+        "Austin St. John",
+        "Matthew Kosto",
+        "Auggie Pulliam",
+        "Alicia C. Del Aguila",
+        "Brooklynn Prince",
+        "Angela Winiewicz",
+        "Lola Sultan",
+        "Zachary T. Robbins"
+      ],
+      "director": [
+        "Jason Murphy"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.111,
+      "year": 2018,
+      "genre": [
+        "Adventure",
+        "Family"
+      ],
+      "added": 1789370748,
+      "duration": 5460,
+      "adult": false,
+      "tmdb": "501791",
+      "imdb": "tt5145662"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/060d4451-9bc7-410d-9346-f0541c0b6851/AppleHLS1/9f76cbfd-378a-4912-8333-9ff8e1472753.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Shark Bait (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/mVVU9zC8snNHlcqYONY2HOsh9ob.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/dvHKdXijoN1OEzGcPhd0eRvkfMd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dvHKdXijoN1OEzGcPhd0eRvkfMd.jpg",
+      "plot": "A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.",
+      "cast": [
+        "Holly Earl",
+        "Jack Trueman",
+        "Catherine Hannay",
+        "Malachi Pullar-Latchman",
+        "Thomas Michael Flynn",
+        "Manuel Cauchi",
+        "Maxime Durand",
+        "Joshua Takacs"
+      ],
+      "director": [
+        "James Nunn"
+      ],
+      "country": [
+        "Malta",
+        "United States of America"
+      ],
+      "rating": 5.619,
+      "year": 2022,
+      "genre": [
+        "Horror",
+        "Thriller",
+        "Action",
+        "Adventure"
+      ],
+      "added": 1789370749,
+      "duration": 5220,
+      "adult": false,
+      "tmdb": "960258",
+      "imdb": "tt12550376"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/029df473-dced-4846-8677-f03813bf7da8/AppleHLS1/15b3bda3-3122-415e-b3b5-5ccd05acaf12.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "T.I.M. (2023)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/aGLElgUFzjhvHsbDQ1Ae0d5kaWu.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/wsyZddVckvPCANlBOklKJaFQWMU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wsyZddVckvPCANlBOklKJaFQWMU.jpg",
+      "plot": "Prosthetics scientist Abi and her adulterous husband Paul adjust to life outside the city as Abi begins working for high-tech company Integrate, developing a humanoid AI - T.I.M.",
+      "cast": [
+        "Eamon Farren",
+        "Georgina Campbell",
+        "Nathaniel Parker",
+        "Mark Rowley",
+        "Amara Karan",
+        "Tom Bell",
+        "Edmund Kingsley",
+        "Janis Ahern",
+        "Eliza Glock"
+      ],
+      "director": [
+        "Spencer Brown"
+      ],
+      "country": [
+        "United Kingdom"
+      ],
+      "rating": 5.717,
+      "year": 2023,
+      "genre": [
+        "Science Fiction",
+        "Thriller",
+        "Horror"
+      ],
+      "added": 1789370750,
+      "duration": 6060,
+      "adult": false,
+      "tmdb": "1040229",
+      "imdb": "tt21988182"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/9010824b-9440-4652-b9dd-a63404252d98/AppleHLS1/13eea4ba-c75d-44b3-a863-e8f919406680.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Target Number One (2020)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/wb2VpOZTSINPI7jQww0fYCEppcE.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/7twSwXTS0Lez0gp1nGteLV9AMbp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7twSwXTS0Lez0gp1nGteLV9AMbp.jpg",
+      "plot": "Ex heroin junkie, Daniel Léger, gets involved in a drug deal with the wrong people for the wrong reasons. When the deal goes sour, Daniel gets thrown into a Thai prison and slapped with a 100-year sentence. While he tries to survive his Bangkok incarceration, the news of his conviction captures the attention of Globe and Mail journalist Victor Malarek, who decides to go after the shady undercover cops responsible for wrongly accusing Daniel.",
+      "cast": [
+        "Antoine Olivier Pilon",
+        "Josh Hartnett",
+        "Stephen McHattie",
+        "Jim Gaffigan",
+        "J.C. MacKenzie",
+        "Don McKellar",
+        "Rose-Marie Perreault",
+        "Frank Schorpion",
+        "Frédéric Millaire-Zouvi",
+        "Amanda Crew"
+      ],
+      "director": [
+        "Daniel Roby"
+      ],
+      "country": [
+        "Canada",
+        "United States of America"
+      ],
+      "rating": 6.237,
+      "year": 2020,
+      "genre": [
+        "Thriller",
+        "Crime"
+      ],
+      "added": 1789370751,
+      "duration": 8100,
+      "adult": false,
+      "tmdb": "526973",
+      "imdb": "tt1656177"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/75b2e273-47ae-407d-a175-006926a425f9/AppleHLS1/8388ded9-37eb-456a-b880-004bd41f1ec0.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Girl At The Window (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/5k5E5NMhoMOv0QY5PsvixOm0maU.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/1Re7Q0qUgTWLBGP547yc8zKK5Sd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1Re7Q0qUgTWLBGP547yc8zKK5Sd.jpg",
+      "plot": "A troubled teenage girl who’s struggling to cope with the accidental death of her father suspects that the mysterious killer stalking her hometown is not only her neighbour but her mother’s new romantic interest.",
+      "cast": [
+        "Radha Mitchell",
+        "Ella Newton",
+        "Vince Colosimo",
+        "James Mackay",
+        "Jackson Gallagher",
+        "Nathan Hill",
+        "Sharon Johal",
+        "Lauren Goetz",
+        "Karis Oka",
+        "Andrew S. Gilbert"
+      ],
+      "director": [
+        "Mark Hartley"
+      ],
+      "country": [
+        "Australia"
+      ],
+      "rating": 5.673,
+      "year": 2022,
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "added": 1789370752,
+      "duration": 5040,
+      "adult": false,
+      "tmdb": "985335",
+      "imdb": "tt15360384"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/77e817a5-1221-472e-8768-55a2e082e84e/AppleHLS1/f9f4afc7-de12-4667-a67a-5ae143e1cc1a.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Silent Forest (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/mzdEAxwkTCXBG1EKOblIkemQ6l8.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/2hiODkNnTrJ8vipY15YuFGQnIMM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2hiODkNnTrJ8vipY15YuFGQnIMM.jpg",
+      "plot": "Hearing-impaired teenager Chang Cheng transfers to a school for children with special needs. However, the world of the hearing-impaired doesn’t seem quiet at all. When Chang witnesses the game taking place in the last row on the school bus, his excitement about blending into a new environment immediately turns into fear.",
+      "cast": [
+        "Troy Liu",
+        "Buffy Chen",
+        "Kim Hyun-bin",
+        "Liu Kuan-ting",
+        "Yang Kuei-mei",
+        "Tai Bo",
+        "Chang Pen-Yu",
+        "Pao Cheng-fang",
+        "Tiger Wang",
+        "Wang Chuan"
+      ],
+      "director": [
+        "Chen-Nien Ko"
+      ],
+      "country": [
+        "Singapore",
+        "South Korea",
+        "Taiwan"
+      ],
+      "rating": 7.7,
+      "year": 2020,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "added": 1789370754,
+      "duration": 6240,
+      "adult": false,
+      "tmdb": "717395",
+      "imdb": "tt12396992"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/9f39a75a-a791-4714-b360-623800db6383/AppleHLS1/fdc0d45c-4538-499e-9bb4-1245a39089e9.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Post Mortem (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/efB156IOsphoVkTYr3U9YpiYopJ.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/qjKHmLokI14sLVMJaTtqZ4TtYSI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjKHmLokI14sLVMJaTtqZ4TtYSI.jpg",
+      "plot": "In Chile, 1973, during the last days of Salvador Allende's presidency, an employee at a Morgue's recording office falls for a burlesque dancer who mysteriously disappears.",
+      "cast": [
+        "Alfredo Castro",
+        "Antonia Zegers",
+        "Jaime Vadell",
+        "Amparo Noguera",
+        "Marcelo Alonso",
+        "Marcial Tagle",
+        "Claudia di Girólamo",
+        "Luis Gnecco",
+        "Aldo Parodi",
+        "Ernesto Malbrán"
+      ],
+      "director": [
+        "Pablo Larraín"
+      ],
+      "country": [
+        "Chile",
+        "Germany",
+        "Mexico"
+      ],
+      "rating": 6.046,
+      "year": 2010,
+      "genre": [
+        "Drama"
+      ],
+      "added": 1789370755,
+      "duration": 5880,
+      "adult": false,
+      "tmdb": "56815",
+      "imdb": "tt1714886"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/5f0a39cd-9b02-4ae1-9630-de4388597346/AppleHLS1/a00bb8b4-6dcc-487b-8181-9c020b17a1b5.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Wolves of War (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/k4xPHr0DGiaeg4rIWSF1HW9Vwi6.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/mR1zIgBRecYr37HMnG1hEMEVBsf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mR1zIgBRecYr37HMnG1hEMEVBsf.jpg",
+      "plot": "Decorated British officer Jack Wallace must lead a band of Allied commandos across enemy lines to rescue Professor Hopper, an American scientist held hostage by the Nazis. With information that could turn the tide of war, these unlikely heroes must traverse enemy territory with an untrained US civilian, avoiding brutal Nazi mercenaries and non-stop bombing – with the fate of the war resting on their shoulders, the outcome of this mission will change the world forever; failure is not an option.",
+      "cast": [
+        "Ed Westwick",
+        "Matt Willis",
+        "Sam Gittins",
+        "Éva Magyar",
+        "Anastasia Martin",
+        "Rupert Graves",
+        "Scott Rose-Marsh",
+        "Leroy Kincaide",
+        "Tom Taplin"
+      ],
+      "director": [
+        "Giles Alderson"
+      ],
+      "country": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "rating": 5.2,
+      "year": 2023,
+      "genre": [
+        "War",
+        "Drama",
+        "History"
+      ],
+      "added": 1789370756,
+      "duration": 5220,
+      "adult": false,
+      "tmdb": "843399",
+      "imdb": "tt14618028"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/b9cc1c81-2f6c-41b7-9bac-9067d69ef80d/hls/08b5fb1a-cd15-44a8-94ff-9e81c3244fc0.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Paranormal Drive (2016)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/rtU53AhZFPCamUM3p0JtLhAFpAX.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/rlomFGbmx33azNkfHAA712YmMeG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rlomFGbmx33azNkfHAA712YmMeG.jpg",
+      "plot": "Contemporary Russia. A young couple finds a great deal on a used BMW. Unfortunately, it's haunted.",
+      "cast": [
+        "Pavel Chinaryov",
+        "Andrey Safronov",
+        "Diana Melison",
+        "Ilya Safronov",
+        "Sergey Safronov",
+        "Kristina Shapovalova",
+        "Aleksandr Tsyoma",
+        "Svetlana Ustinova",
+        "Vitaliya Kornienko",
+        "Alla Tsukanova"
+      ],
+      "director": [
+        "Oleg Asadulin"
+      ],
+      "country": [
+        "Russia"
+      ],
+      "rating": 4.121,
+      "year": 2016,
+      "genre": [
+        "Thriller",
+        "Crime",
+        "Horror"
+      ],
+      "added": 1789370757,
+      "duration": 5100,
+      "adult": false,
+      "tmdb": "397552",
+      "imdb": "tt5644006"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/64b82afb-6d77-41a2-9059-0755b5a4cc97/AppleHLS1/44224c1f-69c2-404d-bab9-3dfd36d087ca.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Alleys (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/sJuzblRLUu2WQocJ1WcDWzqu6l0.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/v97d71DnpkbHl3ASD7ZzVp0AWlZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v97d71DnpkbHl3ASD7ZzVp0AWlZ.jpg",
+      "plot": "In a claustrophobic neighborhood where gossip and violence police people's behavior, the lives of residents intertwine and collide as some try to maintain social norms while others try to break them.",
+      "cast": [
+        "Emad Azmi",
+        "Baraka Rahmani",
+        "Nadera Omran",
+        "Maisa Abd Elhadi",
+        "Nadeem Rimawi",
+        "Mohammad Jezawi",
+        "Islam Al-Awadi",
+        "Monzer Rayahneh",
+        "Jawdat Saleh",
+        "Ibrahim Al Nawabneh"
+      ],
+      "director": [
+        "Bassel Ghandour"
+      ],
+      "country": [
+        "Jordan",
+        "Egypt"
+      ],
+      "rating": 6.7,
+      "year": 2021,
+      "genre": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "added": 1789370758,
+      "duration": 6960,
+      "adult": false,
+      "tmdb": "796161",
+      "imdb": "tt10832002"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/97fdc2d3-af0c-4d11-9a20-9d7fd914e6b7/AppleHLS1/8bdb1eb1-cd58-4eb5-90bc-da1e408e0829.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Wedding Unplanner (2020)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/b8FLPdjw1r9EbLhmUSfkCn68cGt.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/dyvN0x7kjfadYGDszWi18llr1ZY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dyvN0x7kjfadYGDszWi18llr1ZY.jpg",
+      "plot": "Marina is a woman in her thirties who works organizing weddings. Not because she is an inveterate romantic just because, as she says, \"when people are in love, they don't care about money\". Unlike her customers, she enjoys a life without ties or commitments, until the moment when she falls in love with Carlos. The problem is not only he is about to get married, but also his fiancee is Marina's childhood friend and they have hired her as their Wedding Planner.",
+      "cast": [
+        "Belén Cuesta",
+        "Álex García",
+        "Silvia Alonso",
+        "Antonio Dechent",
+        "Mariam Hernández",
+        "Gracia Olayo",
+        "Salva Reina",
+        "Ricardo Castella",
+        "Jorge Ponce",
+        "Ernesto Sevilla"
+      ],
+      "director": [
+        "Dani de la Orden"
+      ],
+      "country": [
+        "Spain"
+      ],
+      "rating": 6.522,
+      "year": 2020,
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "added": 1789370759,
+      "duration": 6600,
+      "adult": false,
+      "tmdb": "623926",
+      "imdb": "tt9519642"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/7ab4b265-f091-46a7-86c2-a4588d661d3c/hls/58fbdd6b-3dfb-4a37-87d1-3f6ccd84957f.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Judge Archer (2016)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/tA3kBsEAbtzlPn186TlEt86Yr7H.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/so0YvHSeJ2gP5f185EQ5kDKVeD2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/so0YvHSeJ2gP5f185EQ5kDKVeD2.jpg",
+      "plot": "The spear signifies political power, the arrow personal ambition. What happens when the two collide?",
+      "cast": [
+        "Song Yang",
+        "Yu Chenghui",
+        "Chengyuan Li",
+        "Zhao Zheng",
+        "Wang Yanni",
+        "Li Chang-Lin",
+        "Ma Jun",
+        "Wang Xingkai"
+      ],
+      "director": [
+        "Xu Haofeng"
+      ],
+      "country": [
+        "China"
+      ],
+      "rating": 6.1,
+      "year": 2014,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "added": 1789370760,
+      "duration": 5640,
+      "adult": false,
+      "tmdb": "264518",
+      "imdb": "tt2543698"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/857d95ed-6277-4d9d-a46c-c40e91b72213/AppleHLS1/9b9fc7aa-310a-4295-8971-5d6ad78659fa.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Call of Heroes (2016)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/frNzgqcLNno44PhcNREjM7AEXWL.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/fugdTm2XsAIxT5wVfp20lfogJak.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fugdTm2XsAIxT5wVfp20lfogJak.jpg",
+      "plot": "During the warlords era in China, a village located in rural area called Pucheng fell into dangerous situation when its government allocated all its military force to the front line, the cruel commandant Cao from the enemy troops arrived the village and killed the innocent, the guardians of Pucheng were desperate to fight against Cao for justice and to protect their homeland.",
+      "cast": [
+        "Lau Ching-Wan",
+        "Louis Koo",
+        "Eddie Peng Yu-Yan",
+        "Wu Jing",
+        "Maggie Jiang",
+        "Yuan Quan",
+        "Liu Kai-Chi",
+        "Philip Keung Ho-Man",
+        "Xing Yu",
+        "Berg Ng Ting-Yip"
+      ],
+      "director": [
+        "Benny Chan"
+      ],
+      "country": [
+        "China",
+        "Hong Kong"
+      ],
+      "rating": 6.45,
+      "year": 2016,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "added": 1789370761,
+      "duration": 7200,
+      "adult": false,
+      "tmdb": "413198",
+      "imdb": "tt5842624"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/366fb637-14cd-4532-bd78-47b894da7aa7/AppleHLS1/c6bf38cb-8d64-4289-9fe3-f6bb03e8af3b.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "You Keep The Kids (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/oErlcO8d4PU4tu4th6GkpNURPKv.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/pHFHcQJS6uZDEzyhxUSwuDkMidN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHFHcQJS6uZDEzyhxUSwuDkMidN.jpg",
+      "plot": "Flora and Victor are fun, modern, caring parents. That is, until they decide to get a divorce, and the perfect job opportunity turns up for them. They now have one problem: custody.",
+      "cast": [
+        "Miren Ibarguren",
+        "Paco León",
+        "Sofía Oria",
+        "Iván Renedo",
+        "Laura Quirós",
+        "Eva Ugarte",
+        "Miquel Fernández",
+        "Berto Romero",
+        "Ester Expósito",
+        "Óscar Ortuño"
+      ],
+      "director": [
+        "Dani de la Orden"
+      ],
+      "country": [
+        "Spain"
+      ],
+      "rating": 7.1,
+      "year": 2021,
+      "genre": [
+        "Comedy",
+        "Family"
+      ],
+      "added": 1789370762,
+      "duration": 6180,
+      "adult": false,
+      "tmdb": "755437",
+      "imdb": "tt12443220"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/253ac169-e9e9-4944-9b68-f810f099ada4/hls/1e11a2c1-c9f1-490d-8755-017fffa2393d.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Survivor (2015)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/npyCpfYyYknFoY2iJPyfqp70FVX.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/kbvSneIEkEcxHZ3AayZUEN2xC1P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kbvSneIEkEcxHZ3AayZUEN2xC1P.jpg",
+      "plot": "A Foreign Service Officer in London tries to prevent a terrorist attack set to hit New York, but is forced to go on the run when she is framed for crimes she did not commit.",
+      "cast": [
+        "Milla Jovovich",
+        "Pierce Brosnan",
+        "Dylan McDermott",
+        "Angela Bassett",
+        "Robert Forster",
+        "James D'Arcy",
+        "Roger Rees",
+        "Genevieve O'Reilly",
+        "Frances de la Tour",
+        "Sonya Cassidy"
+      ],
+      "director": [
+        "James McTeigue"
+      ],
+      "country": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "rating": 5.704,
+      "year": 2015,
+      "genre": [
+        "Action",
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "added": 1789370763,
+      "duration": 5760,
+      "adult": false,
+      "tmdb": "334074",
+      "imdb": "tt3247714"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/43482fe9-7796-49f9-b50f-1956a45ad375/AppleHLS1/9fa00b73-5cfb-4a9a-83cf-da2d275d1360.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Quicksand (2023)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/nKOutYdpjpxdeftoXcDnSAaD2z8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nKOutYdpjpxdeftoXcDnSAaD2z8.jpg",
+      "plot": "A married couple on the brink of divorce becomes trapped in quicksand while hiking through a Colombian rainforest. It’s a struggle for survival as they battle the elements of the jungle and must work together in order to escape.",
+      "cast": [
+        "Carolina Gaitán",
+        "Allan Hawco",
+        "Sebastián Eslava",
+        "Andrés Castañeda",
+        "Allison Castrillón",
+        "Juan Manuel Combariza",
+        "Juan Camilo Pérez"
+      ],
+      "director": [
+        "Andres Beltran"
+      ],
+      "country": [
+        "Colombia",
+        "United States of America"
+      ],
+      "rating": 6.187,
+      "year": 2023,
+      "genre": [
+        "Thriller",
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "added": 1789370764,
+      "duration": 5160,
+      "adult": false,
+      "tmdb": "954388",
+      "imdb": "tt19056070"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/53504e0d-b59d-4fa4-b408-086f83e372a0/AppleHLS1/8872cfdb-fa34-4c12-ad58-c8df1ffa56d9.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Unhinged (2020)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/xfIcONZO4AiWpzm3jEpbR4llzVX.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
+      "plot": "Rachel is a divorced single mother whose bad day gets even worse. She's running late to drop her son off at school when she honks her horn impatiently at a fellow driver during rush-hour traffic. After an exchange of words, she soon realizes that the mysterious man is following her and her young son in his truck. A case of road rage quickly escalates, at horrifyingly psychotic proportions, into full-blown terror as Rachel discovers the psychopath's sinister plan for revenge. He is single-mindedly determined to teach her a deadly lesson.",
+      "cast": [
+        "Russell Crowe",
+        "Caren Pistorius",
+        "Gabriel Bateman",
+        "Jimmi Simpson",
+        "Austin P. McKenzie",
+        "Juliene Joyner",
+        "Stephen Louis Grush",
+        "Anne Leighton",
+        "Michael Papajohn",
+        "Lucy Faust"
+      ],
+      "director": [
+        "Derrick Borte"
+      ],
+      "country": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "rating": 6.426,
+      "year": 2020,
+      "genre": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "added": 1789370765,
+      "duration": 5400,
+      "adult": false,
+      "tmdb": "625568",
+      "imdb": "tt10059518"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/50525cbd-3da7-4867-a896-9fd7c74b24e7/AppleHLS1/2b6d2fe7-e96d-434c-b38c-fe6fddd9dfa6.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Transfusion (2023)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/7RuGXxFtiSrQlWjgzaMLeT9Uq4l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7RuGXxFtiSrQlWjgzaMLeT9Uq4l.jpg",
+      "plot": "Ryan Logan, a former Special Forces operative, is battling to cope with life after the loss of his wife.  He is thrusted into the criminal underworld to keep his only son from being taken from him.",
+      "cast": [
+        "Sam Worthington",
+        "Matt Nable",
+        "Phoebe Tonkin",
+        "Edward Carmody",
+        "Susie Porter",
+        "Jeremy Lindsay Taylor",
+        "Sam Parsonson",
+        "Sam Cotton",
+        "George Houvardas",
+        "Damien Strouthos"
+      ],
+      "director": [
+        "Matt Nable"
+      ],
+      "country": [
+        "Australia",
+        "United Kingdom"
+      ],
+      "rating": 6.048,
+      "year": 2023,
+      "genre": [
+        "Crime",
+        "Action",
+        "Drama"
+      ],
+      "added": 1789370766,
+      "duration": 6300,
+      "adult": false,
+      "tmdb": "842544",
+      "imdb": "tt14873054"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/d53ac2e4-fa63-4721-bee3-d6faf6b27eeb/AppleHLS1/284f75a1-b172-4acc-8961-6bca62c4a723.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Knock Knock (2015)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/cUC4rUb1Cs2KMaZ6RD4uYUEEwls.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/9DclZBBDxMrbcqNS81Pjz8opZTW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9DclZBBDxMrbcqNS81Pjz8opZTW.jpg",
+      "plot": "When a devoted husband and father is left home alone for the weekend, two stranded young women unexpectedly knock on his door for help. What starts out as a kind gesture results in a dangerous seduction and a deadly game of cat and mouse.",
+      "cast": [
+        "Keanu Reeves",
+        "Lorenza Izzo",
+        "Ana de Armas",
+        "Aaron Burns",
+        "Colleen Camp",
+        "Ignacia Allamand",
+        "Antonio Quercia",
+        "Dan Baily",
+        "Megan Baily"
+      ],
+      "director": [
+        "Eli Roth"
+      ],
+      "country": [
+        "Chile",
+        "Germany",
+        "United States of America"
+      ],
+      "rating": 5.4,
+      "year": 2015,
+      "genre": [
+        "Horror",
+        "Thriller",
+        "Crime"
+      ],
+      "added": 1789370767,
+      "duration": 5940,
+      "adult": false,
+      "tmdb": "263472",
+      "imdb": "tt3605418"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/16975e5d-76ff-4bda-a4a7-6a248ffd1f17/AppleHLS1/00d4cd6c-2abe-42c4-b091-467730c2dfe1.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Dragon Blade (2015)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/hrEbZNZQ385i4snYWyCDpYrEofO.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/rnNkUJlo03a8D0utxiOrADstaMT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rnNkUJlo03a8D0utxiOrADstaMT.jpg",
+      "plot": "Huo An, the commander of the Protection Squad of the Western Regions, was framed by evil forces and becomes enslaved. On the other hand, a Roman general escapes to China after rescuing the Prince. The heroic duo meet in the Western Desert and a thrilling story unfolds.",
+      "cast": [
+        "Jackie Chan",
+        "John Cusack",
+        "Adrien Brody",
+        "Sharni Vinson",
+        "Kevin Lee",
+        "Robert Peoples",
+        "Tomer Oz",
+        "Alfred Hsing",
+        "Max Huang",
+        "Sammy Hung Tin-Chiu"
+      ],
+      "director": [
+        "Daniel Lee"
+      ],
+      "country": [
+        "Hong Kong",
+        "China"
+      ],
+      "rating": 6.412,
+      "year": 2015,
+      "genre": [
+        "Adventure",
+        "History",
+        "Action",
+        "Fantasy"
+      ],
+      "added": 1789370769,
+      "duration": 7620,
+      "adult": false,
+      "tmdb": "300168",
+      "imdb": "tt3672840"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/bb318c0c-f9a5-4bd4-884f-249461f66172/AppleHLS1/b5d69717-4dfa-4133-b392-5d273ce69be9.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Hard Hit (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/y2Aimt8isimtigec3e4kB2G9FMR.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/atPlFdUrQl2U9MtUwujrrjnQHBA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/atPlFdUrQl2U9MtUwujrrjnQHBA.jpg",
+      "plot": "On his way to work, a bank manager receives an anonymous call claiming there's a bomb under his car seat, and if anyone exits the car, it will explode unless he can pay a ransom.",
+      "cast": [
+        "Jo Woo-jin",
+        "Lee Jae-in",
+        "Ji Chang-wook",
+        "Jin Kyung",
+        "Kim Ji-ho",
+        "Jun Seok-ho",
+        "Jung In-gi",
+        "Ryu Seung-soo",
+        "Jeon Kwang-jin",
+        "Jung Ae-yeun"
+      ],
+      "director": [
+        "Kim Chang-ju"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "rating": 7.493,
+      "year": 2021,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "added": 1789370770,
+      "duration": 5640,
+      "adult": false,
+      "tmdb": "654739",
+      "imdb": "tt14980972"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/6d3e844d-0c28-4eb9-a285-b8c3ec84e6a5/AppleHLS1/bafa4b72-5c59-40fc-87ba-369d86d7ee29.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "SEE FOR ME (2023)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/1byCCuKoEzpv36CtUt7uwUNvMs4.jpg",
+      "bg": "https://api.vrott.tv/uploads/compressedImages/a2f04fff9be0e6dbbc37e9404b045ab3-300x400.png",
+      "backdrop": "https://api.vrott.tv/uploads/compressedImages/a2f04fff9be0e6dbbc37e9404b045ab3-300x400.png",
+      "plot": "An art gallery attendant follows a young woman she suspects is the child she gave up for adoption many years earlier.",
+      "cast": [
+        "Helen O'Leary",
+        "Grace Royle",
+        "Sidney Shorten"
+      ],
+      "director": [
+        "Kris Kneen",
+        "Anthony Mullins"
+      ],
+      "rating": 0,
+      "year": 2023,
+      "added": 1789370771,
+      "duration": 720,
+      "adult": false,
+      "tmdb": "1456362",
+      "imdb": "tt31382134"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/5145a521-2b96-45de-a767-e3382912e945/AppleHLS1/46-See_For_Me-Tamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Silent Hours (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/re09M47jDGgoumSBrKtaOpIeLp7.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/8R8K2CeyHKVX5QX6CuYcu0hIuGq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8R8K2CeyHKVX5QX6CuYcu0hIuGq.jpg",
+      "plot": "Private detective John Duval, an ex-lieutenant commander in the Royal Navy and Naval Intelligence, finds himself the prime suspect in a police hunt for a sexual killer when three women are brutally murdered.",
+      "cast": [
+        "James Weber Brown",
+        "Indira Varma",
+        "Dervla Kirwan",
+        "Annie Cooper",
+        "Hugh Bonneville",
+        "Tom Beard",
+        "Susie Amy",
+        "Alistair Petrie",
+        "Elizabeth Healey",
+        "Vicki Michelle"
+      ],
+      "director": [
+        "Mark Greenstreet"
+      ],
+      "rating": 5.27,
+      "year": 2021,
+      "genre": [
+        "Thriller",
+        "Mystery"
+      ],
+      "added": 1789370772,
+      "duration": 9300,
+      "adult": false,
+      "tmdb": "882251",
+      "imdb": "tt10360104"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/1389a6c3-614f-4312-8f88-6066be6f40c8/hls/de248a31-2185-49a0-8f5d-70a152622c7e.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Red Ghost (2023)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/9OFF92pkqDgR5d5yp0JhdjXXwrc.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/ekjm6VTCu64gk0UcGWnCMxuwbdk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ekjm6VTCu64gk0UcGWnCMxuwbdk.jpg",
+      "plot": "December 30, 1941. Vyazma ('Vyazemsky cauldron') is a small detachment of Soviet soldiers, by fatal coincidence, in an unequal battle with a special unit of the Wehrmacht. However, none of them think about giving up. Each of them was ready to sacrifice his life in order to protect his native land. None of these brave people was born a hero. The myth of the red ghost is a heroic deed without a soldier's Soviet soldier in the Great Patriotic War who instilled in the animals, deadly fear of German soldiers. In place of one of the dead hero was inserted another, and the born myth of the invincible Soviet soldier. The film 'Red Ghost' is about the hope that each soldier will have.",
+      "cast": [
+        "Aleksei Shevchenkov",
+        "Vladimir Gostyukhin",
+        "Yura Borisov",
+        "Polina Chernyshova",
+        "Wolfgang Cerny",
+        "Mikhail Gorevoy",
+        "Olga Stashkevich",
+        "Pavel Abramenkov",
+        "Vyacheslav Shikhaleev",
+        "Oleg Vasilkov"
+      ],
+      "director": [
+        "Andrey Bogatyrev"
+      ],
+      "country": [
+        "Russia"
+      ],
+      "rating": 5.955,
+      "year": 2021,
+      "genre": [
+        "War",
+        "Drama",
+        "History"
+      ],
+      "added": 1789370774,
+      "duration": 5760,
+      "adult": false,
+      "tmdb": "575842",
+      "imdb": "tt10508258"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/d5aa4ccc-b133-482a-ab17-6c5ac7ebb036/AppleHLS1/feb53bac-68b6-4830-9c6c-ac141a82838c.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Sword Identity (2012)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/557FlrywNJUtzkVxn645errCuUq.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/IiBoQ7v9YV4qM1lE9uFus1nw9l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/IiBoQ7v9YV4qM1lE9uFus1nw9l.jpg",
+      "plot": "During the Ming Dynasty one man will request a competition when his weapon is rejected. After a series of fights he is determined to prove his sword is invincible.",
+      "cast": [
+        "Song Yang",
+        "Yu Chenghui",
+        "Ma Jun",
+        "Fujing Xu",
+        "Ma Ke",
+        "Zhao Yuanyuan"
+      ],
+      "director": [
+        "Xu Haofeng"
+      ],
+      "country": [
+        "China"
+      ],
+      "rating": 5.191,
+      "year": 2012,
+      "genre": [
+        "Drama",
+        "Action"
+      ],
+      "added": 1789370775,
+      "duration": 6600,
+      "adult": false,
+      "tmdb": "120460",
+      "imdb": "tt2044077"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/6282f096-386e-432b-97f3-02b41b88e717/AppleHLS1/b2999464-582d-493e-9858-674a1f3f7a63.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Confidential Assignment (2017)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/lztwhhTW69e7DoAngChcA00FLdE.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/lrZXLxzq9NaFJ0TzyJOH2HKsrWH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lrZXLxzq9NaFJ0TzyJOH2HKsrWH.jpg",
+      "plot": "When a crime organization from North Korea crosses borders and enters South Korean soil, a South Korean detective must cooperate with a North Korean detective to investigate their whereabouts.",
+      "cast": [
+        "Hyun Bin",
+        "Yoo Hai-jin",
+        "Kim Joo-hyuk",
+        "Jang Young-nam",
+        "Lee Dong-hwi",
+        "Yoona",
+        "Kong Jeong-hwan",
+        "Lee Hae-young",
+        "Park Min-ha",
+        "Jeon Kuk-hwan"
+      ],
+      "director": [
+        "Kim Sung-hoon"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "rating": 6.775,
+      "year": 2017,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "added": 1789370776,
+      "duration": 7500,
+      "adult": false,
+      "tmdb": "434119",
+      "imdb": "tt5606538"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/a391949f-ec99-42e5-ac7e-f98f21d60368/AppleHLS1/12-Confidential_Assignment-Tamil.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Skin In Flames (2023)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/h0y040vR5DoKHP2m4N7UQ2QdkGa.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/wT4s28Vj6URVk6hoJJ6DDVPch2P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wT4s28Vj6URVk6hoJJ6DDVPch2P.jpg",
+      "plot": "Frederick Salomon, a war photojournalist who became worldwide famous for capturing the image of a girl flying through the air as consequence of an explosion, returns to the country where he took the celebrated picture twenty years before. He is back to receive an award, as many consider him an essential piece in the recent peace efforts in the troubled country. But a local journalist called Hanna doesn’t agree, and wants to kill him for a reason only Salomon knows.",
+      "cast": [
+        "Óscar Jaenada",
+        "Fernando Tejero",
+        "Ella Kweku",
+        "Lidia Nené",
+        "Francisco González Leal",
+        "Noé Ramos",
+        "Raquel Rial"
+      ],
+      "director": [
+        "David Martín Porras"
+      ],
+      "country": [
+        "Spain"
+      ],
+      "rating": 5.667,
+      "year": 2022,
+      "genre": [
+        "Thriller"
+      ],
+      "added": 1789370778,
+      "duration": 5220,
+      "adult": false,
+      "tmdb": "940215",
+      "imdb": "tt13518808"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/51d00a82-0ccd-4956-87c5-e0ca9e3bdcc6/hls/9f4e4e8f-a6b4-4e1b-8bcb-5bc9c54ae6e9.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Master (2017)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/onDrDG7BxvSIcmdWSdz3t92yPb.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/dfGWqp8kbf9IGWFZQEKhnXAjWD4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dfGWqp8kbf9IGWFZQEKhnXAjWD4.jpg",
+      "plot": "Korea’s biggest network marketing scam reveals a far greater network of corruption and conspiracy lurking underneath.",
+      "cast": [
+        "Lee Byung-hun",
+        "Gang Dong-won",
+        "Kim Woo-bin",
+        "Uhm Ji-won",
+        "Oh Dal-su",
+        "Jin Kyung",
+        "Jung Won-joong",
+        "Yoo Yeon-soo",
+        "Cho Hyun-chul",
+        "Park Hae-soo"
+      ],
+      "director": [
+        "Cho Ui-seok"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "rating": 6.9,
+      "year": 2016,
+      "genre": [
+        "Crime",
+        "Action"
+      ],
+      "added": 1789370779,
+      "duration": 8580,
+      "adult": false,
+      "tmdb": "382220",
+      "imdb": "tt5735464"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/b9a3440b-1f30-40a5-a0ad-ae4a4f78a580/AppleHLS1/a70fb289-7a02-4e83-a960-139ab8cd373a.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Jeepers Creepers Reborn (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/aGBuiirBIQ7o64FmJxO53eYDuro.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/jpipejVjqn7ifln05xeq9zpvprf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jpipejVjqn7ifln05xeq9zpvprf.jpg",
+      "plot": "Forced to travel to a horror festival with her boyfriend, a young woman begins experiencing premonitions associated with the urban myth of The Creeper. She believes that something supernatural has been summoned — and that she is at the center of it all.",
+      "cast": [
+        "Sydney Craven",
+        "Imran Adams",
+        "Jarreau Benjamin",
+        "Peter Brooke",
+        "Ocean Navarro",
+        "Matt Barkley",
+        "Dee Wallace",
+        "Gary Graham",
+        "Gabriel Freilich",
+        "Timo Vuorensola"
+      ],
+      "director": [
+        "Timo Vuorensola"
+      ],
+      "country": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "rating": 5.261,
+      "year": 2022,
+      "genre": [
+        "Horror"
+      ],
+      "added": 1789370780,
+      "duration": 5280,
+      "adult": false,
+      "tmdb": "717728",
+      "imdb": "tt14121726"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/77269cda-d76c-4352-a90a-34b515b744fc/AppleHLS1/3ebf6468-551b-4ea3-be0c-d44bbd7c2af5.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Bodyguard (2016)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/kF4myFLIDxqsuce5swGLWP6XKze.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/wpDlX8vEHnJSvHCrprMtVM5tDnv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wpDlX8vEHnJSvHCrprMtVM5tDnv.jpg",
+      "plot": "A retired bodyguard who has settled into a corner of the world where China, Russia and North Korea meet as he suffers from early dementia finds a new friend in a young girl. When her life is threatened by her father's connection with a local crime lord, the bodyguard must call upon his long forgotten skills to save her.",
+      "cast": [
+        "Sammo Kam-Bo Hung",
+        "Andy Lau",
+        "Zhu Yuchen",
+        "Li Qinqin",
+        "Feng Jiayi",
+        "Jacqueline Chan",
+        "Eddie Peng Yu-Yan",
+        "William Feng",
+        "Hu Jun",
+        "Song Jia"
+      ],
+      "director": [
+        "Sammo Kam-Bo Hung"
+      ],
+      "country": [
+        "China",
+        "Hong Kong",
+        "Malaysia"
+      ],
+      "rating": 5.839,
+      "year": 2016,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "added": 1789370781,
+      "duration": 5940,
+      "adult": false,
+      "tmdb": "315669",
+      "imdb": "tt4076934"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/9619d0b2-8f18-4499-96ce-79f55a997e06/AppleHLS1/3b2bc75a-c47d-4a45-a974-432c570af960.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Thunder Chase (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/pjk9OLSRSMhXWNqOn0XlgtBTQNC.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/9FoCIhbQIZoecP4vuNyiIN5GW9d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9FoCIhbQIZoecP4vuNyiIN5GW9d.jpg",
+      "plot": "Thunder, a veteran who used to be a private bodyguard abroad, learned that his son Leo was lured by foreign gangs to use it as a bargaining chip in a hunting game for living people. Thunder and two friends brought equipment into the jungle of a foreign country and fought several times. Save the son, but the brother becomes a hostage. At the scene of the strangulation, Thunder was willing to change her life. At this time, a woman he had saved appeared. It turned out that she was the boss of the hunting and killing organization. Was she acquainted or not saved? Or, in the face of the red-eye bad guy, can she turn the tide?",
+      "cast": [
+        "Liu Mu",
+        "Elaija Chekhov",
+        "Liang Ye Wen",
+        "Xiao Xiao",
+        "Zhao Qihang"
+      ],
+      "director": [
+        "Zhang Yingli",
+        "Chen Hao-nan"
+      ],
+      "country": [
+        "China"
+      ],
+      "rating": 8,
+      "year": 2021,
+      "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "added": 1789370782,
+      "duration": 5160,
+      "adult": false,
+      "tmdb": "797501",
+      "imdb": "tt13835330"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/83e484bf-3bf6-4c47-a32b-e189db0d4cc6/AppleHLS1/ff4c6e08-3358-416c-81af-715243d4e1cf.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Icon (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/42vc2WjtffMQVn6t7yQhYpRgMEv.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/mUYDBNQ3iMcnsqxUwC2yDFj7LU9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mUYDBNQ3iMcnsqxUwC2yDFj7LU9.jpg",
+      "plot": "A gripping war drama that tells the story of Maria Petrova, in whose fate, as in a mirror, the fate of the country was reflected: the daughter of a priest, who renounced her father and the faith, she serves in the NKVD. On the eve of the battle for Moscow, Maria meets the clairvoyant eldress Matrona, and soon it is Maria who is tasked to deliver to Moscow the miraculous icon of the Mother of God, located behind the front line in the occupied territory...",
+      "cast": [
+        "Mariya Lugovaya",
+        "Artur Smolyaninov",
+        "Ilya Malakov",
+        "Sergey Puskepalis",
+        "Olga Lapshina",
+        "Sergej Kolesnikov",
+        "Valery Gorin",
+        "Vadim Medvedev",
+        "Stanislav Selivanov",
+        "Viktor Venes"
+      ],
+      "director": [
+        "Vera Storozheva"
+      ],
+      "country": [
+        "Russia"
+      ],
+      "rating": 5.9,
+      "year": 2022,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "added": 1789370783,
+      "duration": 7200,
+      "adult": false,
+      "tmdb": "610349",
+      "imdb": "tt16152948"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/6968b942-74d1-4481-9d95-d534e06d6b19/AppleHLS1/edef7f11-35c3-49b4-90ce-b213b749f989.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Jolt (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/b0fBzqCmHr0a0XkeAdhc02XhKXG.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/wPjtacig0kIkVcTQmXoNt6jbMwo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wPjtacig0kIkVcTQmXoNt6jbMwo.jpg",
+      "plot": "A bouncer with an anger management problem goes on a furious and resentful rampage after the murder of a friend.",
+      "cast": [
+        "Kate Beckinsale",
+        "Stanley Tucci",
+        "Bobby Cannavale",
+        "Jai Courtney",
+        "Laverne Cox",
+        "Constantine Gregory",
+        "Ori Pfeffer",
+        "David Bradley",
+        "Susan Sarandon",
+        "Lewis Ian Bray"
+      ],
+      "director": [
+        "Tanya Wexler"
+      ],
+      "country": [
+        "Bulgaria",
+        "France",
+        "United States of America"
+      ],
+      "rating": 6.496,
+      "year": 2021,
+      "genre": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "added": 1789370784,
+      "duration": 5460,
+      "adult": false,
+      "tmdb": "617502",
+      "imdb": "tt10228134"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/1f61c9e0-6ea2-4501-89c9-578982aab560/AppleHLS1/a1d173ac-54ff-48ed-8497-6d8a08fc01b0.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Half way Home (2022)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://api.vrott.tv/uploads/compressedImages/8ac17494c9911996da7c519c39a4080d-300x400.png",
+      "bg": "https://api.vrott.tv/uploads/compressedImages/8ac17494c9911996da7c519c39a4080d-300x400.png",
+      "backdrop": "https://api.vrott.tv/uploads/compressedImages/8ac17494c9911996da7c519c39a4080d-300x400.png",
+      "plot": "34-year-old Melanie lives with the knowledge she will die within 10 years due to autoimmune disease. Having survived a near fatal operation, Melanie escapes the stresses of city life to search for her ideal home… but it’s not as easy as that.",
+      "director": [
+        "Paul Gray"
+      ],
+      "country": [
+        "United Kingdom"
+      ],
+      "rating": 0,
+      "year": 2008,
+      "genre": [
+        "Documentary"
+      ],
+      "added": 1789370786,
+      "duration": 660,
+      "adult": false,
+      "tmdb": "1190932"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/adf50bdf-8661-4c21-9369-50a1d1135551/AppleHLS1/c57a8420-dbf8-4491-a35a-c6cb07e96741.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Poison Rose (2020)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/gSzyUmg719TgAxarFZYWjLLMqvS.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/cXpkDrZWK8amdYXzf24LH67Vftn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cXpkDrZWK8amdYXzf24LH67Vftn.jpg",
+      "plot": "A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.",
+      "cast": [
+        "John Travolta",
+        "Morgan Freeman",
+        "Peter Stormare",
+        "Famke Janssen",
+        "Robert Patrick",
+        "Brendan Fraser",
+        "Kat Graham",
+        "Alice Pagani",
+        "Steve Eifert",
+        "Ella Bleu Travolta"
+      ],
+      "director": [
+        "George Gallo",
+        "Francesco Cinquemani"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 4.738,
+      "year": 2019,
+      "genre": [
+        "Thriller",
+        "Crime"
+      ],
+      "added": 1789370787,
+      "duration": 5880,
+      "adult": false,
+      "tmdb": "529983",
+      "imdb": "tt5862166"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/144da009-7d7d-4ef1-9c09-2ec115559b1c/AppleHLS1/1b9a0f51-39f7-439a-8f48-c9c4847eee49.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Angel Maker (2023)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/cqqDvNVqAN3Z3VWtfcuDlAlRXeh.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/cTE68uJ57CrhlWz0H0DQ3bABbFt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cTE68uJ57CrhlWz0H0DQ3bABbFt.jpg",
+      "plot": "Laura is a detective on leave with postpartum depression. When a horrifying serial killer begins methodically murdering women in the most brutal ways, she decides it is time to return to the field. As the bodies pile up, it becomes increasingly clear that she too hides a dark secret that could derail the case and her career.",
+      "cast": [
+        "Julie R. Ølgaard",
+        "Roland Møller",
+        "Stine Stengade",
+        "Christopher Læssø",
+        "Andrea Vagn Jensen",
+        "Marc Harpsøe",
+        "Niels Anders Thorn",
+        "Amanda-Lie Rasmussen",
+        "Christine Gjerulff",
+        "Michael Asmussen"
+      ],
+      "director": [
+        "Esben Tønnesen",
+        "Julie R. Ølgaard"
+      ],
+      "country": [
+        "Denmark"
+      ],
+      "rating": 5.5,
+      "year": 2023,
+      "genre": [
+        "Mystery",
+        "Thriller",
+        "Crime",
+        "Horror"
+      ],
+      "added": 1789370788,
+      "duration": 5640,
+      "adult": false,
+      "tmdb": "1115377",
+      "imdb": "tt22203026"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/c28f01e8-6b1b-4b3d-95b4-3ddcbb2bc882/AppleHLS1/1222ad4c-be8b-4147-95a2-83960de88a9b.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Saigon Bodyguard (2016)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/1x9nM6wJAoq8wdiVr4Y15mkGJi8.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/6xO94w3yLLSsdJz3SvoI6ckQuR7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6xO94w3yLLSsdJz3SvoI6ckQuR7.jpg",
+      "plot": "Saigon Bodyguards follows the intense and hilarious journey of two professional bodyguards tasked with their most important assignment ever.",
+      "cast": [
+        "Thái Hòa",
+        "Chi Pu",
+        "B Trần",
+        "Kim Ly",
+        "Khương Ngọc",
+        "Diệp Lâm Anh"
+      ],
+      "director": [
+        "Ken Ochiai"
+      ],
+      "country": [
+        "Vietnam",
+        "Canada"
+      ],
+      "rating": 6,
+      "year": 2016,
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "added": 1789370789,
+      "duration": 6720,
+      "adult": false,
+      "tmdb": "444330",
+      "imdb": "tt5514372"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/3bd9b616-83fc-4e8f-9bad-6c278de23161/AppleHLS1/106275ff-38d0-46e4-bab4-847343081550.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Only Way Out (2021)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/pUVnTiA966Mg47sfIyR1Rrfaqeo.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/hgV7kSe4uqpEddWpkkOuNeFZZZ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hgV7kSe4uqpEddWpkkOuNeFZZZ3.jpg",
+      "plot": "Six years after her husband, a prominent Belgrade lawyer, died in a fire, Anja Kolar receives information that makes her question everything she thought she knew about the accident and about her own family as well. At the same time the sudden death of his best friend's daughter draws police inspector Dejan Strbac into a whirlpool of crimes, starting with the mysterious disappearance of a young female lawyer, which took place six years earlier.",
+      "cast": [
+        "Anđelka Prpić",
+        "Ljubomir Bandović",
+        "Janko Popović Volarić",
+        "Arnaud Humbert",
+        "Nikola Ristanovski",
+        "Radoslav 'Rale' Milenković",
+        "Slobodan Beštić",
+        "Marko Janjić",
+        "Miloš Vlalukin",
+        "Danica Maksimović"
+      ],
+      "director": [
+        "Darko Nikolić"
+      ],
+      "country": [
+        "Serbia"
+      ],
+      "rating": 6,
+      "year": 2021,
+      "genre": [
+        "Thriller"
+      ],
+      "added": 1789370790,
+      "duration": 5400,
+      "adult": false,
+      "tmdb": "672489",
+      "imdb": "tt11050886"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/0bf65fdb-7ff1-42f5-86dc-73988279b119/AppleHLS1/e9ccf43c-ef50-4168-9c08-b9401dd11070.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Air Strike (2018)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/ve7xmUK167YZloN8LnSyhKmmNgE.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/fhYWAKXeEbhD20S3sp4RFaxiOG9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fhYWAKXeEbhD20S3sp4RFaxiOG9.jpg",
+      "plot": "An American pilot is sent to a Chinese province to teach a crew of would-be pilots how to fly war planes against the Japanese during World War II.",
+      "cast": [
+        "Liu Ye",
+        "Bruce Willis",
+        "Adrien Brody",
+        "Song Seung-heon",
+        "Fan Wei",
+        "Cao Kefan",
+        "Fan Bingbing",
+        "William Chan",
+        "Nicholas Tse Ting-Fung",
+        "Rumer Willis"
+      ],
+      "director": [
+        "Feng Xiao"
+      ],
+      "country": [
+        "China",
+        "United States of America"
+      ],
+      "rating": 5.055,
+      "year": 2018,
+      "genre": [
+        "Action",
+        "Drama",
+        "War",
+        "History"
+      ],
+      "added": 1789370791,
+      "duration": 7620,
+      "adult": false,
+      "tmdb": "345934",
+      "imdb": "tt4743226"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/ad9ef406-8f68-484e-8df0-a5af23ab3173/AppleHLS1/008d1e03-a5eb-43af-a037-b5d32b24733d.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Courier (2019)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/jE6QFRd48IzAxAubOE9HKB8sTjP.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/g4L7cBgXk5FSykoCoL4QEGjlIUy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g4L7cBgXk5FSykoCoL4QEGjlIUy.jpg",
+      "plot": "Ezekiel Mannings, a vicious crime boss, is out to kill Nick, the lone witness set to testify against him. He hires a mysterious female motorcycle courier to unknowingly deliver a poison-gas bomb to slay Nick, but after she rescues Nick from certain death, the duo must confront an army of ruthless hired killers in order to survive the night.",
+      "cast": [
+        "Olga Kurylenko",
+        "Gary Oldman",
+        "Dermot Mulroney",
+        "William Moseley",
+        "Alicia Agneson",
+        "Amit Shah",
+        "Craig Conway",
+        "Lee Charles",
+        "Joel Michaely",
+        "Greg Orvis"
+      ],
+      "director": [
+        "Zackary Adler"
+      ],
+      "country": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "rating": 5.973,
+      "year": 2019,
+      "genre": [
+        "Action",
+        "Thriller",
+        "Adventure",
+        "Crime"
+      ],
+      "added": 1789370792,
+      "duration": 5940,
+      "adult": false,
+      "tmdb": "611914",
+      "imdb": "tt8075016"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/8a82a1c5-1fd2-41fb-aa80-823fd9780bf2/AppleHLS1/3c5978f2-d073-4b52-8c38-6b9225711960.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Looking Glass (2018)",
+    "category": {
+      "name": "VROTT",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/vrott.jpg"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/y10CET6cNCDgtrJ5psZmjtg9jGI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y10CET6cNCDgtrJ5psZmjtg9jGI.jpg",
+      "plot": "A psycho- sexual thriller following a couple that buys an old motel in the desert looking for a new beginning, but what seemed at first as an escape is soon a thrilling ride through a mysterious world when Ray discovers a two way mirror and witnesses a horrifying murder. In a twisted game of cat and mouse, Ray must race to save his wife and himself from a gruesome secret connected to the motel and the strange people who visit there.",
+      "cast": [
+        "Nicolas Cage",
+        "Robin Tunney",
+        "Marc Blucas",
+        "Ernie Lively",
+        "Jacque Gray",
+        "Bill Bolender",
+        "Barry Jay Minoff",
+        "Kassia Conway",
+        "Jason K. Wixom",
+        "Sila Agavale"
+      ],
+      "director": [
+        "Tim Hunter"
+      ],
+      "country": [
+        "United States of America",
+        "Canada"
+      ],
+      "rating": 4.791,
+      "year": 2018,
+      "genre": [
+        "Thriller",
+        "Mystery"
+      ],
+      "added": 1789370793,
+      "duration": 6180,
+      "adult": false,
+      "tmdb": "437375",
+      "imdb": "tt6083648"
+    },
+    "video": "https://ottplay-prod.b-cdn.net/790f9de9-29a7-4f0b-8170-1170f9bac83c/AppleHLS1/c965760e-7362-4096-b8f0-d6e19787d998.m3u8",
+    "source-format": "hls"
   }
 ]
