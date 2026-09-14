@@ -62812,5 +62812,1832 @@
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
     },
     "source-format": "hls"
+  },
+
+  {
+    "name": "Robert And The Toymaker",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Robert_and_the_Toymaker/Robert_and_the_Toymaker_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Robert_and_the_Toymaker/Robert_and_the_Toymaker_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Robert_and_the_Toymaker/Robert_and_the_Toymaker_ta_1280.jpg",
+      "added": 1789371688
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Robert_And_The_Toymaker/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Dawnseeker in Tamil",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Dawnseeker/THE_DAWNSEEKER_TA_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Dawnseeker/THE_DAWNSEEKER_TA_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Dawnseeker/THE_DAWNSEEKER_TA_1280.jpg",
+      "added": 1789371689
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Dawnseeker_New/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Sons of Liberty in Tamil",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/new_thumb/movies/tamil/Sons_of_Liberty/Sons_of_Liberty_ta_1080.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/new_thumb/movies/tamil/Sons_of_Liberty/Sons_of_Liberty_ta_1080.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/new_thumb/movies/tamil/Sons_of_Liberty/Sons_of_Liberty_ta_1080.jpg",
+      "added": 1789371689
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Sons_Of_Liberty/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Love Finds You In Valentine",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/ezne6rc2Zm4EQn86kjoZ2VIJZTN.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/mWMfqLQXl8vG9ZQ6ZoZKQZuTnvS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mWMfqLQXl8vG9ZQ6ZoZKQZuTnvS.jpg",
+      "plot": "Kennedy Blaine, a Californian girl, inherits a ranch in the small town of Valentine in Nebraska. Before she sells the property, she decides to spend the summer in her house and learn more about her family.",
+      "cast": [
+        "Michaela McManus",
+        "Diogo Morgado",
+        "Ed Asner",
+        "Lindsay Wagner",
+        "Hunter Cross",
+        "James Kisicki",
+        "Kellen Boyle",
+        "John Eby",
+        "Danny Rios",
+        "Brian Bartels"
+      ],
+      "director": [
+        "Terry Cunningham"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 6.4,
+      "year": 2016,
+      "genre": [
+        "Drama",
+        "TV Movie",
+        "Romance"
+      ],
+      "added": 1789371690,
+      "duration": 5520,
+      "adult": false,
+      "tmdb": "383256",
+      "imdb": "tt4769430"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Love_Finds_You_In_Valentine/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Poison At The East Palace",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/fUlzbMu9VtnUxGjsu1BzMvtx7T9.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/rpzaQ4zQowfquCuQXhIFzkVWFWd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rpzaQ4zQowfquCuQXhIFzkVWFWd.jpg",
+      "plot": "The prince at the East Palace travels incognito and gets poisoned due to eating inappropriate food. Since the doctors in the royal hospital have no idea how to cure the poisoning, the top medical official, Doctor Long, asks Long Chongjiu to treat the prince. Liu Feichun, an imperial guard is assigned to investigate the case of assassination of the prince.",
+      "cast": [
+        "Liu Jing",
+        "Li Yan",
+        "Li Guangbin"
+      ],
+      "director": [
+        "Chao Xu"
+      ],
+      "country": [
+        "China"
+      ],
+      "rating": 2,
+      "year": 2018,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "added": 1789371691,
+      "adult": false,
+      "tmdb": "1055631",
+      "imdb": "tt14223364"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/The_Poison_at_the_East_Palace/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Changan Swordsmen 4th - The Pomegranate Beauty",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/lTxSTJe0X4dBrE7QnARwvH8UEue.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/wAfJ36rpQ5rw0a9FPLjjr8uS3XO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wAfJ36rpQ5rw0a9FPLjjr8uS3XO.jpg",
+      "plot": "The pomegranate beauty is famous in Chang'an. At night, the pomegranate beauty was surrounded by the admiration of everyone. Only Li Yufeng was called by name, which made everyone jealous. In the early morning of the next day, Jiang Xiaoxiao died tragically in the boudoir. It turns out that the Pomegranate Beauty case was a trap set up by Xue Weiyang and Jiang Xiaoxiao. Li Yufeng used the package swap trick to get back the real roster and vindicate Zhaoxue for himself.",
+      "cast": [
+        "Yang Junyu",
+        "Yang Xuchen",
+        "Liu Zhuoting",
+        "Xiao Wei"
+      ],
+      "director": [
+        "Zhang Lei"
+      ],
+      "rating": 0,
+      "year": 2016,
+      "added": 1789371692,
+      "adult": false,
+      "tmdb": "1207938"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Changan_Swordsmen_IV/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Nine Warriors Part 2",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/6gP0b9Mf8P5ykO0hoZPEEpMmXH0.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/vTvUW3y3CiJib6IJjQ1wCYejPQr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vTvUW3y3CiJib6IJjQ1wCYejPQr.jpg",
+      "cast": [
+        "Cui Youbin",
+        "Qu Yu",
+        "Li Yan",
+        "Qian Chenjie",
+        "Fang Shuai",
+        "Zhai Lin"
+      ],
+      "country": [
+        "China"
+      ],
+      "rating": 0,
+      "year": 2018,
+      "genre": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "added": 1789371692,
+      "adult": false,
+      "tmdb": "898821",
+      "imdb": "tt14209756"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Nine_Warriors_1/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Nine Warriors Part 1",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/9Re6n4opHpMmOVP4o1kPjPgjWT9.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/lJrXBLuB95mIXqP5nEkxI5YljRr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lJrXBLuB95mIXqP5nEkxI5YljRr.jpg",
+      "cast": [
+        "Cui Youbin",
+        "Zhai Lin",
+        "Li Yan",
+        "Qian Chenjie",
+        "Fang Shuai"
+      ],
+      "director": [
+        "Ming He"
+      ],
+      "country": [
+        "China"
+      ],
+      "rating": 0,
+      "year": 2018,
+      "genre": [
+        "Action",
+        "Mystery",
+        "Drama"
+      ],
+      "added": 1789371693,
+      "duration": 5520,
+      "adult": false,
+      "tmdb": "899223",
+      "imdb": "tt14162480"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Nine_Warriors_1/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Power Game",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/yX3CG4gnLFlelWnAiokyJFkxtwf.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/power_game/power_game_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/power_game/power_game_ta_1280.jpg",
+      "cast": [
+        "Jon Finch",
+        "Catriona MacColl",
+        "Neil Hallett",
+        "Lautaro Murúa",
+        "Ramiro Oliveros",
+        "José Lifante",
+        "Isabel García Lorca",
+        "Miguel Rellán",
+        "Fernando Hilbeck",
+        "Juan Diego Botto"
+      ],
+      "director": [
+        "Fausto Canel"
+      ],
+      "country": [
+        "Spain",
+        "United Kingdom"
+      ],
+      "rating": 9,
+      "year": 1983,
+      "genre": [
+        "Thriller"
+      ],
+      "added": 1789371694,
+      "adult": false,
+      "tmdb": "751627",
+      "imdb": "tt0084528"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/power_game/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Changan Swordsmen 3rd - Twelve Dead Warriors",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_3_Twelve_Dead_Warriors/Changan_Swordsmen_3_Twelve_Dead_Warriors_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_3_Twelve_Dead_Warriors/Changan_Swordsmen_3_Twelve_Dead_Warriors_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_3_Twelve_Dead_Warriors/Changan_Swordsmen_3_Twelve_Dead_Warriors_ta_1280.jpg",
+      "added": 1789371694
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Changan_Swordsmen_III_Twelve_Dead_Warrior/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Changan Swordsmen 2nd - Strange Murder",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/rDpHLxUmXUI4bZ7nI2L9rjmnpWv.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_II-A_Strange_Murder/Changan_Swordsmen_2A_Strange_Murder_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_II-A_Strange_Murder/Changan_Swordsmen_2A_Strange_Murder_1280.jpg",
+      "cast": [
+        "Yang Junyu",
+        "Yang Xuchen",
+        "Liu Zhuoting",
+        "Xiao Wei"
+      ],
+      "director": [
+        "Zhang Lei"
+      ],
+      "rating": 0,
+      "year": 2016,
+      "added": 1789371695,
+      "adult": false,
+      "tmdb": "858941"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Changan_Swordsmen_II-A_Strange_Murder/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Changan Swordsmen 1st - A Mystry Of Gods Wrat",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_I-A_Mystery_of_God/Changan_Swordsmen_I-A_Mystery_of_God_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_I-A_Mystery_of_God/Changan_Swordsmen_I-A_Mystery_of_God_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Changan_Swordsmen_I-A_Mystery_of_God/Changan_Swordsmen_I-A_Mystery_of_God_1280.jpg",
+      "added": 1789371695
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Changan_Swordsmen_I-A_Mystery_of_God/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The One Who Steal Others",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/33NUgF7V6HyeB9F4Nes0uEfB52w.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/oSpFctptvqVzMgIvTCMCQR0iZ6U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oSpFctptvqVzMgIvTCMCQR0iZ6U.jpg",
+      "plot": "When Liu Feichun serves as the police commissioner of Xiangyang County, a woman in the city is killed and her heart is stolen. Liu hurried to the crime scene and encounters Long Chongjiu who disguises himself as a roving doctor.",
+      "cast": [
+        "Li Guangbin",
+        "Liu Jing",
+        "Wang Junyi"
+      ],
+      "director": [
+        "Chao Xu"
+      ],
+      "rating": 2,
+      "year": 2018,
+      "added": 1789371696,
+      "adult": false,
+      "tmdb": "1055611",
+      "imdb": "tt14245154"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/The_One_Who_Steal_others_heart/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Curse of the Nun",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/7ksU3xPkEnfd7XClq7c2owSTKIA.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/p0pKZAO232EGMIYHav45qWaNuES.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/p0pKZAO232EGMIYHav45qWaNuES.jpg",
+      "plot": "A damaged young woman is looking forward to moving to a beautiful new home, but the spirit of a deranged nun wants her to stay right where she is.",
+      "cast": [
+        "Lacy Hartselle",
+        "Jonathan Everett",
+        "Rae Hunt",
+        "Kate Kilcoyne",
+        "Aaron Mirtes",
+        "Alice Raver",
+        "Cale Adcock",
+        "Michael T. Flynn",
+        "Brad Belemjian"
+      ],
+      "director": [
+        "Aaron Mirtes"
+      ],
+      "rating": 4.1,
+      "year": 2018,
+      "genre": [
+        "Horror"
+      ],
+      "added": 1789371697,
+      "duration": 4800,
+      "adult": false,
+      "tmdb": "545612",
+      "imdb": "tt6993174"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/curse_of_the_nun/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Trust No. 1",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/oUqXKh4pa2vwoYof2HM4gjZ9s3k.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/44YmhAqinxm6gS70fpV9fOuHxY3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/44YmhAqinxm6gS70fpV9fOuHxY3.jpg",
+      "plot": "Officer Bradley investigates murders believed to be part of a serial killing and quickly learns it's much bigger. With the body count rising, and nothing adding up, he turns to his last resort for help, his brother.",
+      "cast": [
+        "Douglas Rouillard",
+        "Britton Purvis",
+        "Charles Justo",
+        "Ryan Rouillard",
+        "Michele Gomez",
+        "Michael Zammito",
+        "Scott D. Gold",
+        "Bradford Eckhart"
+      ],
+      "director": [
+        "Daron Niemerow"
+      ],
+      "rating": 5.9,
+      "year": 2019,
+      "genre": [
+        "Action"
+      ],
+      "added": 1789371697,
+      "duration": 5400,
+      "adult": false,
+      "tmdb": "595203",
+      "imdb": "tt6990224"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/trustno1/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Till Death Do us Apart",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/xcUSExwHtdoKKDdWVuWxi93RNfR.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/pmsl1615462997.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/pmsl1615462997.jpg",
+      "plot": "hirty years ago Karam Jindal together with his widowed mom, Gayatri, and wife, Sandhya, had immigrated to London, England. Shortly thereafter Gayatri gets cancer and tragically passes away. Then, Sandhya gives birth to two daughters, Anjali and Sanam. The Jindals accumulate wealth, and are now one of the wealthiest families' in London. Anjali gets married to Akash, while Sanam is on the look-out for her beau. With Karam's 60th birthday coming up, Anjali is busy with preparations for a grand party, while Sanam has already started with her make-up. Karam hopes to get Sanam married to Yash, his employee, who is like a son to him. Add to that is the inauguration of the \"Gayatri Jindal Cancer Hospital\" which is to be done on the same day.",
+      "cast": [
+        "Anupam Kher",
+        "Aftab Shivdasani",
+        "Shriya Saran",
+        "Indraneel",
+        "Rati Agnihotri",
+        "Rana Jung Bahadur"
+      ],
+      "director": [
+        "Anupam Sinha"
+      ],
+      "country": [
+        "India"
+      ],
+      "rating": 5.6,
+      "year": 2004,
+      "added": 1789371698,
+      "duration": 8220,
+      "adult": false,
+      "tmdb": "128488",
+      "imdb": "tt0435390"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/tilldeathdousapart/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Lease",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/mhInKZCOBgDqdStkJeeD2K0vro5.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/The_Lease/The_Lease_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/The_Lease/The_Lease_ta_1280.jpg",
+      "plot": "A woman in her forties tries to find her own place in life, having experienced many personal trials.",
+      "cast": [
+        "Marina Vildžiūnienė",
+        "Giedrė Kibarskienė",
+        "Linas Vildžiūnas",
+        "Aleksandras Kibarskis",
+        "Larisa Kalpokaitė",
+        "Tomas Tamošaitis",
+        "Elena Zalucka",
+        "Halina Poltavec",
+        "Alina Ageklan",
+        "Julija Skrulbytė"
+      ],
+      "director": [
+        "Kristijonas Vildžiūnas"
+      ],
+      "country": [
+        "Lithuania"
+      ],
+      "rating": 8.5,
+      "year": 2002,
+      "genre": [
+        "Drama"
+      ],
+      "added": 1789371699,
+      "duration": 4680,
+      "adult": false,
+      "tmdb": "604159",
+      "imdb": "tt0334027"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/content/p_55dkew0x/a.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Landlord",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/DoDKRMIRki2ft2D9bZGa1zzgVx.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/aY3LIWmAe1SW6OTPBOj4o9IPUMi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aY3LIWmAe1SW6OTPBOj4o9IPUMi.jpg",
+      "plot": "At the age of twenty-nine, Elgar Enders \"runs away\" from home. This running away consists of buying a building in a black ghetto in the Park Slope section of Brooklyn. Initially, his intention is to evict the black tenants and convert the building into a posh flat. But Elgar is not one to be bound by yesterday's urges, and soon he has other thoughts on his mind.",
+      "cast": [
+        "Beau Bridges",
+        "Lee Grant",
+        "Diana Sands",
+        "Pearl Bailey",
+        "Walter Brooke",
+        "Louis Gossett Jr.",
+        "Marki Bey",
+        "Mel Stewart",
+        "Susan Anspach",
+        "Robert Klein"
+      ],
+      "director": [
+        "Hal Ashby"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 6,
+      "year": 1970,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "added": 1789371700,
+      "duration": 6720,
+      "adult": false,
+      "tmdb": "64828",
+      "imdb": "tt0065963"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/content/p_1cbsxeso/a.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Immortal Wars",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/tVukY5NQBfIbDzpsiOOhnRWSH8X.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/zeJeSr9AyuOUZEaawv3Al1jNQ2W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zeJeSr9AyuOUZEaawv3Al1jNQ2W.jpg",
+      "plot": "Set in the future the world has been split into sectors, humans have captured deviants and force them to fight to the death. Madman Dominion Harvey hosts the immortal wars and televises the show to the entire planet. Trikalypse and fellow deviants will not only fight to survive, but to bring down Dominion Industries.",
+      "cast": [
+        "Eric Roberts",
+        "Tom Sizemore",
+        "Bill Oberst Jr.",
+        "Jackie Gerhardy",
+        "Mark Justice",
+        "Charlit Dae",
+        "Taylor Kilgore",
+        "Lindsey Cruz"
+      ],
+      "director": [
+        "Joe Lujan"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.188,
+      "year": 2017,
+      "genre": [
+        "Science Fiction",
+        "Action"
+      ],
+      "added": 1789371700,
+      "duration": 5520,
+      "adult": false,
+      "tmdb": "464850",
+      "imdb": "tt5259598"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/theimmortalwars/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Tail Sting",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/e3qRJrlw0q0DV1NeYgezCSoQYwv.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/7mSJNCGHzzayBifdjUtixI5hLYm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7mSJNCGHzzayBifdjUtixI5hLYm.jpg",
+      "plot": "A pack of massive genetically altered Scorpions escape containment on an airplane, turning passengers into victims and forcing one ordinary woman to confront her worst fears.",
+      "cast": [
+        "Laura Putney",
+        "Robert Merrill",
+        "Shirly Brener",
+        "Gulshan Grover",
+        "Tara Price",
+        "Jean Carol",
+        "Elizabeth Perry",
+        "Joe Boony",
+        "Guy Bracca",
+        "Conroe Brooks"
+      ],
+      "director": [
+        "Paul Wynne"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 3.4,
+      "year": 2001,
+      "genre": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "added": 1789371701,
+      "duration": 5820,
+      "adult": false,
+      "tmdb": "61698",
+      "imdb": "tt0290884"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/tailsting/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Stuntmen",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/5dqUUf9SlOy1dPIRMxWNJeiouh7.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/7zGnVZPbweF3UNPdGPLgCbqJfXR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7zGnVZPbweF3UNPdGPLgCbqJfXR.jpg",
+      "plot": "When the industry's two biggest stuntmen are nominated for Stuntman of the Year, an over-ambitious documentarian reignites a dormant rivalry between the two men that results in an all out press war.",
+      "cast": [
+        "Marc Blucas",
+        "Ross Patterson",
+        "Chris Tarantino",
+        "Dominique Swain",
+        "Carly Pope",
+        "Brandon Routh",
+        "Joel David Moore",
+        "Zachary Levi",
+        "Ray Wise",
+        "Timm Sharp"
+      ],
+      "director": [
+        "Eric Amadio"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 3.4,
+      "year": 2009,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "added": 1789371702,
+      "duration": 5400,
+      "adult": false,
+      "tmdb": "21178",
+      "imdb": "tt1230214"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/stuntmen/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Stealing Las Vegas",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/werXyuUoE6zFFl7yAHZ1o6a1Nvo.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/l1NEB2zEEMWOUF6RSUoJpnXTlVG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l1NEB2zEEMWOUF6RSUoJpnXTlVG.jpg",
+      "plot": "After a greedy Las Vegas casino owner steals his employee's pension funds, the staff teams up to pull off a heist with a twist.",
+      "cast": [
+        "Eric Roberts",
+        "Antonio Fargas",
+        "Ethan Landry",
+        "Anabella Casanova",
+        "Eloy Méndez",
+        "Kristen Terry",
+        "Labrandon Shead",
+        "Sergiu Iva",
+        "Nate Bynum",
+        "Michael Tylo"
+      ],
+      "director": [
+        "Francisco Menéndez"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.1,
+      "year": 2012,
+      "genre": [
+        "Thriller"
+      ],
+      "added": 1789371702,
+      "duration": 5220,
+      "adult": false,
+      "tmdb": "132457",
+      "imdb": "tt1836926"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/marathi/stealinglasvegas/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Skybound",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/s6Hhs4XnJfwPGrZ51klFw5XK2Xz.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/rPWu6jHHfBjBcf4obpThi2wRwEZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rPWu6jHHfBjBcf4obpThi2wRwEZ.jpg",
+      "plot": "Five friends on a small airplane mysteriously lose their radio connection on a trip from New York to LA. As they continue their flight, they're forced to assume that a major disaster happened on the ground. They discover a stowaway, Erik, who urges them not to land at any cost. Before they run out of fuel, they must find out the truth.",
+      "cast": [
+        "Scarlett Hefner",
+        "Gavin Stenhouse",
+        "Rick Cosnett",
+        "Tyler Fayose",
+        "Carla Carolina Pimentel",
+        "Morten Suurballe",
+        "Lars Walther"
+      ],
+      "director": [
+        "Alex Tavakoli"
+      ],
+      "country": [
+        "Germany"
+      ],
+      "rating": 4.808,
+      "year": 2017,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "added": 1789371703,
+      "duration": 4920,
+      "adult": false,
+      "tmdb": "472921",
+      "imdb": "tt2560792"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/Skybound/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Scourge",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/85ATyd5A3SAyHtWTuxNBuW3BYCR.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/6E91q6VhpVpBuS7ZYwa1yHelfY5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6E91q6VhpVpBuS7ZYwa1yHelfY5.jpg",
+      "plot": "The ancient creature, The Scourge, long confined in a church, wreaks havoc in a small town. Bodies accumulate as Scott and Jessie, rekindling their love, become the town's last defense against the unleashed menace.",
+      "cast": [
+        "Robyn Ledoux",
+        "Nic Rhind",
+        "Russell Ferrier",
+        "Jason Harder",
+        "Marina Pasqua",
+        "Alan Legros",
+        "Hugh Anderson",
+        "Mensah Iruoje",
+        "Paul Vigano",
+        "Russ Ball"
+      ],
+      "director": [
+        "Jonas Quastel"
+      ],
+      "country": [
+        "Canada",
+        "United States of America"
+      ],
+      "rating": 4.3,
+      "year": 2008,
+      "genre": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "added": 1789371704,
+      "duration": 5520,
+      "adult": false,
+      "tmdb": "16925",
+      "imdb": "tt1137477"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/scourage/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Retina",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/6p8OUn2NdOGVKpEdRV8Y6U4jQWe.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/cmCeea5QqNeqvrkO20qfceh6h5F.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cmCeea5QqNeqvrkO20qfceh6h5F.jpg",
+      "plot": "A young woman participates in a medical study. After a series of nightmares and unusual side effects, the line between dreams and reality is blurred. She finds herself on the run from those involved, desperate to uncover the truth.",
+      "cast": [
+        "Lindsay Goranson",
+        "Gary Swanson",
+        "Ron Haxton",
+        "Ian Temple",
+        "Joshua Jenks",
+        "Jared Slade Goldman",
+        "Amber Bogdewiecz",
+        "Christine Gonzalez"
+      ],
+      "director": [
+        "Carlos Ferrer"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.139,
+      "year": 2017,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "added": 1789371705,
+      "duration": 5220,
+      "adult": false,
+      "tmdb": "523792",
+      "imdb": "tt1225856"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/retina/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Oy Vey My Son Is Gay",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/1aP1xTOWG8KUP4t96DmcdYwz17D.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/zOSm5maxen4KzTXFNpipVNBv3F6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zOSm5maxen4KzTXFNpipVNBv3F6.jpg",
+      "plot": "Nelson and Angelo, a gay couple, decide to come out to their parents. However, when they do so, their parents find it difficult to cope with the news.",
+      "cast": [
+        "Lainie Kazan",
+        "Saul Rubinek",
+        "Vincent Pastore",
+        "John Lloyd Young",
+        "Jai Rodriguez",
+        "Bruce Vilanch",
+        "Carmen Electra",
+        "Shelly Burch",
+        "Stanislav 'Slava' Medvedenko",
+        "Alexandra Mamaliger"
+      ],
+      "director": [
+        "Evgeny Afineevsky"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.031,
+      "year": 2010,
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "added": 1789371705,
+      "duration": 5400,
+      "adult": false,
+      "tmdb": "270650",
+      "imdb": "tt1223082"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/oyveymysonisgay/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Ouija House",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/meXl6V5ifDJsiOGCZGOeu4N5rGX.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/aR995Sqw0GcOzmQxNiBGuLukOYW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aR995Sqw0GcOzmQxNiBGuLukOYW.jpg",
+      "plot": "A graduate student, who is trying to finish the last of her research on a book project that she hopes will help her down-on-her-luck mother, brings friends to a house with a dark past, where they soon unwittingly summon an evil entity who makes the house part of its game…",
+      "cast": [
+        "Mischa Barton",
+        "Tara Reid",
+        "Carly Schroeder",
+        "Dee Wallace",
+        "Chris Mulkey",
+        "Mark Grossman",
+        "Grace Demarco",
+        "Derrick A. King",
+        "Justin Hawkins",
+        "Tiffany Shepis"
+      ],
+      "director": [
+        "Ben Demaree"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.283,
+      "year": 2018,
+      "genre": [
+        "Horror"
+      ],
+      "added": 1789371706,
+      "duration": 5700,
+      "adult": false,
+      "tmdb": "501851",
+      "imdb": "tt7375304"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/ouijahouse/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Jack Hunter : The Lost Treasure Of The Ugarit",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/q2NdUrQrkIfjYPShFuHxsvpe9mY.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/bSB8HQc01JHXQ1hvypnWIlJKFqL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bSB8HQc01JHXQ1hvypnWIlJKFqL.jpg",
+      "plot": "Jack Hunter, an adventurous treasure seeker, goes to Syria after his mentor and father figure Professor Fredrick Shaffer is killed. Professor Frederick Shaffer believed that the people of Ugarit, a town in Syria that existed during the Pharoah’s reign, had buried a treasure before they were wiped out by the Pharoahs. Jack Hunter is one of the few archaeologists in the world who can interpret Ugarit writings",
+      "cast": [
+        "Ivan Sergei",
+        "Joanne Kelly",
+        "Thure Riefenstein",
+        "Susan Ward",
+        "Mario Naim Bassil",
+        "Sean Lawlor",
+        "Muhammed Cangören",
+        "Hakan Silahsizoglu",
+        "Birol Tarkan Yıldız",
+        "Michael Halphie"
+      ],
+      "director": [
+        "Terry Cunningham"
+      ],
+      "country": [
+        "United States of America",
+        "Turkey"
+      ],
+      "rating": 6.4,
+      "year": 2010,
+      "genre": [
+        "Adventure",
+        "Action"
+      ],
+      "added": 1789371707,
+      "duration": 5880,
+      "adult": false,
+      "tmdb": "45611",
+      "imdb": "tt1412353"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/JackHunterAndTheLostTreasureOfUgarit/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Iron Fan",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Iron_Fan/Iron_Fan_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Iron_Fan/Iron_Fan_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Iron_Fan/Iron_Fan_ta_1280.jpg",
+      "plot": "Alternative English titles: Princess Iron-Fan, The Princess with the Iron Fan  Co-producer/visuals editor: Erien Joe'lle Davis (yyyoungcut)  Producer: S.K. Chang (Zhang Shankun)  Screenplay: Wang Qianbai  Lead animators: Wan Laiming and Wan Guchan  Studio: China United Film Co. (Zhongguo lianhe yingye gongsi)  Year of release: 1941  English subtitles translated by Christopher Rea",
+      "rating": 0,
+      "added": 1789371708,
+      "duration": 6600,
+      "adult": false,
+      "tmdb": "1044118"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/ironfan/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Inalienable",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/Lx4xVtPFlujTWdyrweYvp0r4Yg.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Inalienable/Inalienable_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Inalienable/Inalienable_ta_1280.jpg",
+      "plot": "Still guilt-ridden over the accident that took his family's lives, Eric Norris discovers that his body is host to a parasite from another world. Except, it is more than a parasite: it carries his DNA.",
+      "cast": [
+        "Richard Hatch",
+        "Walter Koenig",
+        "Alan Ruck",
+        "Erick Avari",
+        "Andrew Koenig",
+        "Priscilla Garita",
+        "Courtney Peldon",
+        "Patricia Tallman",
+        "Philip Anthony-Rodriguez",
+        "Jett Patrick"
+      ],
+      "director": [
+        "Robert Dyke"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 3.1,
+      "year": 2008,
+      "genre": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "added": 1789371708,
+      "duration": 6360,
+      "adult": false,
+      "tmdb": "49230",
+      "imdb": "tt1027874"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/inalienable/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "How To Train Your Husband",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/zld9o6ENdIUX4uVzkO98tA05dol.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/8P8Iwvygx2mo4B5ufUrFoZKK6T5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8P8Iwvygx2mo4B5ufUrFoZKK6T5.jpg",
+      "plot": "A marriage therapist attempts to fix her own marriage by focusing on how to change her husband.",
+      "cast": [
+        "Julie Gonzalo",
+        "Jonathan Chase",
+        "Karla Mosley",
+        "Andre Hall",
+        "Peri Gilpin",
+        "Forbes Riley",
+        "Jordan Monaghan",
+        "D.L. Anderson",
+        "Paul Kandarian",
+        "Brian Chamberlain"
+      ],
+      "director": [
+        "Sandra L. Martin"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 6.146,
+      "year": 2018,
+      "genre": [
+        "Romance",
+        "Comedy",
+        "TV Movie"
+      ],
+      "added": 1789371709,
+      "duration": 5160,
+      "adult": false,
+      "tmdb": "531712",
+      "imdb": "tt5866442"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/howtotrainyourhusband/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Hacker",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/gpYwKrP6s749b5Nzgm2174jKrpf.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/g0JyeAe7kcsXyFWEv8Axa49yBRJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g0JyeAe7kcsXyFWEv8Axa49yBRJ.jpg",
+      "plot": "Alex, an immigrant from Ukraine comes to Canada and becomes involved with an online criminal organization called Darkweb. What starts off as a way to help his parents financially, soon becomes a personal vendetta against the entire banking system, when his mother is fired from her job at the bank",
+      "cast": [
+        "Callan McAuliffe",
+        "Lorraine Nicholson",
+        "Daniel Eric Gold",
+        "Clifton Collins Jr.",
+        "Zachary Bennett",
+        "Kristian Truelsen",
+        "Vlada Verevko",
+        "Genadijs Dolganovs",
+        "Randy Thomas",
+        "Greg Hovanessian"
+      ],
+      "director": [
+        "Akan Satayev"
+      ],
+      "country": [
+        "Canada",
+        "Kazakhstan",
+        "Hong Kong",
+        "Thailand",
+        "United States of America"
+      ],
+      "rating": 6.273,
+      "year": 2016,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "added": 1789371710,
+      "duration": 5700,
+      "adult": false,
+      "tmdb": "413052",
+      "imdb": "tt3173594"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/content/p_3qotc87q/a.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Guardians",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/sGHAoGdxD9CeJxr1mvKHjgt8eqj.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/3yBBjRBnw5WTdh936iaTCY9Em9K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3yBBjRBnw5WTdh936iaTCY9Em9K.jpg",
+      "plot": "During the Cold War, an organization called \"Patriot\" created a superhero squad, which includes members of multiple Soviet republics. For years, the heroes had to hide their identities, but, in hard times, they must show themselves again.",
+      "cast": [
+        "Anton Pampushnyy",
+        "Sanzhar Madi",
+        "Sebastien Sisak",
+        "Alina Lanina",
+        "Valeriya Shkirando",
+        "Vyacheslav Razbegaev",
+        "Nikolay Shestak",
+        "Vladimir Butenko",
+        "Stanislav Shirin",
+        "Aleksandr Semyonov"
+      ],
+      "director": [
+        "Sarik Andreasyan"
+      ],
+      "country": [
+        "Russia",
+        "United States of America"
+      ],
+      "rating": 5.013,
+      "year": 2017,
+      "genre": [
+        "Science Fiction",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Thriller"
+      ],
+      "added": 1789371711,
+      "duration": 5340,
+      "adult": false,
+      "tmdb": "354556",
+      "imdb": "tt4600952"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/guardians/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Flight 192",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/3CBzv3O026kTkvznurL8lW30QW5.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Flight_192/Flight_192_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Flight_192/Flight_192_ta_1280.jpg",
+      "plot": "A film by Walter Mittelholzer, shot during a flight from Zurich to Teheran he made on business in 1924 for the Junkers factories, a German manufacturer of planes and motors.",
+      "director": [
+        "Walter Mittelholzer"
+      ],
+      "country": [
+        "Switzerland"
+      ],
+      "rating": 0,
+      "year": 1925,
+      "genre": [
+        "Documentary"
+      ],
+      "added": 1789371712,
+      "duration": 4380,
+      "adult": false,
+      "tmdb": "834508",
+      "imdb": "tt14769714"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/content/p_ukz3sn61/a.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Egg",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Egg/Egg_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Egg/Egg_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/Egg/Egg_ta_1280.jpg",
+      "plot": "‘Egg’ is an absurd comedy about friendship and expecting the unexpected.  Ivy and Margaret meet for tea, same time, same place, everyday.  But today Ivy has some important news…  From first time director Alice Trueman and starring Sally Phillips (Bridget Jones's Diary, Miranda, Smack The Pony) and Kiki Kendrick (The Nine Lives of Thomas Katz).",
+      "cast": [
+        "Sally Phillips",
+        "Kiki Kendrick"
+      ],
+      "director": [
+        "Alice Trueman"
+      ],
+      "country": [
+        "United Kingdom"
+      ],
+      "rating": 6,
+      "year": 2016,
+      "genre": [
+        "Comedy"
+      ],
+      "added": 1789371712,
+      "duration": 240,
+      "adult": false,
+      "tmdb": "408017",
+      "imdb": "tt4313550"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/egg/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "The Duplicate",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/ktmMo8n2qiY0ZP5PB8kjUQ7x47i.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/6vYs1leDfWFqujRfQD5dpsy9fnx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6vYs1leDfWFqujRfQD5dpsy9fnx.jpg",
+      "plot": "Journalist Karen Addams is fighting to keep her sanity -- it appears someone else has assumed her identity and is living her life better than she ever could. Losing a grip on her romance, her career and her friendships, Karen struggles to get her life back by exposing the impostor. But things take an unexpected turn when she discovers the true enemy is within herself!",
+      "cast": [
+        "Tiffany Paige",
+        "Trey Alexander",
+        "Nicholl Hiren",
+        "Harold Cannon",
+        "James E. Hurd Jr.",
+        "Brian Vermeire",
+        "Tim Coyne",
+        "Jonathan Parlow"
+      ],
+      "director": [
+        "Michael Winnick"
+      ],
+      "rating": 4,
+      "year": 2001,
+      "genre": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "added": 1789371713,
+      "duration": 5400,
+      "adult": false,
+      "tmdb": "64859",
+      "imdb": "tt0297080"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/content/p_lntxl5vs/a.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Dragon Kingdom",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/4kWGZYrTqBRsPIsnZmV3DzJtTi9.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/jhpsTzbXEu5bkCPmBqxv7vUTjIT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jhpsTzbXEu5bkCPmBqxv7vUTjIT.jpg",
+      "plot": "To save their Kingdom from an army of undead, a group of warriors must travel through the forbidden lands fighting the fearsome beasts that call The Dark Kingdom their home.",
+      "cast": [
+        "Ross O'Hennessy",
+        "Ben Loyd-Holmes",
+        "Rebecca Dyson-Smith",
+        "Zara Phythian",
+        "Jemma Moore",
+        "Mike Mitchell",
+        "Jon-Paul Gates",
+        "Yolanda Lynes",
+        "Chris Bell",
+        "Cheryl Burniston"
+      ],
+      "director": [
+        "Simon Wells"
+      ],
+      "country": [
+        "United Kingdom"
+      ],
+      "rating": 5.7,
+      "year": 2018,
+      "genre": [
+        "Fantasy",
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "added": 1789371714,
+      "duration": 5100,
+      "adult": false,
+      "tmdb": "566810",
+      "imdb": "tt6603378"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/dragonkingdom/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Dead Mans Cards",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/pFcDqT9NgQHwORfSY7jOe8n10cm.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/xZKQSFQrUtEmVgL0QqdBMgpnakZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xZKQSFQrUtEmVgL0QqdBMgpnakZ.jpg",
+      "plot": "Ex Boxer Tom is on the ropes, when a chance encounter at the gym leads to the offer of work as a doorman at a run down nightclub. The volatile head doorman Paul, is a battle hardened veteran from the old school. Recognising Tom for the fighter that he once was, Paul takes him under his wing, and guides him through the ins and outs of life as a club land \"peacekeeper.\"",
+      "cast": [
+        "Paul Barber",
+        "Tom Bell",
+        "Samantha Womack",
+        "Gary Mavers",
+        "James McMartin",
+        "Lisa Parry",
+        "Mark Russell",
+        "Andrew Schofield",
+        "Andrew Simister",
+        "Vinnie Adams"
+      ],
+      "director": [
+        "James Marquand"
+      ],
+      "country": [
+        "United Kingdom"
+      ],
+      "rating": 6.25,
+      "year": 2006,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "added": 1789371714,
+      "duration": 5400,
+      "adult": false,
+      "tmdb": "13718",
+      "imdb": "tt0455933"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/deadmanscards/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "City of Gold",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/City_of_Gold/City_of_Gold_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/City_of_Gold/City_of_Gold_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/Movie/tamil/City_of_Gold/City_of_Gold_ta_1280.jpg",
+      "cast": [
+        "Vikram Prabhu",
+        "Shivathmika",
+        "Amala Shaji",
+        "Jaffer Idukki",
+        "Alencier Ley Lopez",
+        "G. M. Sundar",
+        "Raahul",
+        "Sunil Sukhada",
+        "N. Azhagamperumal",
+        "Maurish Dass"
+      ],
+      "director": [
+        "Siddharth"
+      ],
+      "country": [
+        "India"
+      ],
+      "rating": 0,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "added": 1789371715,
+      "adult": false,
+      "tmdb": "1719756",
+      "imdb": "tt41958670"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/cityofgold/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Born To Race : Fast Track",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/sYYQ9kS6Twvt0UcjxGLmBcq5k11.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/57JIik4WQJ4SFUgRm7q6X6USlSF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/57JIik4WQJ4SFUgRm7q6X6USlSF.jpg",
+      "plot": "Danny Krueger is a twenty-year old drag racer who plays by his own rules. After winning a scholarship to the prestigious Fast Lane Racing Academy, Danny finds himself competing against some of the fiercest young drivers in the world. Tension soars on and off the track, and a terrible incident leaves Danny without a racing partner. Facing dismissal from the academy, Danny is forced to team up with an old rival. The pair must learn to set aside their differences as they vie for rookie spots on a professional racing team.",
+      "cast": [
+        "Beau Mirchoff",
+        "Brett Davern",
+        "Bill Sage",
+        "Sharon Lawrence",
+        "Nicole Badaan",
+        "Tiffany Dupont",
+        "Steve Bond",
+        "Corbin Bernsen",
+        "Grant Show",
+        "Diogo Morgado"
+      ],
+      "director": [
+        "Alex Ranarivelo"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 6.5,
+      "year": 2014,
+      "genre": [
+        "Action"
+      ],
+      "added": 1789371716,
+      "duration": 5640,
+      "adult": false,
+      "tmdb": "213927",
+      "imdb": "tt2547210"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/fasttrack/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Born To Race",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/Aamkezlj7SEpzdxa84GLvvmgTqq.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/5Zo061yGByf5cDuUjfJTpfohWUp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Zo061yGByf5cDuUjfJTpfohWUp.jpg",
+      "plot": "Danny Krueger is a rebellious young street racer on a collision course with trouble. After an accident at an illegal race, he's sent to a small town to live with his estranged father, a washed up NASCAR racer. When Danny decides to enter the NHRA High School Drags, he's forced to seek his father's help in taking down the local hotshot.",
+      "cast": [
+        "Joseph Cross",
+        "John Pyper-Ferguson",
+        "Brando Eaton",
+        "Nicole Badaan",
+        "Sherry Stringfield",
+        "Sara Swain",
+        "Christina Moore",
+        "Diogo Morgado",
+        "Grant Show",
+        "Walter Perez"
+      ],
+      "director": [
+        "Alex Ranarivelo"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 6.948,
+      "year": 2011,
+      "genre": [
+        "Action"
+      ],
+      "added": 1789371717,
+      "duration": 5940,
+      "adult": false,
+      "tmdb": "74523",
+      "imdb": "tt1781781"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/borntorace/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Black",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/5Af8qDOesFEspcnsjIRUDwQZaYQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Af8qDOesFEspcnsjIRUDwQZaYQ.jpg",
+      "plot": "A routine domestic flight turns into the flight from hell through a series of inexplicable phenomena and raw terror. Surreal encounters blur the boundaries between reality and nightmare. Passengers fight against all the odds in an attempt to survive while combating bizarre technological malfunctions, accelerating supernatural events and alien influences.",
+      "cast": [
+        "Tom Brittney",
+        "Holly White",
+        "Betsy Blue-English",
+        "Dane Whyte O'Hara",
+        "Kaja Chan",
+        "Georgina Leonidas",
+        "Hanneke Talbot",
+        "Anton Trendafilov",
+        "Asa Ali",
+        "Boadicea Ricketts"
+      ],
+      "director": [
+        "Steven Quale"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 6.052,
+      "year": 2026,
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "added": 1789371717,
+      "duration": 5100,
+      "adult": false,
+      "tmdb": "1321008",
+      "imdb": "tt32315584"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/black/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Anti Matter",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/9DUCdQ4rGn7uoJZcBqNehV5DeXG.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/d6NHilDfaYgkyqEvP9KEvhxx9o9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/d6NHilDfaYgkyqEvP9KEvhxx9o9.jpg",
+      "plot": "Oxford PhD student Ana finds herself unable to build new memories, following an experiment to generate and travel through a wormhole. The story follows her increasingly desperate efforts to understand what happened, and to find out who—or what—is behind the rising horror in her life.",
+      "cast": [
+        "Yaiza Figueroa",
+        "Philippa Carson",
+        "Tom Barber-Duffy",
+        "Noah Maxwell Clarke",
+        "James Farrar",
+        "Yolanda Vazquez",
+        "Casey Lawler",
+        "Harrie Hayes"
+      ],
+      "director": [
+        "Keir Burrows"
+      ],
+      "country": [
+        "United Kingdom"
+      ],
+      "rating": 5.733,
+      "year": 2016,
+      "genre": [
+        "Science Fiction"
+      ],
+      "added": 1789371718,
+      "duration": 6540,
+      "adult": false,
+      "tmdb": "429101",
+      "imdb": "tt4881364"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/antimatter/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "A Night To Regret",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/4vcKYdQOaovsbphSWDdyJ3EO6f3.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/yhdSh7mvu8k09zSprYrhWgSl7Yd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yhdSh7mvu8k09zSprYrhWgSl7Yd.jpg",
+      "plot": "When Chelsea meets up with her estranged childhood best friend, Milla, she's unprepared for the events that follow. Milla, who is now a webcam girl briefly catches Chelsea on camera during one of her shows. Unbeknownst to her, Chelsea has now been exposed to a watcher who becomes obsessed and will stop at nothing to have her to himself.",
+      "cast": [
+        "Marguerite Moreau",
+        "Mollee Gray",
+        "Kevin McNamara",
+        "Kirsten Pfeiffer",
+        "Gigi Zumbado",
+        "Rory Gibson",
+        "Jeremy John Wells",
+        "Tyler Sellers",
+        "Tina Huang",
+        "Rebecca Tudor"
+      ],
+      "director": [
+        "Tom Shell"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "rating": 5.9,
+      "year": 2018,
+      "genre": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "added": 1789371719,
+      "duration": 5340,
+      "adult": false,
+      "tmdb": "532886",
+      "imdb": "tt7620746"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/movie/tamil/antimatter/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Asurado in Tamil",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Asurado/Asurado_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Asurado/Asurado_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Asurado/Asurado_ta_1280.jpg",
+      "added": 1789371719
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/korean/Movie/Tamil/Asurado/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Deep Trap in Tamil",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Deep_Trap/Deep_Trap_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Deep_Trap/Deep_Trap_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Deep_Trap/Deep_Trap_ta_1280.jpg",
+      "added": 1789371720
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/korean/Movie/Tamil/Deep_Trap/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "My Chilling Roommate (Tamil)",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/zz7xXkzfe68HXGEi2E8y40or9kJ.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/dHUqFj13eFSrRlRl1QRASBFrUr5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dHUqFj13eFSrRlRl1QRASBFrUr5.jpg",
+      "plot": "Ghost Ji Chan, who has lost all his memories, asks for help to Jung Se Ri, who can hear him.  Jung Se Ri agrees to help him to keep some distance from Ji Chan.  Jung Se Ri and Ji Chan tracks back on his memory to find Ji Chan's lost memories.  In that process, the truth about Ji Chan's death is revealed.  An emotion of love blooms amidst Ji Chan's agony and Jung Se Ri's consolation...  Somewhere between horror and romance.",
+      "cast": [
+        "Chanwoo",
+        "Sowon",
+        "Lee Yu-jin",
+        "Song Young-sook",
+        "Park Eun-woo",
+        "Kim Ye-ji"
+      ],
+      "director": [
+        "Hwang Kyung-sung"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "rating": 5,
+      "year": 2022,
+      "genre": [
+        "Horror",
+        "Comedy",
+        "Romance"
+      ],
+      "added": 1789371720,
+      "duration": 6720,
+      "adult": false,
+      "tmdb": "996827",
+      "imdb": "tt32606311"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/korean/Movie/Tamil/My_Chilling_Roomate/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Murderer in Tamil",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Murderer/Murderer_ta_1280.jpg",
+      "bg": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Murderer/Murderer_ta_1280.jpg",
+      "backdrop": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/thumbnails/korean/movies/tamil/Murderer/Murderer_ta_1280.jpg",
+      "added": 1789371721
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/korean/Movie/Tamil/Murderer/master.m3u8",
+    "source-format": "hls"
+  },
+  {
+    "name": "Rules of the Game: Manhunt (Tamil)",
+    "category": {
+      "name": "Playflix",
+      "icon": "https://raw.githubusercontent.com/qwerty180506/nuvio-badge/refs/heads/main/playflix.png.png"
+    },
+    "type": "movie",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/mLVGHXHHoOV6fGdro0XwdiTPTJ3.jpg",
+      "bg": "https://image.tmdb.org/t/p/w1280/mTB7H4ceABGSubuKF1RbJClwBNl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mTB7H4ceABGSubuKF1RbJClwBNl.jpg",
+      "plot": "Jeong-hwan who has a secret past, faces another group of tourists on a remote island he visited to clean up his past.  In the guest house where everyone stays together, Jeong-hwan feels a strange atmosphere alone and is wary of the guest house’s owner and finds himself as their target.  The moment he managed to escape from a dangerous situation, he struggles against another mysterious existence.  As soon as he dig up the dangerous secrets of the island, the pursuit of madness begins!",
+      "cast": [
+        "Kim Sung-su",
+        "Jo Kyoung-hoon",
+        "Seo Yeong",
+        "Kim Se-hee",
+        "Yoo Ji-yong"
+      ],
+      "director": [
+        "Lee Soo-sung"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "rating": 3.5,
+      "year": 2021,
+      "genre": [
+        "Thriller"
+      ],
+      "added": 1789371721,
+      "duration": 5040,
+      "adult": false,
+      "tmdb": "785507",
+      "imdb": "tt32150254"
+    },
+    "video": "https://playflix-ottp.dlt.qwilted-cds.cqloud.com/onetake/playflix/new_content/korean/Movie/Tamil/Rule_of_the_Game_Manhunt/master.m3u8",
+    "source-format": "hls"
   }
 ]
