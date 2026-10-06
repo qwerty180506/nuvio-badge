@@ -2,10 +2,12 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ae2830f8542af148444a5aa5cbf3658:eaeb6c2b62917deec7c105ea96a40fda,5a9eed492ee8cb2224c2c4582bc29fcd:cf942c38d35fa7d22eab88f3032cff01,0965af55dde7e9ed3b81eb804ab44823:c9a5a6d21cf0d10090bc2616a2284f3c,88c34f6657706c18686493e5e5985841:d06ac4e51bc20fa822228309e517dfe9,78c389a68fdfd41924e4fac6b32a03c1:6a5c418f255f8fbd4098d8d030c1d4e0
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/CloudPlay(CloudPlay;JioSTB) JioTvPlus-AndroidTv https://tivi.sivastores.workers.dev/jiotvplus/?id=1356
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/CloudPlay(CloudPlay;JioSTB) JioTvPlus-AndroidTv
+https://tivi.sivastores.workers.dev/jiotvplus/?id=1356
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/77/62/304101_1768463268136_l_medium.jpg",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1ae2830f8542af148444a5aa5cbf3658","k":"eaeb6c2b62917deec7c105ea96a40fda"},{"kty":"oct","kid":"5a9eed492ee8cb2224c2c4582bc29fcd","k":"cf942c38d35fa7d22eab88f3032cff01"},{"kty":"oct","kid":"0965af55dde7e9ed3b81eb804ab44823","k":"c9a5a6d21cf0d10090bc2616a2284f3c"},{"kty":"oct","kid":"88c34f6657706c18686493e5e5985841","k":"d06ac4e51bc20fa822228309e517dfe9"},{"kty":"oct","kid":"78c389a68fdfd41924e4fac6b32a03c1","k":"6a5c418f255f8fbd4098d8d030c1d4e0"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/CloudPlay(CloudPlay;JioSTB) JioTvPlus-AndroidTv https://tivi.sivastores.workers.dev/jiotvplus/?id=1356
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/CloudPlay(CloudPlay;JioSTB) JioTvPlus-AndroidTv
+https://tivi.sivastores.workers.dev/jiotvplus/?id=1356
